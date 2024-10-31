@@ -1,0 +1,506 @@
+html, body, div, h1, h2, h3, h4, h5, h6, p, a, img, ul, li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-family: 'Playfair Display', serif;
+}
+
+html::-webkit-scrollbar {
+    display: none; 
+}
+
+html, body {
+    background-color: rgb(0, 0, 0); /* Choose any color you'd like */
+    margin: 0;
+    padding: 0;
+}
+
+
+header.home {
+    height: 100vh;
+    background-image: 
+    linear-gradient(to bottom, rgb(0, 0, 0, 0.9), rgba(0, 0, 0, 0) 200px),
+    url('perfumewebbg.JPG');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 10;
+}
+
+
+header .container {
+    margin: 5vh;
+}
+
+#main-navigation {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    position: relative;
+    z-index: 11;
+}
+
+#main-navigation ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    gap: 15px;
+}
+
+#main-navigation li a {
+    font-size: 1.4rem;
+    color: #ffffff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#main-navigation li a:hover {
+    background-color: rgba(255, 255, 255, 0.2); 
+}
+
+.text-container {
+    position: relative; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 16vh;
+}
+
+.background-image {
+    width: 1000px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 15px;
+    border: 5px solid #ffffff;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);
+    position: relative;
+    z-index: 1;
+}
+
+header h1 {
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 7px;
+    color: #ffffff;
+    position: absolute;
+    top: 48%; 
+    left: 30%; 
+    transform: translate(-50%, -50%);
+    z-index: 2;  
+}
+
+#searchBox {
+    width: 98%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+#blendSearchBox {
+    width: 98%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+#materialsList {
+    list-style-type: none;
+    display: block;
+}
+
+.material-item {
+    margin-bottom: 10px;
+}
+
+.material-header {
+    background-color: #f6f6f6; /* Make headers semi-transparent */
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 22px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.material-header:hover {
+    background-color: #d1d1d1;
+    cursor: pointer;
+}
+
+.material-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: ease-in-out 0.35s;
+    background-color: rgba(122, 122, 122, 0.15);
+    border-radius: 8px;
+    margin: 0px 10px 10px 10px;
+}
+
+.material-item.active .material-content {
+    max-height: 1000px; /* Adjust to fit the content */
+}
+
+
+.material-content img {
+    max-width: 500px;
+    float: left;
+    border-radius: 10px;
+    margin: 10px 15px 10px 10px;
+}
+
+.material-content p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+
+}
+
+.textmargin {
+    margin: 10px 15px 5px 15px;
+}
+
+.overlay-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin: 19vh 0 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    flex-direction: column;
+}
+
+.materials {
+    width: 60%; /* Set desired width as a percentage of the viewport width */ /* Optional: Set a max-width to avoid excessive stretching on larger screens */
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);
+    pointer-events: auto;
+    margin: 10px;
+    position: relative;
+    z-index: 120;
+    
+}
+
+.materials h1 {
+    margin: 0 0 20px 0;
+    font-size: 35px;
+    font-family: 'Playfair Display', serif;
+}
+
+#addMaterialButton a {
+    font-size: 1.15rem;
+    color: #ffffff;
+    padding: 5px 10px;
+    border: 2px solid #ffffff;
+    border-radius: 50px;
+    transition: background 0.3s ease;
+    text-decoration: none;
+    text-transform: uppercase;
+    pointer-events: auto;
+    background-color: rgba(0, 0, 0, 0.7);
+    text-shadow: 0px 4px 15px black;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+}
+
+#addMaterialButton {
+    margin: 0 0 20px 0;
+}
+
+#addMaterialButton a:hover {
+    background-color: rgba(0, 0, 0, 0.3); 
+}
+
+/* Styling the form within .materials container */
+#newMaterialForm {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 12px; /* Spacing between form elements */
+}
+
+#newMaterialForm label {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+
+#newMaterialForm input[type="text"],
+#newMaterialForm textarea {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+#newMaterialForm textarea {
+    resize: vertical; /* Allow vertical resize only */
+    min-height: 80px; /* Set a comfortable height */
+}
+
+#newMaterialForm button {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #333;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-transform: uppercase;
+}
+
+#newMaterialForm button:hover {
+    background-color: #555;
+}
+
+#newMaterialForm select#materialType {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.8);
+    cursor: pointer;
+    appearance: none; /* Removes default styling for dropdowns in some browsers */
+}
+
+#newMaterialForm select#materialType:focus {
+    outline: none;
+    border-color: #333;
+}
+
+#material-inputs {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#material-select, #percentage-input, #gram-input, #batch-size {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 100%;
+}
+
+#add-material {
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+    font-size: 1rem;
+    background-color: #333;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#add-material:hover {
+    background-color: #555;
+}
+
+/* Center and style the Add Another Material button similarly to the Naturals page */
+#addMaterialButton {
+    text-align: center;
+    margin: 20px;
+}
+
+#addMaterialButton a {
+    font-size: 1.15rem;
+    color: #ffffff;
+    padding: 8px 16px;
+    border: 2px solid #ffffff;
+    border-radius: 50px;
+    transition: background 0.3s ease;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: rgba(0, 0, 0, 0.7);
+    text-shadow: 0px 4px 15px black;
+    letter-spacing: 2px;
+}
+
+#addMaterialButton a:hover {
+    background-color: rgba(0, 0, 0, 0.3); 
+}
+
+
+
+/* Form fields styling adjustments */
+.materials label {
+    font-size: 1.4rem;
+    color: #000000;
+    display: inline-block;
+    
+}
+
+.materials input[type="text"],
+.materials input[type="number"] {
+    font-size: 1rem;
+    padding: 8px;
+    width: 98%;
+    margin: 5px 0 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.95);
+    color: #333;
+}
+
+.materials button {
+    font-size: 1rem;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 15px;
+    display: flex;
+    position: relative;
+    margin-left: 2.5vh;
+}
+
+.materials button:hover {
+    background-color: #555;
+}
+
+/* Style the progress bar */
+.progress-bar {
+    width: 99%;
+    background-color: rgb(0, 0, 0, 0.1);
+    height: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.progress {
+    height: 100%;
+    transition: width 0.3s ease;
+}
+
+.progress.green { background-color: #76c7c0; }
+.progress.max-green { background-color: #4CAF50; }
+.progress.red { background-color: #ff4d4d; }
+
+/* Styling the percentage meter */
+.percentage-meter {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Lora', serif; 
+}
+
+/* Style the material list */
+.material-list {
+    width: 96%;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 5px;
+    padding: 5px 20px 20px 20px;
+    border: 1px solid #ccc;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.material-list div {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    text-align: center;
+    color: black;
+    border-radius: 4px;
+    font-family: 'Lora', serif; 
+    font-size: 1.0555555em; 
+    color: #333;
+}
+
+
+.material-list button {
+    background-color: transparent;
+    border: 1px solid #333;
+    border-radius: 4px;
+    padding: 2px 6px;
+    font-size: 0.9em;
+    cursor: pointer;
+    color: #333;
+    justify-content: center;
+}
+
+.material-list button:hover {
+    background-color: #555;
+    color: #ccc;
+}
+
+.material-list button:focus {
+    outline: none;
+    border-color: #555;
+}
+
+#ingredientCount {
+    font-family: 'Lora', serif; 
+    padding: 5px;
+    font-size: 15px;
+}
+
+.material-content ul li {
+    display: flex; /* Allows items to align horizontally */
+    flex-wrap: wrap; /* Ensures items wrap within the available width */
+    margin-bottom: 5px; /* Adds space between list items */
+    justify-content: space-between;
+}
+
+
+.material-content ul li strong {
+    font-weight: bold;
+    margin-right: 4px; 
+    margin-left: 35px;
+}
+
+.material-content ul {
+    margin-bottom: 15px;
+}
+
+
+.attribute-pair {
+    display: flex;
+    gap: 5px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 17.5px;
+    margin-right: 20px;
+}
+
+.formulamargin {
+    margin: 10px 15px 5px 15px;
+}
+
+.formula-date {
+    font-size: 0.8em;
+    color: #555;
+    margin-left: 20px;
+    justify-content: center;
+}

@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Lavender",
+        "image": "natural/lavender.jpg",
+        "background": "Grown in the Mediterranean, known for calming properties.",
+        "usage": "Up to 5%",
+        "blendsWith": [
+            "Bergamot",
+            "Lemon",
+            "Patchouli"
+        ]
+    },
+    {
+        "name": "Rosealma",
+        "image": "natural/Rosa_rubiginosa_1.jpg",
+        "background": "A symbol of love and beauty, cultivated worldwide.",
+        "usage": "Up to 2%",
+        "blendsWith": [
+            "Alma",
+            "Sandalwood",
+            "Ylang Ylang"
+        ]
+    },
+    {
+        "name": "Ylang-ylang",
+        "image": "natural/Rosa_rubiginosa_1.jpg",
+        "background": "A symbol of love and beauty, cultivated worldwide.",
+        "usage": "Up to 2%",
+        "blendsWith": [
+            "Jasmine",
+            "Sandalwood",
+            "Ylang Ylang"
+        ]
+    },
+    {
+        "name": "Beta",
+        "image": "natural/Rosa_rubiginosa_1.jpg",
+        "background": "A symbol of love and beauty, cultivated worldwide.",
+        "usage": "Up to 2%",
+        "blendsWith": [
+            "Jasmine",
+            "Sandalwood",
+            "Ylang Ylang"
+        ]
+    },
+    {
+        "name": "Lavandin",
+        "image": "natural/Rosa_rubiginosa_1.jpg",
+        "background": "A symbol of love and beauty, cultivated worldwide.",
+        "usage": "Up to 2%",
+        "blendsWith": [
+            "Jasmine",
+            "Sandalwood",
+            "Ylang Ylang"
+        ]
+    },
+    {
+        "name": "Mate",
+        "picture": "natural/mettyu.jpg",
+        "background_info": "szexi ferfi",
+        "usage": "100%",
+        "blends_well_with": [
+            "women"
+        ]
+    },
+    {
+        "name": "Mate",
+        "picture": "natural/mettyu.jpg",
+        "background_info": "szexi ferfi",
+        "usage": "100%",
+        "blends_well_with": [
+            "women"
+        ]
+    },
+    {
+        "name": "asd",
+        "picture": "asd",
+        "background_info": "asd",
+        "usage": "asd",
+        "blends_well_with": [
+            "asd"
+        ]
+    }
+]
+

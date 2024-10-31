@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library - Perfumer's Shelf</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Montserrat:wght@400;700&family=Source+Sans+Pro:wght@300;400&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="main-canvas">
+        <header class="home">
+            <div class="container">
+                <div id="mate-brand">
+                    <!--logo-->
+                </div>
+                <nav id="main-navigation">
+                    <ul>
+                        <li><a href="/index.html">Home</a></li>
+                        <li><a href="/naturals.html">Naturals</a></li>
+                        <li><a href="/synthetics.html">Synthetics</a></li>
+                        <li><a href="/formulator.html">Formulator</a></li>
+                        <li><a href="/library.html">Library</a></li>
+                    </ul>
+                </nav>                    
+            </div>
+        </header>  
+
+        <div class="overlay-container">
+            <section id="font" class="materials">
+                <h1>Library of Formulas</h1>
+                <input type="text" id="searchBox" class="myinput" placeholder="Search formulas..." onkeyup="filterMaterials()">
+                
+                <ul id="materialsList">
+                    <!-- JavaScript will populate this list with formulas -->
+                </ul>
+            </section>
+        </div>
+    </div>
+    <script src="libraryScript.js"></script>
+    <script>
+        loadMaterials('library.json');
+    </script>
+</body>
+</html>

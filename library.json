@@ -1,0 +1,58 @@
+[
+  {
+    "name": "valam,i3",
+    "ingredient_count": 1,
+    "desired_quantity": "10g",
+    "date": "2024-10-30",
+    "materials": [
+      {
+        "material": "asda",
+        "parts": 123,
+        "grams": "1.230",
+        "percentage": "12.3"
+      }
+    ]
+  },
+  {
+    "name": "valami2",
+    "ingredient_count": 1,
+    "desired_quantity": "10g",
+    "date": "2024-11-1",
+    "materials": [
+      {
+        "material": "asda",
+        "parts": 123,
+        "grams": "1.230",
+        "percentage": "12.3"
+      }
+    ]
+  },
+  {
+    "name": "valami",
+    "ingredient_count": 1,
+    "desired_quantity": "10g",
+    "date": "2024-10-31",
+    "materials": [
+      {
+        "material": "asda",
+        "parts": 123,
+        "grams": "1.230",
+        "percentage": "12.3"
+      }
+    ]
+  },
+  {
+    "name": "valami3",
+    "ingredient_count": 1,
+    "desired_quantity": "10g",
+    "date": "2024-11-1",
+    "materials": [
+      {
+        "material": "asda",
+        "parts": 123,
+        "grams": "1.230",
+        "percentage": "12.3"
+      }
+    ]
+  }
+]

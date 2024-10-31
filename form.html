@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfumes - Perfumer's Shelf</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="main-canvas">
+        <header class="home">
+            <div class="container">
+                <div id="mate-brand">
+                    <!-- Logo placeholder -->
+                </div>
+                <nav id="main-navigation">
+                    <ul>
+                        <li><a href="/index.html">Home</a></li>
+                        <li><a href="/naturals.html">Naturals</a></li>
+                        <li><a href="/synthetics.html">Synthetics</a></li>
+                        <li><a href="/formulator.html">Formulator</a></li>
+                        <li><a href="/library.html">Library</a></li>
+                    </ul>
+                </nav>                    
+            </div>
+        </header>  
+
+        <div class="overlay-container">
+            <section class="materials">
+                <h1>Add New Material</h1>
+                <form id="newMaterialForm">
+                    <label for="materialType">Material Type:</label>
+                    <select id="materialType" name="materialType" required>
+                        <option value="naturals">Natural</option>
+                        <option value="synthetics">Synthetic</option>
+                    </select>
+                    
+                    <label for="name">Material Name:</label>
+                    <input type="text" id="name" name="name" required>
+                    
+                    <label for="image">Image URL:</label>
+                    <input type="text" id="image" name="image" required>
+                    
+                    <label for="background">Background Info:</label>
+                    <textarea id="background" name="background" required></textarea>
+                    
+                    <label for="usage">Usage in Perfumes:</label>
+                    <input type="text" id="usage" name="usage" required>
+                    
+                    <label for="blendsWith">Blends Well With (comma-separated):</label>
+                    <input type="text" id="blendsWith" name="blendsWith" required>
+                    
+                    <button type="submit">Add Material</button>
+                </form>
+            </section>
+        </div>
+    </div>
+
+    <script>
+document.getElementById('newMaterialForm').onsubmit = async function (e) {
+    e.preventDefault();
+
+    const formData = {
+        type: document.getElementById('materialType').value,
+        name: document.getElementById('name').value,
+        picture: document.getElementById('image').value,
+        background_info: document.getElementById('background').value,
+        usage: document.getElementById('usage').value,
+        blends_well_with: document.getElementById('blendsWith').value
+    };
+
+    const response = await fetch('http://127.0.0.1:5000/add_material', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(formData)
+    });
+
+    const result = await response.json();
+    alert(result.message);
+    document.getElementById('newMaterialForm').reset(); // Reset form after submission
+};
+
+        
+    </script>
+</body>
+</html>

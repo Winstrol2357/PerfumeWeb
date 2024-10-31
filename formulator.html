@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulator - Perfumer's Shelf</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="main-canvas">
+        <header class="home">
+            <div class="container">
+                <div id="mate-brand">
+                    <!--logo-->
+                </div>
+                <nav id="main-navigation">
+                    <ul>
+                        <li><a href="/index.html">Home</a></li>
+                        <li><a href="/naturals.html">Naturals</a></li>
+                        <li><a href="/synthetics.html">Synthetics</a></li>
+                        <li><a href="/formulator.html">Formulator</a></li>
+                        <li><a href="/library.html">Library</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <div class="overlay-container">
+            <section class="materials">
+                <h1>Formulator</h1>
+                
+                <!-- Input for formula name -->
+                <div>
+                    <label for="formulaName">Formula Name:</label>
+                    <input type="text" id="formulaName" placeholder="Enter formula name...">
+                </div>
+
+                <div>
+                    <label for="material">Material:</label>
+                    <input type="text" id="material" list="materials" placeholder="Type material name">
+                    
+                    <label for="percentage">Parts (out of 1000):</label>
+                    <input type="number" id="percentage" min="0" max="1000" placeholder="0 parts">
+                    <button onclick="addMaterial()">Add</button>
+                </div>
+
+                <div class="percentage-meter">
+                    <span id="percentage-display">0%</span> of the formula used
+                </div>
+                <div class="progress-bar">
+                    <div id="progress" class="progress green" style="width: 0%"></div>
+                </div>
+
+                <div>
+                    <label for="desired-quantity">Desired Quantity:</label>
+                    <input type="number" id="desired-quantity" min="1" placeholder="10g" onchange="updateQuantities()">
+                </div>
+
+                <div class="material-list" id="material-list"></div>
+
+                <!-- Ingredient count and download button -->
+                <p id="ingredientCount">Ingredients used: 0</p>
+                <button id="download-btn" onclick="downloadMaterial()" disabled>Download</button>
+            </section>
+        </div>
+    </div>
+
+    <script>
+let materials = [];
+let totalParts = 0;
+
+function addMaterial() {
+    const material = document.getElementById('material').value;
+    const parts = parseFloat(document.getElementById('percentage').value);
+    const desiredQuantity = parseFloat(document.getElementById('desired-quantity').value || 10); // Default to 10 grams
+
+    if (material && parts && parts > 0) {
+        if (totalParts + parts <= 1000) { 
+            totalParts += parts;
+            const grams = ((desiredQuantity * parts) / 1000).toFixed(3); 
+            const percentage = ((parts / 1000) * 100).toFixed(1); 
+            materials.push({ material, parts, grams, percentage });
+            updateUI();
+            toggleDownloadButton();
+        } else {
+            alert("Total parts cannot exceed 1000");
+        }
+    }
+}
+
+function updateUI() {
+    const progressElement = document.getElementById('progress');
+    const materialListElement = document.getElementById('material-list');
+    const percentageDisplay = document.getElementById('percentage-display');
+    const ingredientCount = document.getElementById('ingredientCount');
+
+    const totalPercentage = ((totalParts / 1000) * 100).toFixed(1);
+    progressElement.style.width = `${totalPercentage}%`;
+
+    if (totalParts < 1000) {
+        progressElement.className = 'progress green';
+    } else if (totalParts === 1000) {
+        progressElement.className = 'progress max-green';
+    } else {
+        progressElement.className = 'progress red';
+    }
+
+    percentageDisplay.textContent = `${totalPercentage}% (${totalParts} parts)`;
+
+    materialListElement.innerHTML = '';
+    materials.forEach(material => {
+        const div = document.createElement('div');
+        div.textContent = `${material.material}: ${material.parts} parts (${material.grams}g, ${material.percentage}%)`;
+        
+        const editButton = document.createElement('button');
+        editButton.textContent = "Edit";
+        editButton.onclick = () => editMaterial(materials.indexOf(material));
+        div.appendChild(editButton);
+
+        const removeButton = document.createElement('button');
+        removeButton.textContent = "Remove";
+        removeButton.onclick = () => removeMaterial(materials.indexOf(material));
+        div.appendChild(removeButton);
+
+        materialListElement.appendChild(div);
+    });
+
+    ingredientCount.textContent = `Ingredients used: ${materials.length}`;
+}
+
+function updateQuantities() {
+    const desiredQuantity = parseFloat(document.getElementById('desired-quantity').value || 10);
+    materials.forEach(material => {
+        material.grams = ((desiredQuantity * material.parts) / 1000).toFixed(3);
+    });
+    updateUI();
+}
+
+function toggleDownloadButton() {
+    const downloadBtn = document.getElementById('download-btn');
+    downloadBtn.disabled = materials.length === 0;
+}
+
+function downloadMaterial() {
+    if (materials.length === 0) {
+        alert("No materials in the formula to download.");
+        return;
+    }
+
+    const formulaName = document.getElementById('formulaName').value || "Unnamed Formula";
+    const ingredientCount = materials.length;
+    const desiredQuantity = parseFloat(document.getElementById('desired-quantity').value || 10);
+
+    // Sort materials by parts in descending order
+    const sortedMaterials = [...materials].sort((a, b) => b.parts - a.parts);
+
+    // Capture the current date in YYYY-MM-DD format
+    const currentDate = new Date().toISOString().split('T')[0];
+
+    // Prepare JSON structure with the desired quantity and date
+    const formulaData = {
+        name: formulaName,
+        ingredient_count: ingredientCount,
+        desired_quantity: `${desiredQuantity}g`, // Adding desired quantity to JSON
+        date: currentDate, // Adding only the date to JSON
+        materials: sortedMaterials // Use sorted materials
+    };
+
+    const data = JSON.stringify(formulaData, null, 2);
+    const blob = new Blob([data], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `${formulaName.replace(/ /g, '_')}.json`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+}
+
+
+
+
+function editMaterial(index) {
+    const newParts = prompt("Enter new parts:", materials[index].parts);
+    if (newParts !== null && !isNaN(newParts) && newParts > 0) {
+        const oldParts = materials[index].parts;
+        const desiredQuantity = parseFloat(document.getElementById('desired-quantity').value || 10);
+
+        if (totalParts - oldParts + parseFloat(newParts) <= 1000) {
+            totalParts = totalParts - oldParts + parseFloat(newParts);
+            materials[index].parts = parseFloat(newParts);
+            materials[index].grams = ((desiredQuantity * newParts) / 1000).toFixed(3);
+            materials[index].percentage = ((newParts / 1000) * 100).toFixed(1);
+            updateUI();
+            toggleDownloadButton();
+        } else {
+            alert("Total parts cannot exceed 1000");
+        }
+    }
+}
+
+function removeMaterial(index) {
+    totalParts -= materials[index].parts;
+    materials.splice(index, 1);
+    updateUI();
+    toggleDownloadButton();
+}
+
+    </script>
+</body>
+</html>

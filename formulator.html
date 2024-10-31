@@ -63,6 +63,7 @@
                 <!-- Ingredient count and download button -->
                 <p id="ingredientCount">Ingredients used: 0</p>
                 <button id="download-btn" onclick="downloadMaterial()" disabled>Download</button>
+                <button id="save-to-library-btn" onclick="savetolibrary()" disabled>Save to library</button>
             </section>
         </div>
     </div>
@@ -141,6 +142,8 @@ function updateQuantities() {
 function toggleDownloadButton() {
     const downloadBtn = document.getElementById('download-btn');
     downloadBtn.disabled = materials.length === 0;
+    const Btn = document.getElementById('save-to-library-btn');
+    Btn.disabled = materials.length === 0;
 }
 
 function downloadMaterial() {
@@ -181,6 +184,54 @@ function downloadMaterial() {
 }
 
 
+function savetolibrary() {
+    if (materials.length === 0) {
+        alert("No materials in the formula to download.");
+        return;
+    }
+
+    const formulaName = document.getElementById('formulaName').value || "Unnamed Formula";
+    const ingredientCount = materials.length;
+    const desiredQuantity = parseFloat(document.getElementById('desired-quantity').value || 10);
+
+    // Sort materials by parts in descending order
+    const sortedMaterials = [...materials].sort((a, b) => b.parts - a.parts);
+
+    // Capture the current date in YYYY-MM-DD format
+    const currentDate = new Date().toISOString().split('T')[0];
+
+    // Prepare JSON structure with the desired quantity and date
+    const formulaData = {
+        name: formulaName,
+        ingredient_count: ingredientCount,
+        desired_quantity: `${desiredQuantity}g`, // Adding desired quantity to JSON
+        date: currentDate, // Adding only the date to JSON
+        materials: sortedMaterials // Use sorted materials
+    };
+
+    const data = JSON.stringify(formulaData);
+
+    fetch('http://127.0.0.1:5000/add_to_library', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: data
+    })
+    .then(response => {
+        if (!response.ok) {
+            return response.json().then(error => {
+                throw new Error(error.message || 'Failed to add formula');
+            });
+        }
+        return response.json();
+    })
+    .then(result => {
+        //alert(result.message || 'Formula added successfully!');
+    })
+    .catch(error => {
+        console.error('Request failed', error);
+        alert(`An error occurred while adding the formula to the library: ${error.message}`);
+    });
+}
 
 
 function editMaterial(index) {

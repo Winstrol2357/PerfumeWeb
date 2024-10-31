@@ -5,7 +5,6 @@ import os
 from threading import Lock
 
 app = Flask(__name__)
-CORS(app, resources={r"/add_material": {"origins": "*"}}, supports_credentials=True)
 
 lock = Lock()
 
@@ -53,6 +52,40 @@ def add_material():
         lock.release()
 
     return jsonify({'message': 'Material added successfully'}), 200
+
+
+@app.route('/add_to_library', methods=['POST'])
+def add_to_library():
+    data = request.get_json()
+    if data is None:
+        return jsonify({'message': 'Invalid input'}), 400
+
+    # Lock to prevent concurrent write issues
+    lock.acquire()
+    file_path = 'library.json'
+    try:
+        # Read existing data from library.json
+        if os.path.exists(file_path):
+            with open(file_path, 'r') as f:
+                try:
+                    library = json.load(f)
+                except json.JSONDecodeError:
+                    jsonify({'message': f'Error decoding json file: {file_path}'}), 400
+        else:
+            library = []
+
+        # Append new formula data
+        library.append(data)
+
+        # Write back to library.json
+        with open(file_path, 'w') as f:
+            json.dump(library, f, indent=4)
+    finally:
+        lock.release()
+
+    return jsonify({'message': 'Formula added successfully!'}), 200
+
+CORS(app)
 
 if __name__ == '__main__':
     app.run(debug=True)

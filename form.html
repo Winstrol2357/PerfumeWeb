@@ -76,9 +76,12 @@ document.getElementById('newMaterialForm').onsubmit = async function (e) {
         body: JSON.stringify(formData)
     });
 
-    const result = await response.json();
-    alert(result.message);
-    document.getElementById('newMaterialForm').reset(); // Reset form after submission
+    if (response.status !== 200) {  // Show alert only if status is not 200
+        const result = await response.json();
+        alert(`Error: ${result.message || 'An error occurred'}`);
+    } else {
+        document.getElementById('newMaterialForm').reset(); // Reset form after successful submission
+    }
 };
 
         

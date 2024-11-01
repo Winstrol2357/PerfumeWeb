@@ -6,6 +6,9 @@ async function loadMaterials(jsonFile) {
 
         materialsList.innerHTML = ''; // Clear existing items before populating
 
+        const itemCount = materials.length;
+        document.getElementById('itemCount').textContent = `Total number of formulas: ${itemCount}`;
+
         // Sort formulas: by date descending and by name ascending within the same date
         materials.sort((a, b) => {
             if (a.date === b.date) {

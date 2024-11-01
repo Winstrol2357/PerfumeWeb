@@ -1,11 +1,12 @@
 [
     {
-        "name": "d",
-        "picture": "d",
-        "background_info": "d",
-        "usage": "d",
+        "name": "Tasun",
+        "picture": "https://lh3.googleusercontent.com/p/AF1QipNxa43z1qxd6hrjGZnNoppAV81oFP8_3HSfzpeH=s680-w680-h510",
+        "background_info": "Good smell",
+        "usage": "100",
         "blends_well_with": [
-            "d"
-        ]
+            "vine"
+        ],
+        "additional_info": "mucus"
     }
 ]

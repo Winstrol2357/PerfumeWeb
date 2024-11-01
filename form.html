@@ -8,6 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
+    <div class="bg-image"></div>
     <div class="main-canvas">
         <header class="home">
             <div class="container">
@@ -51,6 +52,9 @@
                     <label for="blendsWith">Blends Well With (comma-separated):</label>
                     <input type="text" id="blendsWith" name="blendsWith" required>
                     
+                    <label for="additionalInfo">Additional Information (optional):</label>
+                    <input type="text" id="additionalInfo" name="additionalInfo">
+                    
                     <button type="submit">Add Material</button>
                 </form>
             </section>
@@ -70,6 +74,12 @@ document.getElementById('newMaterialForm').onsubmit = async function (e) {
         blends_well_with: document.getElementById('blendsWith').value
     };
 
+    // Optional additional info
+    const additionalInfo = document.getElementById('additionalInfo').value;
+    if (additionalInfo) {
+        formData.additional_info = additionalInfo;
+    }
+
     const response = await fetch('http://127.0.0.1:5000/add_material', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -82,8 +92,7 @@ document.getElementById('newMaterialForm').onsubmit = async function (e) {
     } else {
         document.getElementById('newMaterialForm').reset(); // Reset form after successful submission
     }
-};
-
+}
         
     </script>
 </body>

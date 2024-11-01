@@ -6,6 +6,10 @@ async function loadMaterials(jsonFile) {
 
         materialsList.innerHTML = ''; // Clear existing items before populating
 
+        // Display the count of materials
+        const itemCount = materials.length;
+        document.getElementById('itemCount').textContent = `Total number of materials: ${itemCount}`;
+
         // Sort materials by name in alphabetical order
         materials.sort((a, b) => a.name.localeCompare(b.name));
 
@@ -17,10 +21,11 @@ async function loadMaterials(jsonFile) {
             const imageSrc = material.image || material.picture || '';
             const background = material.background || material.background_info || '';
             const blendsWith = material.blendsWith || material.blends_well_with || [];
+            const additionalInfo = material.additional_info ? material.additional_info : ''
 
             listItem.innerHTML = `
                 <div class="material-header" onclick="toggleMaterial(${index})">
-                    ${material.name}
+                    ${material.name} <span class="formula-date">${additionalInfo}</span>
                 </div>
                 <div class="material-content" id="material-${index}">
                     <img src="${imageSrc}" alt="${material.name}">
@@ -61,10 +66,17 @@ function filterBlendMaterials() {
 
 function toggleMaterial(index) {
     const item = document.getElementById(`material-${index}`);
-    const materialItem = item.closest('.material-item');
+    const allItems = document.querySelectorAll('.material-item');
 
-    // Toggle the 'active' class to control CSS
+    // Close all other open sections
+    allItems.forEach((materialItem, i) => {
+        if (i !== index) {
+            materialItem.classList.remove('active');
+        }
+    });
+
+    // Toggle the clicked section
+    const materialItem = item.closest('.material-item');
     materialItem.classList.toggle('active');
 }
-
 

@@ -9,6 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600&display=swap" rel="stylesheet">
 </head>
 <body>
+    <div class="bg-image"></div>
     <div class="main-canvas">
         <header class="home">
             <div class="container">
@@ -62,7 +63,7 @@
 
                 <!-- Ingredient count and download button -->
                 <p id="ingredientCount">Ingredients used: 0</p>
-                <button id="download-btn" onclick="downloadMaterial()" disabled>Download</button>
+                <!--<button id="download-btn" onclick="downloadMaterial()" disabled>Download</button>-->
                 <button id="save-to-library-btn" onclick="savetolibrary()" disabled>Save to library</button>
             </section>
         </div>
@@ -140,8 +141,8 @@ function updateQuantities() {
 }
 
 function toggleDownloadButton() {
-    const downloadBtn = document.getElementById('download-btn');
-    downloadBtn.disabled = materials.length === 0;
+    //const downloadBtn = document.getElementById('download-btn');
+    //downloadBtn.disabled = materials.length === 0;
     const Btn = document.getElementById('save-to-library-btn');
     Btn.disabled = materials.length === 0;
 }

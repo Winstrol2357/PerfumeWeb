@@ -33,7 +33,7 @@ def add_material():
     try:
         # Read existing data
         if os.path.exists(file_path):
-            with open(file_path, 'r') as f:
+            with open(file_path, 'r', encoding='utf-8') as f:
                 try:
                     materials = json.load(f)
                 except json.JSONDecodeError:
@@ -85,7 +85,8 @@ def add_to_library():
 
     return jsonify({'message': 'Formula added successfully!'}), 200
 
-CORS(app)
+# Allow CORS for all origins, methods, and headers
+CORS(app, resources={r"/*": {"origins": "*"}})
 
 if __name__ == '__main__':
     app.run(debug=True)

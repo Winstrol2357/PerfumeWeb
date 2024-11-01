@@ -1,9 +1,200 @@
 [
     {
-        "name": "d",
-        "picture": "d",
-        "background_info": "d",
-        "usage": "d",
-        "blends_well_with": [
-            "d"
+        "name": "Acaroid",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Xanthorrhoea_semiplana_-_Anstey_Hill.JPG/800px-Xanthorrhoea_semiplana_-_Anstey_Hill.JPG",
+        "background": "The so-called Acaroid Resin is a natural oleo-gumresin, exuded from various species of Xanthorrhoea trees in Australia, Tasmania, and New Zealand. Acaroid resinoid and Acaroid tincture are excellent fixatives for low-cost soap perfumes or industrial perfumes, particularly those of sweet balsamic type. The odor type of Acaroid is quite similar to that of peru, styrax, and tolu balsams, however, much weaker in odor strength. Apart from the color drawback, Acaroid could well replace the Sumatra benzoin, and it blends well with cinnamic aldehyde.",
+        "usage": "-",
+        "blendsWith": [
+            "Cinnamic aldehyde"
         ]
+    },
+    {
+        "name": "Agar oil",
+        "image": "https://th-i.thgim.com/public/news/national/8ege13/article68457852.ece/alternates/FREE_1200/agar%20tree.jpg",
+        "background": "This oil is water-distilled from fungus-infected wood of the tree Aquilaria Agallocha, growing in northeastern India. Healthy trees have an odorless wood which produces no essential oil. Only older trees are attacked by the fungi; thereafter an oleoresin is produced inside the wood. After proper maceration of the wood, this oleo. resin will yield an essential oil upon distillation. Wood from infected trees is cut and coarsely chopped, then soaked in water prior to distillation. It is common practice to add salt (sodium chloride) to the water. Being a distillation at atmospheric pressure (100\u00b0C.), the process of total exhaustion of the wood is a lengthy one. The oil is high-boiling, and the distillation waters must be cohobated (i.e. returned to the still and redistilled) in order to produce a reasonable yield and a complete oil. Agar Oil is pale yellow to brownish yellow or dark amber in color; it is a very viscous liquid of rich and sweet-woody, almost balsamic odor not unlike that of vetiverol or purified styrenefree styrax, and with a sweetness similar to that of sandalwood oil. Agar Oil could find use in perfumery for oriental bases, woody-aldehydic bases, chypres, foug\u00e8res, etc.",
+        "usage": "-",
+        "blendsWith": [
+            "Vetiver oil",
+            "Sandalwood oil",
+            "Geranium",
+            "Methylionones",
+            "Linalool",
+            "etc."
+        ]
+    },
+    {
+        "name": "Ajowan",
+        "image": "https://www.spicemountain.co.uk/wp-content/uploads/2019/10/ajowain.jpg",
+        "background": "Ajowan Oil is steam distilled from the fruits (= seeds) or, occasionally, from the whole overground plant of Ptychotis Ajowan. Ajowan Oil is a yellow-orange to pale brownish or red-brown liquid of a pungent, herbaceousspicy and medicinal odor, reminiscent of red Thyme. However, unlike the rich odor of red thyme, Ajowan Oil presents a sharper, more cymene-like topnote and very little herbaceousmellow body. The fresh, almost green-cuminic topnote is characteristic of Ajowan Oil. It does not present any distinct advantage over Thyme Oil. Years ago, ajowan oil was used for the isolation of Thymol, but this chemical is now produced synthetically.",
+        "usage": "-",
+        "blendsWith": [
+            "-"
+        ]
+    },
+    {
+        "name": "Almond oil, bitter",
+        "image": "https://www.profifaiskola.hu/images/stories/virtuemart/product/Prunus%20amygdalus%20T%C3%A9t%C3%A9nyi%20kedvenc%20T%C3%A9t%C3%A9nyi%20kedvenc%20mandula2.jpg",
+        "background": "The Bitter Almond Tree is cultivated particularly in the U.S.A., Israel, Syria, Turkey Morocco, Spain and France. The botanical material contain a glycoside, Amygdalin, in the kernels. Enzymatic processes initiate the decomposition of this glycoside, whereby Benzaldehyde and Hydrocyanic Acid are formed. The crude essential oil thus contains \u2018significant amounts of the highly toxic hydrocyanic acid which must be removed before the oil can be used in flavors or perfumes. As little as 0.02 grams of this poison is lethal to the average human being. This amount of hydrocyanic acid can be present in about 8 to 10 drops of crude, unrectified Bitter Almond Oil. It is interesting to note that hydrocyanic acid has an odor which is somewhat similar to that of Benzaldehyde, the main constituent of bitter almond oil. Bitter Almond Oil is a colorless liquid of strong, but sweet and clean odor, reminiscent of crushed, wet bitter almonds or of a very high grade of benzaldehyde. The odor is also familiar to those who prepare or enjoy the European candy known as \u201cMarcipan\u201d. Bitter Almond Oil, which is almost pure Benzaldehyde, is not a very stable oil. An addition of 10% (but not less) of ethyl alcohol is recommended as a stabilizer, and the oil should be stored in well filled glass containers, protected from daylight, moisture and air. Bitter Almond Oil finds very little use in perfumery where it is replaced by a high grade of benzaldehyde. They blend well with anisic-balsamic types of odor.",
+        "usage": "-",
+        "blendsWith": [
+            "Sweet florals"
+        ]
+    },
+    {
+        "name": "Amber oil",
+        "image": "https://nomadnoe.com/cdn/shop/articles/amber_720x.jpg?v=1666381178",
+        "background": "This essential oil is produced by destructive (dry) distillation of Amber at atmospheric pressure. Amber is one of the oldest and hardest fossil resins, exuded millions of years ago, presumably from Pinus Succinifera, a fir. Crude (or pyroligneous) Amber Oil is a dark amber-colored or brownish, but clear oily liquid. Its odor is smoky, tarlike, resinous, with a distinct resemblance to the odor of tanned leather. It is sweetened with cananga oil, benzylsalicylate, zingerone, etc. for typical \u201cleather\u201d bases, e.g. in men\u2019s colognes and after-shaves",
+        "usage": "-",
+        "blendsWith": [
+            "Labdanum",
+            "Castoreum",
+            "Ionones",
+            "Amylsalicylate",
+            "etc."
+        ]
+    },
+    {
+        "name": "Ambergris",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mother_and_baby_sperm_whale.jpg",
+        "background": "Ambra, also called Ambregris or Ambergris, is a substance of animal tissue, formed in the stomach or intestine of Physeter Catodon, the cachalot whale. It is conceivable that Ambra is the result of a pathological condition caused by irritation of the whale\u2019s stomach walls due to certain indigestible particles in the whale\u2019s food. Consequently, Ambra is one of the few natural perfumery raw materials which cannot be \u201ccultivated\u201d. Pieces of Ambra are either washed ashore on various temperate ocean coasts and islands, or they are found inside the whales when these great mammals are captured for their oil. Ambra is a pale grayish or creamy-yellow to brown or dark brown waxy solid mass which melts in boiling water. Its odor is rather subtle, reminiscent of seaweed, wood, moss, with a peculiar sweet, yet very dry undertone of unequaled tenacity. There is rarely any animal note at all in a good grade of Ambra. The greater part of a good grade of Ambra is soluble in alcohol. By concentration of the tincture, the so-called Resinoid of Ambergris is obtained. When concentrated 20 times, the ambergris tincture turns into a light brown, semi-solid mass, which could be called \u201c20-fold tincture of ambergris\u201d. Ambra has comparatively little diffusive power, but it has a tremendous tenacity. Musk or Civet are required to improve the \u201cwearability\u201d of a perfume. Consequently, Ambra Tincture is particularly recommended in the more delicate florals, e.g. muguet, sweet pea, lilac, freesia, cyclamen, white rose, etc. In the modern aldehydic \u201cfantasy\u201d perfume bases, the use of Ambra or a similar \u201cbouquetting\u201d agent is a necessity in order to \u201cround off\u201d the stubborn chemical notes of aliphatic aldehydes. ",
+        "usage": "-",
+        "blendsWith": [
+            "Delicate flowers"
+        ]
+    },
+    {
+        "name": "Ambrette seed",
+        "image": "https://www.cfmot.de/wp-content/uploads/2023/04/sabbir-ahamed-7sE5JK_iS4U-unsplash-1024x683.jpg",
+        "background": "Ambrette Seeds are produced in the fruits of a cultivated plant, Hibiscus Abelmoschus. Ambrette Seed (oil or absolute) are known for the \u201cexalting\u201d effect which they impart to perfumes, and for the unique bouquet they lend to perfumes and flavors. They are very expensive materials, and the annual production can be measured in two-figured kilo-amounts. The oil should be stored in a 50% or 10% alcoholic solution at reduced temperature in order to prevent the appearance of rancid notes due to a possible decomposition of traces of fatty oils and acids in the essential oil (or in the absolute).",
+        "usage": "-",
+        "blendsWith": [
+            "Rose",
+            "Neroli",
+            "Methylionones",
+            "Sandalwood oil",
+            "Cyclamal",
+            "Hydroxycitronellal",
+            "Aliphatic aldehydes",
+            "etc."
+        ]
+    },
+    {
+        "name": "Ammoniac Gum",
+        "image": "https://www.innerpath.com.au/matmed/jpeg-gif/Dorema_ammoniacumGum.jpg",
+        "background": "Ammoniac Gum (also called Ammoniacum) is a natural oleo-gum-resin which is exuded after incisions in the stem of the tall plant, Dorema Ammoniacum (in Iran), or from various Ferula species (in Libya and Morocco). The substance is a physiological formation inside of the stems of the plant. Tinctures and resinoids are produced from this material, and are used in perfume and flavor work to a limited extent. Tincture of ammoniac gum has some fixative value and imparts a certain \u201canimal\u201d note to perfumes.",
+        "usage": "-",
+        "blendsWith": [
+            "Rose",
+            "Jasmine",
+            "Sweet wood oils",
+            "Heavy oriental perfumes",
+            "Balsamic sweet type materials"
+        ]
+    },
+    {
+        "name": "Amyris oil",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Amyris_elemifera1.jpg/1200px-Amyris_elemifera1.jpg",
+        "background": "Amyris Oil is steam distilled from the wood of Amyris Balsamifera, the so-called West Indian Rosewood. Amyris Oil is a viscous liquid of pale yellow, yellow or brownish-yellow color. Its odor is faintly woody, not dry. It has a slightly oily-sweet, balsamic note, and occasionally displays a faintly peppery topnote, reminiscent of guaiacwood or cubeb. The body-odor is very tenacious, but it rapidly loses the rich, complex odor, fading out in a very weak, woody-balsamic note. The odor varies considerably, depending on the age of the oil and the age of the wood prior to distillation. The natural unfractionated amyris oil has some perfumery value beyond its well-known fixative power. But its woody effect is far inferior to that of sandalwood oil, for example. ",
+        "usage": "-",
+        "blendsWith": [
+            "Ionones",
+            "Methylionones",
+            "Lavandin oil",
+            "Coumarin",
+            "Oakmoss",
+            "Terpineol",
+            "Citronella oil",
+            "Sassafras or Ocotea oils",
+            "Amylsalicylate",
+            "etc."
+        ]
+    },
+    {
+        "name": "Angelica root absolute",
+        "image": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/09/Angelica-archangelica-1296x728-header.jpg?w=1155&h=1528",
+        "background": "Angelica Root Absolute is produced by a two-step extraction of angelica roots. The comminuted roots are first extracted with petroleum ether or benzene, and the solvent is completely recovered in vacuum. The residue (= the concr\u00e8te extract) is subsequently extracted with ethyl alcohol. The alcoholic extract is chilled, filtered and evaporated under vacuum. After recovery of the alcohol, the Angelica Root Absolute is left as a viscous, yellow-brownish liquid. Its odor is intensely musky-woody, heavy, sweet, somewhat spicy, with a resemblance to Pimpinella root. The richness in odor body has some similarity to that of ambrette seed absolute, but the earthy, root-like notes of the angelica root absolute recall the odor of a drugstore. There is hardly any distinct topnote or pepperiness at all. Angelica root absolute can be used in perfumery for its unusual tenacity and peculiar animal note, combined with a rich body. The absolute does not impart the typical topnote effects which can be obtained with the essential oil from the root.",
+        "usage": "-",
+        "blendsWith": [
+            ""
+        ]
+    },
+    {
+        "name": "Angelica root oil",
+        "image": "https://www.magicgardenseeds.com/media/image/product/1562/lg/echte-engelwurz-angelica-archangelica-samen.jpg",
+        "background": "This oil is steam distilled from the dried roots of Angelica Archangelica. Angelica Root Oil is a water-white or pale yellow to orange-brown colored liquid. The main constituent is Phellandrene, a monoterpene of comparatively minor value in perfumes and flavors. It is responsible for the light, somewhat peppery topnote of oils from young roots. Beneath the peppery topnote grows a rich, somewhat herbaceous-earthy, woody body- note of unique tenacity and great diffusive power. The note is also slightly musky-animal-like with a spicy undertone. Various lactones, occurring in trace amounts in the oil, are held responsible for these special effects of the oil and for the synergistic effect it imparts to other perfume materials in compositions. One of these lactones is Cyclopentadecanolide. Its power is easily underestimated, and it is an art in itself to use this oil correctly, and to adjust the application and concentration according to the inevitable type-variations. ",
+        "usage": "-",
+        "blendsWith": [
+            "Patchouli",
+            "Opoponax",
+            "Costus",
+            "Sage clary",
+            "Vetiver",
+            "Oakmoss",
+            "Coumarin",
+            "etc."
+        ]
+    },
+    {
+        "name": "Angelica seed oil",
+        "image": "https://gardenerspath.com/wp-content/uploads/2020/05/Angelica-Seeds.jpg",
+        "background": "This oil is distilled by steam from the seeds (fruits) of the same plant which yields angelica roots (see Angelica Root Oil). Angelica Seed Oil is a water-white or very pale yellow, mobile oil of strong, fresh, light and peppery odor. The topnote is distinctly terpenelike, at times almost harsh in its roughness, but also quite fresh. A sweet, almost anisic undertone is quite characteristic, and there is less woodiness, less earthiness in the seed oil than in the root oil. The seed oil has less tenacity, and presents a very weak dryout note of the same type as found in the root oil. The root oil is preferred in perfumery for its superior tenacity, while the seed oil presents a unique fresh-peppery topnote, although a very expensive one.",
+        "usage": "-",
+        "blendsWith": [
+            ""
+        ]
+    },
+    {
+        "name": "Anthocephalus Cadamba",
+        "image": "https://assets-news.housing.com/news/wp-content/uploads/2022/10/02001326/neolamarckia-cadamba-feature-compressed.jpg",
+        "background": "From the flowers of the Kadamba (or cadamba) tree in northern India is produced an essential oil by water distillation and a concr\u00e8te by benzene extraction. At night, the flowers exhale a strong, heavy-sweet fragrance reminiscent of orange flowers, jasmin, and gardenia. The yield of essential oil is extremely small (about 0.2%), and it is necessary to collect the distillate in benzene in order to avoid a total loss of oil in the distillation waters. Anthocephalus Cadamba oil is a pale yellow or yellow oily liquid of a woody-floral and sweet odor with a short-lived, but strong minty-borneolic topnote. The dryout is delightfully sweet- floral, reminiscent of champaca and neroli. The tenacity of this fragrance is almost incredible. The full yield of this interesting perfume oil is obtained only when the oil is skillfully and cautiously supported by mild, sweet florals, fixers and modifiers. Neroli oil would supply a suitable topnote.",
+        "usage": "-",
+        "blendsWith": [
+            "Ylang-ylang",
+            "Neroli",
+            "Jasmine",
+            "Cassie",
+            "Mimosa",
+            "Alpha-isomethylionone",
+            "Heliotropine",
+            "Cassione",
+            "Alyphatic aldehydes",
+            "etc."
+        ]
+    },
+    {
+        "name": "Araucaria oil",
+        "picture": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSl9Sy_2vaR5YsoLeKendLuBvwyUiGGPlnqgM3Hz0wzmuoTDvJKyaC3Yfxt_TcjHt0pPDcIL68V3kmrEoU",
+        "background_info": "Araucaria Oil is steam distilled from the wood of a comparatively small tree, Callitropsis Araucarioldes. Araucaria Oil is solid at room temperature, but if melted, it may remain supercooled as a very viscous liquid for a considerable length of time. \nThe solid oil is not quite homogeneous, often grainy in texture. It is very pale yellow to olive-green or of a brown color. The oil may contain some iron.\nIts odor is delicately woody, but also rich and sweet (a rare combination), almost floral like nerolidol or cabreuva oil. It has notes in common with amyris oil, bois de rose, copaiba, good guaiacwood oil, and the sesquiterpene fractions from Java type of citronella oil. \nAraucaria Oil is an excellent fixative among the groups of \u201cso-called\u201d fixatives. Araucaria Oil is a very low-cost perfume material, but it has not yet found extensive use beyond that of a modifier-fixer in soap perfumes, e.g. mimosa, chypre, foug\u00e8re, lily-of-the-valley, lilac, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "Sage Clary,Methylionones,Hydroxycitronellal,Linalool,etc."
+        ]
+    },
+    {
+        "name": "Arnica oil",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Arnica_montana.JPG/800px-Arnica_montana.JPG",
+        "background_info": "Arnica Oil is steam distilled from the flowers of Arnica Montana. The yield of essential oil is very small, and the cultivation of the plant is highly problematic. Consequently, the oil is scarce and expensive. Arnica Oil is a yellow-orange or greenish-blue colored liquid. Arnica Absolute or Arnica Resinoine are dark amber colored, viscous liquids of intensely herbaceous-sweet, tealike, somewhat spicy, powerful and very tenacious odor. The dryout is bitter, tealike and very pleasant. The odor of the oil resembles that of chamomile with a certain woody-earthy undertone. Arnica Oil (from flowers) finds occasional use in perfumes of the herbaceous (i.e. non-floral) type, e.g. chypre, foug\u00e8re, \u201ctabac\u201d, leather, colognes, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Artemisia Alba",
+        "picture": "https://bunchberrynurseries.ca/cdn/shop/files/Artimesiajws.jpg?v=1707065840",
+        "background_info": "This oil is steam distilled from the whole over- ground part of Artemisia Alba. The essential oil of Artemisia Alba is a dark green, rather viscous liquid of very powerful, bitter-herbaceous odor and bitter-burning flavor. The \u201cgreenness\u201d in odor type and the peculiar bitter aroma of this oil makes it an interesting item for chypre, foug\u00e8re, \u201cforest\u201d notes, aftershave colognes, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Artemisia Vulgaris",
+        "picture": "https://www.magicgardenseeds.com/media/image/product/6201/lg/gewoehnlicher-beifuss-artemisia-vulgaris-bio-saatgut.jpg",
+        "background_info": "The artemisia plants seem to have originated in Eastern Europe and Western Asia. An essential oil is steam distilled from the dried herb. The essential oil of Artemisia Vulgaris is a pale yellow or almost colorless liquid. The odor is powerful, fresh- camphoraceous, somewhat green and bitter-sweet, with a cedarleaf-like topnote and a sage-rosemary- like bodynote. The dryout is very pleasant, sweet herbaceous and tealike. The essential oil is used in perfumery to add freshness and warmth to lavender-colognes, chypres, foug\u00e8res, pine fragrances, etc. The oil shows great power and diffusiveness, and it is stable in soaps.",
+        "usage": "-",
+        "blends_well_with": [
+            "Oakmoss,Patchouli,Rosemary,Lavandin,Isobornylacetate,Pine needle oils,Sage Clary,Spanish Sage,Coumarin,Decylalcohol,etc."
+        ]
+    }
+]

@@ -89,7 +89,8 @@
             "Sweet wood oils",
             "Heavy oriental perfumes",
             "Balsamic sweet type materials"
-        ]
+        ],
+        "additional_info": "fixative"
     },
     {
         "name": "Amyris oil",
@@ -107,7 +108,8 @@
             "Sassafras or Ocotea oils",
             "Amylsalicylate",
             "etc."
-        ]
+        ],
+        "additional_info": "fixative"
     },
     {
         "name": "Angelica root absolute",
@@ -115,7 +117,7 @@
         "background": "Angelica Root Absolute is produced by a two-step extraction of angelica roots. The comminuted roots are first extracted with petroleum ether or benzene, and the solvent is completely recovered in vacuum. The residue (= the concr\u00e8te extract) is subsequently extracted with ethyl alcohol. The alcoholic extract is chilled, filtered and evaporated under vacuum. After recovery of the alcohol, the Angelica Root Absolute is left as a viscous, yellow-brownish liquid. Its odor is intensely musky-woody, heavy, sweet, somewhat spicy, with a resemblance to Pimpinella root. The richness in odor body has some similarity to that of ambrette seed absolute, but the earthy, root-like notes of the angelica root absolute recall the odor of a drugstore. There is hardly any distinct topnote or pepperiness at all. Angelica root absolute can be used in perfumery for its unusual tenacity and peculiar animal note, combined with a rich body. The absolute does not impart the typical topnote effects which can be obtained with the essential oil from the root.",
         "usage": "-",
         "blendsWith": [
-            ""
+            "-"
         ]
     },
     {
@@ -125,7 +127,7 @@
         "usage": "-",
         "blendsWith": [
             "Patchouli",
-            "Opoponax",
+            "Opopanax",
             "Costus",
             "Sage clary",
             "Vetiver",
@@ -167,8 +169,9 @@
         "background_info": "Araucaria Oil is steam distilled from the wood of a comparatively small tree, Callitropsis Araucarioldes. Araucaria Oil is solid at room temperature, but if melted, it may remain supercooled as a very viscous liquid for a considerable length of time. \nThe solid oil is not quite homogeneous, often grainy in texture. It is very pale yellow to olive-green or of a brown color. The oil may contain some iron.\nIts odor is delicately woody, but also rich and sweet (a rare combination), almost floral like nerolidol or cabreuva oil. It has notes in common with amyris oil, bois de rose, copaiba, good guaiacwood oil, and the sesquiterpene fractions from Java type of citronella oil. \nAraucaria Oil is an excellent fixative among the groups of \u201cso-called\u201d fixatives. Araucaria Oil is a very low-cost perfume material, but it has not yet found extensive use beyond that of a modifier-fixer in soap perfumes, e.g. mimosa, chypre, foug\u00e8re, lily-of-the-valley, lilac, etc.",
         "usage": "-",
         "blends_well_with": [
-            "Sage Clary,Methylionones,Hydroxycitronellal,Linalool,etc."
-        ]
+            "Sage Clary, Methylionones, Hydroxycitronellal, Linalool, etc."
+        ],
+        "additional_info": "fixative"
     },
     {
         "name": "Arnica oil",
@@ -194,7 +197,194 @@
         "background_info": "The artemisia plants seem to have originated in Eastern Europe and Western Asia. An essential oil is steam distilled from the dried herb. The essential oil of Artemisia Vulgaris is a pale yellow or almost colorless liquid. The odor is powerful, fresh- camphoraceous, somewhat green and bitter-sweet, with a cedarleaf-like topnote and a sage-rosemary- like bodynote. The dryout is very pleasant, sweet herbaceous and tealike. The essential oil is used in perfumery to add freshness and warmth to lavender-colognes, chypres, foug\u00e8res, pine fragrances, etc. The oil shows great power and diffusiveness, and it is stable in soaps.",
         "usage": "-",
         "blends_well_with": [
-            "Oakmoss,Patchouli,Rosemary,Lavandin,Isobornylacetate,Pine needle oils,Sage Clary,Spanish Sage,Coumarin,Decylalcohol,etc."
+            "Oakmoss, Patchouli, Rosemary, Lavandin, Isobornylacetate, Pine needle oils, Sage Clary, Spanish Sage, Coumarin, Decylalcohol, etc."
+        ]
+    },
+    {
+        "name": "Asarum Europaeum",
+        "picture": "https://blumen-natur.de/wp-content/uploads/2020/12/europaeischer-haselwurz-blaetter-2.jpg",
+        "background_info": "The essential oil of Asarum Europaeum is steam distilled from the entire fresh plant of the European Hazelwort. The oil is dark amber colored or almost brown, and very viscous. Old oils often show a deposit of crystals. The odor of Hazelwort Oil is somewhat reminiscent of that of Canadian Snakeroot Oil: a sharp, peppery, spicy-woody and warm, but not very pleasant odor. The flavor is burning, almost pungent and sharp, far from pleasant. The oil could, however, still serve as an interesting item for fine perfumery and in the reproduction of other essential oils. Its penetrating and peculiar note can produce quite interesting effects in oriental perfumes and chypres when the oil is used with skill and experience.",
+        "usage": "-",
+        "blends_well_with": [
+            "Vetiver, Isoeugenol, Opopanax, Oakmoss, Patchouli, etc."
+        ]
+    },
+    {
+        "name": "Asafoetida Absolute",
+        "picture": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/03/asafoetida-1296x728-header.jpg?w=1155&h=1528",
+        "background_info": "Asafoetida or Asafetida is a natural oleo-gumresin, exuded from roots of a big plant, Ferula Asafoetida, and other species of Ferula, a plant native to Iran and Afghanistan. The substance is a physiological product of the plant. When overground parts of the plant are cut off, a milky juice flows out and solidifies upon exposure to air. At low concentrations, Asafoetida Absolute can introduce very intriguing notes in rose bases and heavy oriental fragrances. The alliaceous odor of asafoetida is due to large amounts of sulphur compounds in the essential oil only.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Atractylis oil",
+        "picture": "https://lh3.googleusercontent.com/proxy/GFCs8aq_HMWzfKOkuMxaMU0d2p6sY-vqQvA6ENmCvT0S5DZRaxevt5rqUU8MRTE8meoWOYTpqZbJ_irEFALLNLOHU7o_ghxZ7YPvlhVoKIPvwuSEN02vaQ",
+        "background_info": "Atractylis Oil is steam distilled from the roots of Atractylis Ovata and possibly from other species of Atractylis. Atractylis Oil is a solid, waxy-crystalline mass of dark yellow to orange-red color. Atractylis Oil is very useful in perfumery where its excellent fixative effect and surprising power can be utilized in heavy oriental bases, woody fragrances, spicy and dry ambra types, etc. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Vetiver, Ionones, PhenylEthylAlcohol, Isoeugenol, Opopanax, Nitromusks",
+            "etc."
+        ],
+        "additional_info": "fixative"
+    },
+    {
+        "name": "Backhousia Myrtifolia",
+        "picture": "https://tuckerbush.com.au/wp-content/uploads/2017/08/Cinnamon-Myrtle-Backhousia-myrtifolia-1.jpg",
+        "background_info": "Essential oils are distilled from leaves and twigs of trees of the above name in southeastern Australia. It has been disclosed recently that at least 4 different \u201cphysiological\u201d forms of this tree grow in the area. So far, the most common types of essential oil distilled from the individual physiological forms are: 1) The Elimicin form of Backhousia Myrtifolia. The main constituent is trimethoxy-allylbenzene, a sweet-woody smelling material; 2) Isoelemicin form of Backhousia Myrtifolia. This oil consists mainly of Isoelemicin. 3) and 4): Methyleugenol form and Methyl Isoeugenol form. All four types of essential oil could be of considerable interest if they were produced on a large scale. They would be interesting starting materials for the isolation of the above mentioned main constituents which are either well-known and regularly used perfume materials (the latter two), or useful modifiers-fixatives for perfumes (the two former).",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Balsamite",
+        "picture": "https://www.compositae.org/img/banner.jpg",
+        "background_info": "An essential oil under the name of \u201cessence balsamite\u201d is steam distilled from a wild growing or cultivated herb of the family compositae (\u0151szi r\u00f3zsa). Balsamite Oil is a clear yellow or pale yellow liquid of very powerful, fresh-herbaceous and somewhat medicinal odor. The very first topnote bears some resemblance to the odor of Evoulimba Oil or to wild marjoram, pennyroyal terpenes, light fractions of pine oil, etc. The bodynotes have certain phases in common with basil, hyssop and savin. An almost nauseating, savin-like note is very persistent in the odor of this oil. The dryout is sweeter but resembles at times sulfate turpentine and terpinolene. Balsamite Oil could undoubtedly introduce piquant topnotes in foug\u00e8res, pine fragrances, spicy after-shave lotions, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "Rosemary, Bay leaf oil, Sage oil, Cedarleaf oil, Isobornylacetate, etc."
+        ]
+    },
+    {
+        "name": "Basil oil, sweet",
+        "picture": "https://www.gardenia.net/wp-content/uploads/2023/04/Zr6xu4xq1jF7hLENb2aNtO9jsD7DS6GLZMw24RPF-780x520.webp",
+        "background_info": "The true Sweet Basil Oil which is steam distilled from the flowering tops of the small plant Ocimum Basilicum. The oil is usually pale yellow or almost colorless. Its odor is sweet-spicy, slightly green, fresh, with a faint balsamic woody undertone and a lasting sweetness. It is produced in very limited quantities (annual world production is less than one metric ton), and the oil ranks among the more expensive essential oils. However, its great strength makes it very useful and generally applicable in fine perfumery and in flavor work. In perfumes, Sweet Basil Oil has been a \u201cclassic\u201d material in the \u201cOrigan\u201d type of perfumes and bases for several decades. In chypres, cr\u00e8pe de chines and certain modern aldehydic and \u201cgreen\u201d perfume types, the oil can introduce very interesting notes.",
+        "usage": "-",
+        "blends_well_with": [
+            "Opopanax, Bergamot oil, Isoeugenol, Sage clary, Methylionone, Cyclamal, Lime oil, Oakmoss, Hydroxycitronellal, etc."
+        ]
+    },
+    {
+        "name": "Bay Leaf oil, terpeneless",
+        "picture": "https://images.healthshots.com/healthshots/en/uploads/2024/10/22153857/Bay-leaf.jpg",
+        "background_info": "Terpeneless Bay Leaf Oil is produced from \u201ccrude\u201d (or \u201cnatural\u201d) Bay Leaf Oil by removal of the terpenes, usually only the low-boiling monoterpenes: myrcene, dipentene, pinene and limonene. Terpeneless Bay Leaf Oil is a pale straw- colored to brownish-orange colored oil, depending on the method of deterpenation. \u201cTopped-off\u201d oils are obviously darker than the natural oil from which they were produced. Terpeneless Bay Leaf Oil has an intensely sweet, deep and mellow odor of a spicy-balsamic type. The lemon-like topnote is still perceptible, but the freshness is less pronounced compared to the natural oil. Furthermore, the terpeneless oil is more easily soluble in diluted alcohol. This is an obvious advantage since the oil is used in preparations with low alcohol percentage. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Lavandin, Lavender, Petitgrain, Citrus oils, Rosemary, Geraniol, Citronellol, Cinnamic alcohol, Amylsalicylate, Ylang-ylang, etc."
+        ]
+    },
+    {
+        "name": "Beeswax Absolute",
+        "picture": "https://cdn2.stylecraze.com/wp-content/uploads/2023/02/Fresh-beeswax-for-hair-on-the-table.jpg.webp",
+        "background_info": "Perhaps better known under its French name, Absolute Cire d\u2019Abeille, this comparatively rare perfume material is an alcohol-soluble extract from crude yellow beeswax. Beeswax is produced all over the world: in cold-temperate zones and in the hottest tropics. Beeswax Absolute is a solid, waxy mass of pale yellow color and a very mild, sweet, oily odor, with a haylike or coumarinic bodynote and a soft, waxy undertone. The odor is remotely reminiscent of good (not harsh) linseed oil with a trace of honey notes. Beeswax Absolute is useful in perfumes where similar notes occur (as a modifier), or where \u201crough or chemical\u201d corners of synthetic materials must be rounded off.",
+        "usage": "-",
+        "blends_well_with": [
+            "Jasmine, Mimosa, Cassie, Violet, New mown hay, \"Tabac\", etc."
+        ]
+    },
+    {
+        "name": "Benzoin Tincture",
+        "picture": "https://genuineessentialoils.com/cdn/shop/products/benzoin_styrax_1_1200x1200.jpg?v=1572550738",
+        "background_info": "Benzoin Tincture is usually prepared only from selected \u201ctears\u201d of Benzoin Siam. Conventional strength is 20 parts by weight of Siam Benzoin, macerated with enough alcohol (of 90 or 96% strength by volume) to produce 100 parts by weight of finished tincture. The above quality of Benzoin is almost entirely soluble in alcohol, and the tincture will thus represent an approximate 20% solution of the alcohol-soluble resinoid of this benzoin. The tincture is amber colored, and has a sweet, balsamic-vanillin-like odor. The taste is somewhat bitter. Benzoin Tincture is used as a fixative in fine perfumery, in colognes, in alcohol for \u201cprefixation\u201d prior to the preparation of colognes and lotions, etc. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Benzoin Resinoid",
+        "picture": "https://sakhainternational.com/wp-content/uploads/2023/05/Untitled-design-8.jpg",
+        "background_info": "Benzoin Resinoid is produced from all grades of the crude botanical, Siam or Sumatra, often from a mixture of both. Benzoin Resinoid is used very extensively in perfumery, particularly in soap perfumes (see above on discoloration) where its fixative effect is much appreciated. It is generally applicable, but it has a pronounced odor-depressing effect upon the perfumes in which it is incorporated. This effect is closely connected with the fixative effect, and it is enhanced by the rich sweetness and deep balsamic notes from the resinoid. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Benzoin Sumatra",
+        "picture": "https://vanaroma.sgp1.digitaloceanspaces.com/new_website/images/botanical-source/Drying.jpg",
+        "background_info": "Sumatra Benzoin is a natural balsamic resin, exuded from a small tree, Styrax Benzoin, grown extensively in Sumatra and Malaya. Incisions are made in the trunks either through the bark or after peeling off spots of bark, and a viscous balsamic substance is produced as a pathologic material in the trunk. The substance flows out and solidifies on making contact with the air. The gum-resin is collected from the incisions and from the bottom of the trunk at the foot of the tree where significant quantities of benzoin accumulates. There are several grades of Sumatra Benzoin. The \u201cAlmond\u201d grade is considered the most suitable for perfumery purposes. It consists mainly of white or cream-colored brittle pieces, somewhat resembling almonds. This quality obviously yields a very pale-colored resinoid or tincture. It contains about 90% alcohol-soluble matter, occasionally more. Other grades of Sumatra Benzoin are solid masses, dark blocks of gray or brown-gray, uneven lumps containing more or less quantities of dirt, sand, wood splinters, etc. Benzoin Sumatra is a low-cost and readily available raw material, extensively used as a replacement for Siam Benzoin which is far more expensive. From a perfumer\u2019s point of view, however, the two benzoins should be considered as two different products. One can not substitute for the other. Siam Benzoin will find application in the more delicate fragrances. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Bergamot oil",
+        "picture": "https://bergamottoconsorzio.it/wp-content/uploads/2023/12/bergamotti-sulla-pianta-1024x683.jpg",
+        "background_info": "The economy of citrus oils in general is clearly depicted by the study of Bergamot Oil production. Only the expressed oil from the peels of the fruits from the small bergamot tree, Citrus Bergamia, are of any substantial interest. The leaves and twigs may be distilled to yield a Bergamot-Petitgrain Oil, the fruits are not edible. Bergamot Oil is produced by cold expression from the peel of the nearly ripe fruit. The tree grows almost exclusively in a narrow coastal strip in the southern part of Calabria, Italy. Bergamot Oil is a green or olive green, mobile liquid of extremely rich, sweet-fruity initial odor. Although the characteristics of this topnote remain perceptible in good oils, it is followed by a still more characteristic oily-herbaceous and somewhat balsamic body and dryout. The sweetness yields to a more tobacco like and rich note, somewhat reminiscent of sage clary and nerylacetate. The freshness in the topnote is mainly due to terpenes and small amounts of citral and aliphatic aldehydes. Absence of the \u201coily\u201d note is one of the most revealing features in poor or adulterated bergamot oils. The color of bergamot oil fades on ageing, particularly when the oil is exposed to daylight. The oil turns yellow or pale olive-brown. The color is also dependent upon the maturity of the fruit at the moment of expressing. Like all other citrus oils, Bergamot Oil is produced in the immediate vicinity of the plantations. The oil is used extensively in perfumery for its sweet freshness, particularly in citrus colognes, chypres, foug\u00e8res, modern fantasy bases, etc. Part of the sweetness and rich bodynote is due to the presence of large amounts of linalylacetate combined with linalool and traces of methylanthranilate. Unlike most other citrus oils, Bergamot Oil has a certain fixative effect when used in fairly high concentrations. The odor of the oil is well balanced from nature through the presence of certain coumarin derivatives, some of which are odorless and non-volatile. ",
+        "usage": "-",
+        "blends_well_with": [
+            "All oils"
+        ]
+    },
+    {
+        "name": "Bergamot oil, terpeneless",
+        "picture": "https://www.7scents.hu/wp-content/uploads/2019/07/Bergamott_1920_low.jpg",
+        "background_info": "From among the number of various methods of deterpenation, vacuum distillation seems to have become the most popular in the case of bergamot oil. Certain users of high-grade terpeneless bergamot oil will perform their own deterpenation, e.g. by selective solvent extraction or by the chromatographic methods. These methods result in practically colorless oils with a negligible loss of low- boiling and important oxygenated components. Occasionally, only the coarse-smelling light monoterpenes and the waxy residues are removed by simple vacuum-distillation. This yields an oil which is well suited for perfumery purposes: it will have improved solubility and intensified, rich body notes. The freshness is greatly impaired by this deterpenation. As far as concentration is concerned, the terpeneless oil is only a little \u201cstronger\u201d in odor effect compared to the natural oil. The advantage of the terpeneless oil lies in an odor improvement and a better solubility, partly also in better keeping qualities. Terpeneless Bergamot Oil finds use in perfumery among the high-class perfumes, better florals, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "in \"Muguet\", Chypre, Gardenia, Lavender, Violet, Numerous other sweet florals or fantasy bases"
+        ]
+    },
+    {
+        "name": "Birch Tar oil, rectified",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/5/53/Birkenpech.JPG",
+        "background_info": "The tar is produced from the bark of various birch species by slow destructive distillation. This tar is oily, almost black in color, and not quite homogeneous. Rectified Birch Tar is a pale yellow to brownish yellow, clear and oily liquid. The odor description, \u201clike Russian leather\u201d. The odor of Birch Tar Oil is distinctly phenolic, very penetrating and diffusive, obviously reminiscent of tar, charred wood and smoke. However, the most characteristic feature in the odor pattern of birch tar oil is the sweet-oily undertone which appears distinctly on the smelling blotter when the first empyreumatic notes have faded away. Rectified Birch Tar Oil has the additional advantage of being very pale and not discoloring with certain essential oils which would cause discoloration when mixed with phenols (patchouli, vetiver, copaiba balsam, etc.). The oil is easily soluble in alcohol, and does not impart an acid reaction to the perfume in which it is used. To the perfumer, this \u201cheart\u201d fraction of the birch tar oil is the true and highly appreciated sweet and powerful \u201cleather\u201d odor for foug\u00e8res, chypres, \u201cmen\u2019s fragrances\u201d, after-shave lotions, modern fantasy bases, etc. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Blackcurrant",
+        "picture": "https://loovfood.com/app/uploads/2023/02/Blackcurrant-berries-benefits.jpg",
+        "background_info": "Various flavor materials are produced from the buds of the shrub, Ribes Nigrum, the black currant bush. A Black Currant Tincture is prepared by maceration. The tincture is not a commercial article, and the flavor house will usually have to collect the flower-buds from its own plantations for this purpose. The tincture is used in the flavoring of certain types of liqueurs. Black Currant Absolute is produced by extraction of the buds with benzene or petroleum ether. The absolute is a viscous liquid of dark green color and powerful spicy-woody odor. There is a slightly phenolic undertone and the tenacity is not outstanding. Black Currant Oil, also known as Niribine Oil, is steam distilled from the flower-buds of the above shrub. The oil is almost colorless, mobile and of a distinctly terpenic odor, reminiscent of the terpenes in nutmeg, neroli, basil, or marjoram oils. Its high price and poor tenacity make its application rather limited, and it is doubtful whether this oil will ever attain any importance in perfumery or flavor work.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Bois de Rose oil (Rosewood)",
+        "picture": "https://www.essentialoilscompany.com/cdn/shop/products/rosewood-oil-bois-de-rose-32227984572596_0fa66678-6213-403c-a1c3-36037ea507ca.jpg?v=1724122788",
+        "background_info": "Ranking only a few years ago among the 15 \u201cbiggest\u201d essential oils in the world, Bois de Rose Oil to-day is fighting for survival in strong competition with other essential oils, and particularly with synthetic Linalool. Bois de Rose Oil is steam distilled, occasionally water-distilled, from the chipped wood of Aniba Rosaeodora and possibly other species of the genus Burseraceae belonging to the laurel family. The tree is a tropical, medium-sized, wild-growing evergreen from the Amazon basin. In perfumery, the term Rosewood means only Bois de Rose of the above kind. Bois de Rose Oil is a colorless or pale yellow liquid of a refreshing, sweet-woody, somewhat floral-spicy odor. The topnote varies considerably with the origin and quality of the oil. It is usually somewhat camphoraceous-peppery, reminiscent of cineole and nutmeg terpenes. It is worthwhile remembering that Bois de Rose Oil can dissolve considerable amounts of water. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Boronia Absolute",
+        "picture": "https://boyanupbotanical.com.au/wp-content/uploads/sites/102/2022/09/Boronia-Megastigma-1.jpg",
+        "background_info": "First of all, it is one of the very few flower absolutes which is not processed into a concr\u00e8te in the immediate vicinity of the growing areas of the plant. Furthermore, it is one of the few, if not the only, flower absolute which contains lonones. Boronia Absolute is produced by petroleum ether extraction of the flowers of Boronia Megastigma which grows wild in abundance all along the coasts and swamplands of western and southwestern Australia. Boronia is a small shrub or bushy plant, 4 to 6 feet high. It is related to the citrus tree. The odor of the dark green and somewhat viscous absolute is fresh, fruity- green, sweet tea-like, slightly spicy-herbaceous (reminiscent of cinnamon and tobacco leaf). The main body notes display a tremendously rich and tenacious floral undertone of warm, woody-sweet character. Boronia Absolute is used in high class floral perfumes and bases, e.g. violet, mimosa, cassie, honeysuckle, sweet pea, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "Sage clary, Bergamot, Costus, Sandalwood, Helichrysum, Amyl cinnamicaldehyde, Linalool, Salicylates, etc."
+        ]
+    },
+    {
+        "name": "Broom Absolute",
+        "picture": "https://bs.plantnet.org/image/o/b540792b0597c15f42bfdaba56a56f312c90d5a2",
+        "background_info": "The perfumer\u2019s \u201cabsolute de gen\u00eat\u201d, or Broom Absolute, is extracted from the so-called Spanish broom, Spartium Junceum. Broom Concr\u00e8te is a solid, dark brown, unctuous mass of a sweet honey-rose-like, somewhat woody and haylike odor. The concr\u00e8te yields about 35 to 50% of alcohol-soluble absolute. Broom Absolute is dark brown, semi-solid or viscous liquid, with an intensely sweet, floral haylike fragrance. The deep herbaceous-coumarinic background has great tenacity. The honey-rose notes are particularly useful in certain types of rose bases, tuberose, cassie, mimosa, violet, honeysuckle, etc. It is generally useful in modern aldehydic perfume types, green notes, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "Ionones, Vetiver, Castoreum, etc."
+        ]
+    },
+    {
+        "name": "Bruy\u00e8re",
+        "picture": "https://bs.plantnet.org/image/o/de30fa2858ae3beb073b49a45ece344b0d587d81",
+        "background_info": "Erica Arborea grows all over the Mediterranean countries, and it is particularly common in Algeria, Corsica, and in the Canary Islands. This plant may grow to an age of several hundred years and a height of 60 feet (18 metres). The roots of such old species are collected for the purpose of carving shag tobacco pipes (\u201cBriar\u201d wood). The unusually high content of ashes in the wood prevents it from \u201cburning through\u201d in a pipe. Waste wood from the pipe carving factories and workshops used to be discarded, but it is now occasionally used for the production of Bruy\u00e8re Absolute. This absolute is a greenish-yellow to pale yellow or brownish-yellow, solid but soft mass, resembling guaiacwood or araucaria oils. The odor of bruy\u00e8re absolute is very mild, woody- green and pleasant-balsamic, slightly spicy-aromatic. In rose perfumes, chypre bases, cr\u00eape de Chine, oriental-woody bases, etc., bruy\u00e8re absolute lends a delightful undertone and excellent fixative effect.",
+        "usage": "-",
+        "blends_well_with": [
+            "Olibanum",
+            "Ionones",
+            "Sage Clary",
+            "Oakmoss",
+            "Labdanum absolutes",
+            "etc."
+        ]
+    },
+    {
+        "name": "Buchu Leaf oil",
+        "picture": "https://inaturalist-open-data.s3.amazonaws.com/photos/23131661/large.jpg",
+        "background_info": "This essential oil is steam distilled from the dried leaves of Barosma Betulina, a herb which grows wild and abundantly in South Africa. Tinctures, oleoresins and other extracts are produced for pharmaceutical purposes. Only a small fraction of the total amount of harvested buchu leaves are used for distillation of essential oil. Buchu Leaf Oil is a yellow to brownish-yellow liquid, oily or somewhat viscous, depending upon the age of the oil and the dryness of the plant material prior to distillation. The odor is very peculiar: strong, bitter-sweet, minty-camphoraceous, rootlike, penetrating and somewhat medicinal, reminiscent of cough preparations. Buchu leaf oil is occasionally used in chypre bases, certain types of colognes, etc. for its power, diffusion, and freshness. On account of its very penetrating odor-flavor, this oil will always be limited to being a \u201clow-percentage-item\u201d in the formula.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
         ]
     }
 ]

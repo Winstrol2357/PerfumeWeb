@@ -55,7 +55,7 @@
     },
     {
         "name": "Ambergris",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mother_and_baby_sperm_whale.jpg",
+        "image": "https://2seewhales.com/wp-content/uploads/2018/02/sperm-whale-1000x480.jpg",
         "background": "Ambra, also called Ambregris or Ambergris, is a substance of animal tissue, formed in the stomach or intestine of Physeter Catodon, the cachalot whale. It is conceivable that Ambra is the result of a pathological condition caused by irritation of the whale\u2019s stomach walls due to certain indigestible particles in the whale\u2019s food. Consequently, Ambra is one of the few natural perfumery raw materials which cannot be \u201ccultivated\u201d. Pieces of Ambra are either washed ashore on various temperate ocean coasts and islands, or they are found inside the whales when these great mammals are captured for their oil. Ambra is a pale grayish or creamy-yellow to brown or dark brown waxy solid mass which melts in boiling water. Its odor is rather subtle, reminiscent of seaweed, wood, moss, with a peculiar sweet, yet very dry undertone of unequaled tenacity. There is rarely any animal note at all in a good grade of Ambra. The greater part of a good grade of Ambra is soluble in alcohol. By concentration of the tincture, the so-called Resinoid of Ambergris is obtained. When concentrated 20 times, the ambergris tincture turns into a light brown, semi-solid mass, which could be called \u201c20-fold tincture of ambergris\u201d. Ambra has comparatively little diffusive power, but it has a tremendous tenacity. Musk or Civet are required to improve the \u201cwearability\u201d of a perfume. Consequently, Ambra Tincture is particularly recommended in the more delicate florals, e.g. muguet, sweet pea, lilac, freesia, cyclamen, white rose, etc. In the modern aldehydic \u201cfantasy\u201d perfume bases, the use of Ambra or a similar \u201cbouquetting\u201d agent is a necessity in order to \u201cround off\u201d the stubborn chemical notes of aliphatic aldehydes. ",
         "usage": "-",
         "blendsWith": [
@@ -220,7 +220,7 @@
     },
     {
         "name": "Atractylis oil",
-        "picture": "https://lh3.googleusercontent.com/proxy/GFCs8aq_HMWzfKOkuMxaMU0d2p6sY-vqQvA6ENmCvT0S5DZRaxevt5rqUU8MRTE8meoWOYTpqZbJ_irEFALLNLOHU7o_ghxZ7YPvlhVoKIPvwuSEN02vaQ",
+        "picture": "https://www.florealpes.com/photos/atractylishumilis_5.jpg",
         "background_info": "Atractylis Oil is steam distilled from the roots of Atractylis Ovata and possibly from other species of Atractylis. Atractylis Oil is a solid, waxy-crystalline mass of dark yellow to orange-red color. Atractylis Oil is very useful in perfumery where its excellent fixative effect and surprising power can be utilized in heavy oriental bases, woody fragrances, spicy and dry ambra types, etc. ",
         "usage": "-",
         "blends_well_with": [
@@ -385,6 +385,320 @@
         "usage": "-",
         "blends_well_with": [
             "-"
+        ]
+    },
+    {
+        "name": "Cabreuva oil",
+        "picture": "https://www.zayataroma.com/sites/zayataroma.com/files/products/za.cabreuva.eas697327-min.jpg",
+        "background_info": "The essential oil of Cabreuva is now produced by distillation of waste wood from the lumbermills. They yield a pale yellow, somewhat viscous essential oil of sweet-woody, very delicate and slightly floral odor. Its tenacity is one of its greatest virtues. Certain lots of Cabreuva Oil may display dry topnotes similar to those found in cubeb oil or in the sesquiterpenes from clove leaf oil. Although very delicate and apparently faint, the odor of Cabreuva Oil is often under-estimated in its effect of freshness and suave-floral notes. In rose, lily-of-the-valley, cassie, ambre and in woody-oriental perfumes, Cabreuva Oil lends tenacity and distinct notes of \u201cprecious wood\u201d with a background of slightly green, dry floralness, a combination rarely found in synthetic perfume materials. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Cade oil",
+        "picture": "https://www.conifers.org/cu/ju/oxycedrus03.jpg",
+        "background_info": "Obtained by destructive distillation of the wood from Juniperus Oxycedrus, a shrub related to the common juniper. The Cade Oil, used in perfumery is usually a rectified oil, obtained by rectification (steam distillation or vacuum distillation) of the crude juniper tar oil. The latter consists of the upper layer of the entire mass of tar which is obtained by destructive distillation of the wood. Rectified Cade Oil is a clear, orange-brown to dark brown, oily liquid with an intense \u201ctar-like\u201d, smoky-phenolic odor. Its use in perfumery is limited to situations where a smoky-leathery, woody-phenolic, dry and warm note is called for: forest notes, leather-bases, foug\u00e8res, pine for \u201cmen\u2019s fragrances\u201d, etc., and in the imitation of certain essential oils, oakmoss, etc. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Calamus oil",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/3/37/Acorus_calamus1.jpg",
+        "background_info": "Calamus Oil is steam distilled from the rhizomes (underground stems) of the wild growing or cultivated Acorus Calamus. Calamus Oil is generally a pale yellow to pale brown, viscous liquid of a warm, woody-spicy and pleasant odor with increasingly sweet afternotes and great tenacity. Poorer oils show more or less pronounced camphoraceous or cineolic notes. The odor of good oils bears some resemblance to the odor of dried milk or sweet leather, slightly creamy-nutty. Typical laymen-expressions for the odor of calamus oil at the first experience with this oil are: \u201cmilk-truck odor\u201d or \u201cshoe-repair shop odor\u201d, etc. Calamus Oil is useful in perfumes of the woody- oriental type, in leather-bases, ambres, etc. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Cananga",
+            "Cinnamon",
+            "Costus",
+            "Labdanum",
+            "Olibanum",
+            "Patchouli",
+            "Ionones",
+            "Methylionones",
+            "Cis-para-tertiary butylcyclohexanyl acetate",
+            "Nitromusks",
+            "Grisambrol",
+            "Cedarwood derivatives "
+        ]
+    },
+    {
+        "name": "Canada Balsam",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9tqzQGwP7cWiVK13JdDG0QFxMrk6V9i1tnAfzNeREn9lZguSM",
+        "background_info": "Canada Balsam is a physiological product exuded from the spruce, Abies Balsamea. Canada balsam is a very viscous, non-pourable (except when very fresh), honeylike and crystal- clear mass of pale yellow color, occasionally with a greenish tint. Its odor is fresh, sweet-balsamic with an almost fruity-floral topnote reminiscent of the odor of iso-propyl benzoate, but fresher, at times lemon-like rather than turpentine-like. The dryout bears some resemblance to the dryout notes of Atlas cedarwood oil. The essential oil consists almost entirely of monoterpenes and has little perfumery value. Canada balsam is used to a limited extent as a fixative in finer pine needle fragrances to which it also lends a certain freshness. Its high price and limited availability prevents extensive use of this material.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Cananga oil",
+        "picture": "https://u.iplantz.com/308/Cananga%20odorata-4245.5017.jpg",
+        "background_info": "The true Cananga Oil of today is the total essential oil, water-distilled from the flowers of Cananga Odorata (forma macrophylla) in the northern and western parts of Java (Indonesia). The flower is extremely delicate, and easily loses its fragrance when damaged. Java cananga oil is a yellow to orange-yellow or slightly greenish-yellow, somewhat viscous liquid of sweet-floral, balsamic and tenacious odor. The initial notes are woody-leathery with a fresh-floral undertone, a characteristic combination. The odor type is much \u201cheavier\u201d than that of ylang-ylang and it is also more tenacious than the first and second grades of that oil. Cananga oil is useful in soap perfumery and for the popular \u201cleathery\u201d notes in men\u2019s fragrances where it combines well with castoreum, calamus, birch tar oil rectified, cyclamal, creosol, copaiba oil, isobutyl cinnamate, isoeugenol, labdanum products, guaiacwood oil, nerol, para-cresyl salicylate, oakmoss products, etc. and with foug\u00e8re bases, violet bases, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Cangerana",
+        "picture": "https://d2seqvvyy3b8p2.cloudfront.net/b7d5daadf8e69374443bd176d1a7d5bb.jpg",
+        "background_info": "The essential oil of Cabralea Cangerana, often called Cangerana, is steam distilled from the bark of the root of a Brazilian tree of the above name. The peel or bark of Cabralea Cangerana root is used in local medicine. Cangerana Oil is a viscous liquid of pale olive- green to pale turquoise color. Its odor is distinctly woody, very dry and earthy, spicy-peppery, reminiscent of cubeb oil, cyperus oils, carrot seed oil, clove leaf sesquiterpenes, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "Clove oils",
+            "Lavandin",
+            "Oakmoss",
+            "Olibanum",
+            "Petitgrain",
+            "Pine needle oils",
+            "Vetiver",
+            "Borneol",
+            "Cedarwood derivatives",
+            "Coumarin",
+            "Isobornylacetate",
+            "Methyl Anthranilate",
+            "Nitromusks",
+            "etc."
+        ]
+    },
+    {
+        "name": "Cap\u00e9 oil",
+        "picture": "https://d2seqvvyy3b8p2.cloudfront.net/18fc4c962bdad719f1580de806d2ba39.jpg",
+        "background_info": "The plant is a semi-climbing vine which grows wild in the jungles of Guinea and the Ivory Coast. The leaves are extremely fragrant, and the natives use them to perfume their baths and to scent their vegetable oils. Cap\u00e9 Oil is an olive-green liquid of strong, woody-floral and deep-sweet odor with a somewhat minty-sharp topnote. The tenacity is excellent. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Oriental bases",
+            "Woody-herbaceous bases",
+            "Floral bases",
+            "Hyacinth",
+            "Lilac",
+            "Ylang-ylang",
+            "etc."
+        ]
+    },
+    {
+        "name": "Capsicum ",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/6/62/Tabasco_peppers.JPG",
+        "background_info": "Under the name of Capsicum, the fruits of various species of the family Solanaceae (nightshade family) are used extensively as pungent food additives in pickles, spice blends, etc. Capsicum Oleoresin is a dark red or orange-red to brownish-red liquid, soluble in ethyl ether, hydrocarbon solvents and most vegetable (fixed) oils, but not in alcohol. If the fruits are extracted with alcohol, the oleoresin will be darker, more viscous and contain less pungent matter per weight unit. If the ether-extracted oleoresin is extracted with ethyl alcohol, the oleoresin will yield an Absolute of Capsicum which contains the pungent material. The absolute is soluble in alcohol and is easier to use in flavors where hydrocarbon solvents are rarely used or wanted. Capsicum Absolute has an interesting tobacco-like, sweet-herbaceous odor which could be utilized in jasmin bases, cassie, mimosa, modern fantasy bases, etc. A pungency- free and non-irritant capsicum absolute should be prepared for use in perfumes which inevitably come in contact with the human skin.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Cardamom oil",
+        "picture": "https://www.6rasa.com/cdn/shop/articles/GreenCardamom_1200x1200_crop_center.jpg?v=1664103015",
+        "background_info": "Cardamom Oil is one of the oldest essential oils known. In the reports of Valerius Cordus dated 1540, cardamom oil is described, and its distillation is outlined. The oil is produced by steam distillation of the seeds of Elettaria Cardamomum, a plant of the ginger family. The seeds are enclosed in husks (hulls), and should not be removed from the almost odorless hulls until immediately prior to distillation. Cardamom Oil is an almost colorless or pale yellow to light brownish liquid. It darkens when exposed to daylight. The locally distilled oils are generally darker than those distilled in Europe or the U.S.A. Guatemalan oil is distilled in comparatively modern equipment and under experienced technical supervision. It is also light colored. The odor of cardamom oil is warm-spicy, aromatic, at first penetrating camphoraceous-cineole-like or somewhat medicinal, reminiscent of eucalyptus. Later, it becomes balsamic-woody, increasingly sweet and almost floral on the dryout. The odor is extremely tenacious with a delightful, warm spiciness and balsamic-floral undertone. In perfumery, the oil will not only impart spiciness, but also a warm, sweet note which fits into floral bases such as muguet and rose. Coriander oil is an extremely fine modifier for cardamom oil in perfumery. The oil imparts warmth in Oriental perfume bases, chypres and face powder perfumes. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Bergamot",
+            "Olibanum",
+            "Ylang-ylang",
+            "Labdanum products",
+            "Nerol",
+            "Methylionones",
+            "Cedarwood derivatives",
+            "Heliotropine",
+            "Cassione",
+            "Isoeugenol",
+            "Hydroxycitronellal",
+            "etc."
+        ]
+    },
+    {
+        "name": "Carnation Absolute",
+        "picture": "https://cdn.britannica.com/38/189538-050-6EC8A082/carnation-flowers.jpg",
+        "background_info": "Known in France as \u201cabsolue d\u2019eillet\u201d, Carnation Absolute is produced by extraction of the flowers of Dianthus Caryophyllus, the common garden carnation. Carnation is an olive green to green or orange- brown, viscous liquid of very sweet, honeylike, somewhat herbaceous, heavy and tenacious fragrance, reminiscent of the odor of the live flowers only to a certain degree and only in high dilutions (5% or weaker). Carnation Absolute is used sparingly in certain modern perfumes, and it can add interesting notes to rose, lily, narcissus, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "Lavender",
+            "Ylang-ylang",
+            "Sage clary",
+            "Castoreum",
+            "etc."
+        ]
+    },
+    {
+        "name": "Carob Bean",
+        "picture": "https://media.istockphoto.com/id/925193380/photo/carob-pods-and-carob-beans.jpg?s=612x612&w=0&k=20&c=bXNa5CqwRq8xvWnGOudWQvo-asOLzdsLjBofTW6D5bM=",
+        "background_info": "The flowers of the carob bean tree can be extracted to yield a concr\u00e8te of a very interesting mimosa-cassie type of odor. The perfume type \u201clocust flower\u201d was originally intended to call this fragrance in mind. It is very likely, however, that the flowers from the carob bean tree are used accidentally or intentionally with cassie or mimosa flowers in the extraction of concr\u00e8te. A tincture made with strong alcohol is prepared specially for use in perfumes. It is pale colored and has a faint odor of the bean. This tincture finds occasionally use in the creation of certain floral notes, where it seems to introduce naturalness and roundness in spite of the unquestionable cheese-note. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Carrot Seed oil",
+        "picture": "https://plantorbit.com/cdn/shop/files/image_q-7_206e6343-f2c6-4ce8-a750-5bd243610af6.webp?v=1712523401",
+        "background_info": "This oil is steam distilled from the dried seed (fruit) of the common carrot, Daucus Carota. Carrot Seed Oil is a yellow or amber-colored to pale orange-brown liquid of peculiar drywoody, somewhat root-like, earthy odor. The initial notes are sweet and fresh, but the tenacious undertone and dryout is very heavy, weset-earthy, fatty-oily, slightly spicy. In France and other countries, Carrot Seed Oil is used in perfumery for its fatty-woody notes which blend well with chypres, citrus oils, costus oil, cassie and mimosa, foug\u00e8res, geranium oils, ionones and methylionones, cedarwood derivatives, etc. Many Oriental perfume types, modern aldehydic or fantasy type perfumes, etc. contain traces of carrot seed oil. For certain artificial essential oils, Carrot Seed Oil lends unique and indispensable notes. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Chypres",
+            "Citrus oils",
+            "Costus oil",
+            "Cassie",
+            "Mimosa",
+            "Fougeres",
+            "Geranium oils",
+            "Ionones",
+            "Methylionones",
+            "Cedarwood derivatives",
+            "etc."
+        ]
+    },
+    {
+        "name": "Cascarilla oil",
+        "picture": "https://www.theginguild.com/wp-content/uploads/2019/10/cascarilla-bark.jpg",
+        "background_info": "This oil is steam distilled from the dried bark of Croton Eluteria and possibly other Croton species. The bark is dried and freed from any adherent sapwood or heartwood, but it is not distilled locally. The bark is sold to the large botanical houses and drug store suppliers. Alcoholic tinctures or extracts are prepared pharmaceutically, and are used as flavor materials, as a tonic additive or as a so-called \u201cbitter\u201d. Cascarilla Oil is a pale yellow to greenish- yellow or dark amber colored liquid of strong spicy-aromatic, warm-woody, slightly peppery odor reminiscent of nutmeg, myrtle, melaleuca alternifolia, hyssop and other spices or culinary herbs. Its topnote is not exactly pleasant, but the unusual diffusiveness and power of this oil places it among the \u201ctrace\u201d components in perfumes. The very complex note of spiciness and the warm, woody undertone has intrigued many perfumers to use Cascarilla Oil in high-class perfumes. It was even claimed that \u201cl\u2019origan\u201d contained this oil as one of the \u201ckey\u201d materials. But the oil does present interesting notes in chypre bases, \u201ctabac\u201d-types, Oriental perfumes, \u201cmen\u2019s fragrances\u201d, fantasy colognes, etc. Its power is often underestimated.",
+        "usage": "-",
+        "blends_well_with": [
+            "Nutmeg",
+            "Pepper",
+            "Pimenta Berry oil",
+            "Sage oil dalmatian",
+            "Oakmoss products",
+            "Quinoline derivatives",
+            "Cedrenol",
+            "Coumarin",
+            "etc."
+        ]
+    },
+    {
+        "name": "Cassie",
+        "picture": "https://strapi.myplantin.com/medium_menu_272f6c81-525e-4053-bd0f-ec92b65eeb5f.webp",
+        "background_info": "A valuable and scarce perfume material is extracted from the flowers of Acacia Farnesiana, a small tree or shrub which grows in warm-temperate and semi-tropical areas all over the world. The flowers are extracted with petroleum ether to yield Cassie Concr\u00e8te which is a solid, waxy mass of dark yellow or brown color, usually much darker than mimosa concr\u00e8te. The cassie concr\u00e8te is rarely used as such. It is processed further to Cassie Absolute by alcohol extraction of the concr\u00e8te. The concr\u00e8te yields only about one third of absolute by weight. Cassie Absolute from Concr\u00e8te is a dark yellow or pale brown, viscous liquid, clear at room temperature but separating waxy flakes at reduced temperatures. Its odor is extremely warm, powdery-spicy, at the same time herbaceous and floral with a deep and very tenacious cinnamic-balsamic undertone. The absolute is used in high-cost perfumes where it lends a unique warmth and woody- floral note.",
+        "usage": "-",
+        "blends_well_with": [
+            "Ionones",
+            "Methylionones",
+            "Heliotropine",
+            "Cassione",
+            "Anisalcohol",
+            "Cyclamal",
+            "Bergamot oil",
+            "Costus",
+            "Mimosa",
+            "Orris products",
+            "Olibanum",
+            "Ylang-ylang absolute",
+            "etc. "
+        ]
+    },
+    {
+        "name": "Castoreum",
+        "picture": "https://nationalzoo.si.edu/sites/default/files/styles/wide/public/animals/20181031-skipbrown152.jpg?itok=0tjfQSVM",
+        "background_info": "Castoreum is a secretion from the male or the female beaver. It is collected in a gland which produces an oily substance in which the beavers rub themselves in order to protect their fur from being soaked in water. Castoreum is a term normally used for the entire gland. The contents of the gland turn dark and hard when it is sundried. One gland weighs up to 100 grams. Thus, it is much less expensive than civet. Castoreum is used in perfumery in the form of various processed materials: Tincture, Resinoid, Absolute. Castoreum (the tincture in particular) is used extensively in perfumery. It\u2019s warm, animal, leather-like sweet odor makes it an interesting item in \u201cmen\u2019s perfumes\u201d, foug\u00e8res, chypres, Oriental bases, leather notes, tabac bases, etc. A frequent \u201csmoky\u201d note in castoreum is not a natural odor, but is due to the drying of the glands over smoking fires. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Ambra notes",
+            "Calamus",
+            "Cananga",
+            "Cedarwood Atlas",
+            "Chamomile Moroccan",
+            "Creosol",
+            "Labdanum products",
+            "Isoeugenol",
+            "Oakmoss products",
+            "Sandalwood oil",
+            "Veratraldehyde",
+            "Zingerone",
+            "etc."
+        ]
+    },
+    {
+        "name": "Cedarleaf oil (Thujon oil)",
+        "picture": "https://i0.wp.com/tripplebrookfarm.com/wp-content/uploads/2024/07/Northern_Whitecedar_Thuja_occidentalis_Tettegouche_State_Park_Minnesota_1.jpg?fit=397%2C402&ssl=1",
+        "background_info": "Cedarleaf Oil, which is also known commercially under the name of Thuja Oil, is actually not distilled from the most well known cedar. Leaves and twigs of Juniperus Virginiana are occasionally admixed to the above material prior to the steam distillation of cedarleaf oil. Cedarleaf oil (thuja oil) is a colorless to pale greenish-yellow, mobile oil of an intensely sharp, but quite fresh, camphoraceous odor. It bears great resemblance to the flowering tansy herb, artemisia herb, dalmatian sage herb, etc. with a sweet undertone reminiscent of bitter fennel. It is a low-cost and powerful perfume ingredient for room-sprays, disinfectants, insecticides, paints, household and industrial cleansers, etc. It\u2019s green, sweet-herbaceous, although medicinal and camphoraceous-minty note blends well with pine needle oils, citrus oils, lavandin and rosemary in chypre or foug\u00e8re bases. The oil has even been used as a \u201cpiquant\u201d topnote in high- class perfumes. The chief constituent, Thujone, is a ketone which is considered skin-irritant and poisonous to a certain degree. At the normal use-level of cedarleaf oil in perfumes, however, it seems inconceivable that the oil could be responsible for any harmful effects. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Atlas Cedarwood Resinoid",
+        "picture": "https://diacos.com.au/app/uploads/2020/08/Cedrus-atlantica-Blue-Cedar.jpg",
+        "background_info": "A concr\u00e8te can be produced by benzene extraction of the wood from Cedrus Atlantica. Resinoid of Atlas Cedarwood is a dark amber to brownish mass of high viscosity. The above product is used in perfumery along with bois de rose oil, boronia absolute, calamus oil, cassie absolute, cistus oil, mimosa absolute or concr\u00e8te, olibanum, sage clary, vetiver, ylang-ylang, etc. in certain types of woody, woody-oriental, woody- floral or violet bases.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Cedarwood oil, Texas",
+        "picture": "https://dam.hollandandbarrettimages.co.uk/default/_raw/7639970a-6b01-49ca-8e63-2ef5fcaf2aa4/cederwood-oil.png",
+        "background_info": "Practically unknown 30 years ago, the oil of Juniperus Mexicana to-day ranks among the \u201cover 100-tons-a-year\u201d oils, and it enjoys the steady interest of perfumers and an increasing interest of the manufacturers of aromatic chemicals. The oil is steam distilled from the heartwood of this tree which is felled exclusively for the purpose of producing the essential oil. Crude Cedarwood Oil, Texas is a dark orange to brownish, turbid or clear, somewhat viscous liquid. Considerable amounts of crystals deposit from the oil on standing. In cold weather the oil may become entirely solid. The odor of the crude oil is pleasant, sweet-woody, yet somewhat tar-like or cade-like, smoky. On drying it becomes increasingly balsamic-sweet and it shows great tenacity with a uniform, sweet-woody dryout. Rectified (redistilled, steam-redistilled, etc.) oil of Juniperus Mexicana is pale yellow or almost colorless. Its odor is less tar-like, less cade-like or smoky than that of the crude oil. The dryout is clean, sweet-woody with the typical \u201cpencilsharpener\u201d-odor. A \u201clight\u201d fraction consists mainly of sesquiterpenes and it presents the dry-woody part of the cedarwood notes. It has only poor fixative effect but great odor-masking ability. The crude oil as well as the rectified oil are used extensively in perfumery. The rectified oil is generally preferred when dark perfume color may be a problem. As a blender for ionones and methylionones, cinnamic alcohol, nitromusks, ambre bases and leather bases, patchouli, pine, spruce, vetiver oil, etc., the oil of Juniperus Mexicana is a most versatile material for the creative perfumer.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Cedarwood oil, Virginia",
+        "picture": "https://fichiers.scentree.co/static/scentree_detailed_pages/images/Cedarwood%20Virginia%20EO.jpg",
+        "background_info": "One of the most important cedarwood oils from the United States of America is the oil of Juniperus Virginiana, known as Virginia cedar or \u201cSouthern Red Cedar\u201d. Juniperus Virginiana is a shrub or a tree; it occasionally grows to a considerable size, and is found growing wild all over the southeastern United States. The wood from these trees is highly appreciated for the manufacture of cabinets, chests, etc.; the essential oil is steam distilled from the sawdust and other waste wood from the lumbermills. Older trees are preferred since they contain more of the reddish heartwood which not only gives a beautiful surface when polished, but also yields much more essential oil than the wood from young trees or sapwood (which is white). Virginia Cedarwood Oil is a pale yellow to slightly orange-yellow colored oil which, on rectification, will yield a water-white, oily liquid. It is slightly less viscous than Atlas or Texas cedarwood oils and it does not deposit crystals at ordinary temperatures. The odor of Virginia cedarwood oil is at first oily-woody and almost sweet, mild and pleasant, somewhat balsamic and typical of cedarwood (lumber). The odor becomes drier and more woody, less balsamic as the oil dries out on a perfume blotter. Virginia Cedarwood Oil is used extensively in perfumery, particularly in soap perfumery, as a fixative and cost-reducer for vetiver oil, sandalwood oil, patchouli oil or even in the comparatively cheap guaiacwood oil. The dry-woody character and the fixative effect of cedarwood oil, Virginia, make it almost universally applicable. The oil is frequently used as the only active perfume ingredient in room sprays, disinfectants, insecticides, cleansers and other industrial products, household products, etc. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Celery seed oil",
+        "picture": "https://i.herbalreality.com/wp-content/uploads/2020/07/21124937/Celery-seeds-ajomoda.jpg",
+        "background_info": "This oil is produced by steam distillation of the fruits (seed) of either wild or cultivated Apium Graveolens, the celery plant. It is customary to crush the seed prior to distillation, but some distillers do not comminute the seed prior to distillation. Celery seed, like most other fruits of the umbellifer family, contain substantial amounts of palmitic acid and related fatty acids. These are volatile with steam and may withhold some essential oil in solution and emulsion. Celery Seed Oil is a pale yellow to orange yellow liquid. Its odor is spicy-warm, sweet and rich, \u201csoup-like\u201d, longlasting and powerful, slightly fatty, typical of the odor of the seed (fruit) but less fresh than the odor of the celery plant. Celery seed oil is one of the most diffusive odors and one of the most penetrating flavors. In perfumery, celery seed oil is used very frequently, but only in very small amounts. Used skillfully, it can impart warm notes in floral and Oriental compositions, in lavender bouquets, in modern fantasy and aldehydic perfumes, etc. Carelessly used, it may easily ruin a perfume. Its diffusive power and great odor tenacity should not be underestimated. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Chamomile oil, Moroccan",
+        "picture": "https://naturesgift.com/wp-content/uploads/BlueTansy-plant-1024x682.jpg",
+        "background_info": "Ormenis Multicaulis, a good-looking plant, 90 to 125 cms. high, with very hairy leaves and tubular yellow flowers, surrounded by white ligulets, the typical construction of a composite species. The oil of Ormenis Multicaulis is a pale yellow to brownish yellow, mobile liquid. It seems that light-colored oils are obtained at the beginning of the inflorescence (better perfume oils), and darker oils come in poorer yields at the end of the inflorescence. The odor of the pale oils is fresh-herbaceous, slightly camphoraceous, but soon changes into a sweet, cistus-like and richbalsamic undertone which is very tenacious and pleasant, almost ambra-like. The oil finds application in citrus-colognes, ambre-, chypre-, foug\u00e8re-bases, as well as in a multitude of other bases where a fresh modification of ambre-herbaceous notes are called for (lavender, pine, etc.). Even trace amounts of the oil may introduce a delightful topnote in a herbaceous or floral-herbaceous fragrance.",
+        "usage": "-",
+        "blends_well_with": [
+            "Artemisia oils",
+            "Cypress oil",
+            "Labdanum products",
+            "Lavandin",
+            "Lavender",
+            "Vetiver oil",
+            "Cedarwood oil derivatives",
+            "Oakmoss products",
+            "Olibanum",
+            "etc."
+        ]
+    },
+    {
+        "name": "Chamomile oil, Roman",
+        "picture": "https://health-beauty.groupeberkem.com/wp-content/uploads/2023/10/127-roman-chamomille-aspect-ratio-1280-600.jpg",
+        "background_info": "Occasionally called \u201cchamomile oil\u201d, the Roman Chamomile Oil is distilled from the ligulate florets of Anthemis Nobilis, a plant which is related to the \u201ctrue\u201d chamomile. Roman Chamomile Oil is a pale blue, mobile liquid (when fairly fresh) of sweet herbaceous, somewhat fruity-warm and tealeaf-like odor. The odor is extremely diffusive but it has little tenacity. \u201cRoman\u201d chamomile oil is rarely used in flavor work (occasionally in certain types of alcoholic beverages), but more frequently, although very sparingly, in perfumes. It imparts a warm, yet fresh note and a natural depth which is difficult to obtain by other means. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Amyl cinnamic aldehyde",
+            "Bergamot oil",
+            "Jasmine bases",
+            "Labdanum products",
+            "Neroli oil",
+            "Sage Clary oil or absolute",
+            "Oakmoss products",
+            "etc."
+        ]
+    },
+    {
+        "name": "Champaca Absolute",
+        "picture": "https://www.diggers.com.au/cdn/shop/products/wmich_2048x.jpg?v=1716770331",
+        "background_info": "Champaca Absolute is obtained by extraction of the beautiful deep-yellow flowers of Michelia Champaca, a medium-sized slender tree, related to the magnolias. Champaca Concr\u00e8te is a dark yellow to orange- brown, solid, waxy mass of delightfully sweet and delicately floral fragrance. An Absolute of Champaca is produced by the usual method. It is a dark yellow or a brownish-orange colored, somewhat viscous liquid. Its odor is quite unique: delicately dry-floral, at the same time reminding one of orange flowers, ylang-ylang, carnation and tearose. There are notes which resemble those of sage clary, methyl eugenol and \u201cthe good old type\u201d of guaiacwood oil. Champaca Absolute is used in certain high-class perfumes where it may produce a unique, warm, floral-leafy note which is often compared to that of a fine grade of tea. However, its effect is not perceptible unless the absolute is skillfully backed up with rich, but weak-smelling blenders and modifiers. Sandalwood oil is an excellent fixative for the champaca fragrance, and so is isoeugenol, benzylsalicylate, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "Lily-of-the-valley bases",
+            "Carnation",
+            "Rose",
+            "Violet",
+            "etc."
         ]
     }
 ]

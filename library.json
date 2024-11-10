@@ -1,1 +1,58 @@
-[]
+[
+    {
+        "name": "Colonia di Farina",
+        "ingredient_count": 8,
+        "desired_quantity": "5g",
+        "date": "2024-11-09",
+        "materials": [
+            {
+                "material": "bergamot essence",
+                "parts": 240,
+                "grams": "1.200",
+                "percentage": "24.0"
+            },
+            {
+                "material": "neroli essence",
+                "parts": 120,
+                "grams": "0.600",
+                "percentage": "12.0"
+            },
+            {
+                "material": "g petitgrain essence",
+                "parts": 120,
+                "grams": "0.600",
+                "percentage": "12.0"
+            },
+            {
+                "material": "jasmine essence",
+                "parts": 40,
+                "grams": "0.200",
+                "percentage": "4.0"
+            },
+            {
+                "material": "geranium essence",
+                "parts": 40,
+                "grams": "0.200",
+                "percentage": "4.0"
+            },
+            {
+                "material": "lavender essence",
+                "parts": 40,
+                "grams": "0.200",
+                "percentage": "4.0"
+            },
+            {
+                "material": "rosemary essence",
+                "parts": 10,
+                "grams": "0.050",
+                "percentage": "1.0"
+            },
+            {
+                "material": "rose essence",
+                "parts": 2,
+                "grams": "0.010",
+                "percentage": "0.2"
+            }
+        ]
+    }
+]

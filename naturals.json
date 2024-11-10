@@ -305,7 +305,7 @@
         "name": "Bergamot oil",
         "picture": "https://bergamottoconsorzio.it/wp-content/uploads/2023/12/bergamotti-sulla-pianta-1024x683.jpg",
         "background_info": "The economy of citrus oils in general is clearly depicted by the study of Bergamot Oil production. Only the expressed oil from the peels of the fruits from the small bergamot tree, Citrus Bergamia, are of any substantial interest. The leaves and twigs may be distilled to yield a Bergamot-Petitgrain Oil, the fruits are not edible. Bergamot Oil is produced by cold expression from the peel of the nearly ripe fruit. The tree grows almost exclusively in a narrow coastal strip in the southern part of Calabria, Italy. Bergamot Oil is a green or olive green, mobile liquid of extremely rich, sweet-fruity initial odor. Although the characteristics of this topnote remain perceptible in good oils, it is followed by a still more characteristic oily-herbaceous and somewhat balsamic body and dryout. The sweetness yields to a more tobacco like and rich note, somewhat reminiscent of sage clary and nerylacetate. The freshness in the topnote is mainly due to terpenes and small amounts of citral and aliphatic aldehydes. Absence of the \u201coily\u201d note is one of the most revealing features in poor or adulterated bergamot oils. The color of bergamot oil fades on ageing, particularly when the oil is exposed to daylight. The oil turns yellow or pale olive-brown. The color is also dependent upon the maturity of the fruit at the moment of expressing. Like all other citrus oils, Bergamot Oil is produced in the immediate vicinity of the plantations. The oil is used extensively in perfumery for its sweet freshness, particularly in citrus colognes, chypres, foug\u00e8res, modern fantasy bases, etc. Part of the sweetness and rich bodynote is due to the presence of large amounts of linalylacetate combined with linalool and traces of methylanthranilate. Unlike most other citrus oils, Bergamot Oil has a certain fixative effect when used in fairly high concentrations. The odor of the oil is well balanced from nature through the presence of certain coumarin derivatives, some of which are odorless and non-volatile. ",
-        "usage": "-",
+        "usage": "0.20% - 3.00%",
         "blends_well_with": [
             "All oils"
         ]
@@ -699,6 +699,285 @@
             "Rose",
             "Violet",
             "etc."
+        ]
+    },
+    {
+        "name": "Chioranthus Spicatus",
+        "picture": "https://www.picturethisai.com/wiki-image/1080/157477080483758085.jpeg",
+        "background_info": "An absolute is produced from a benzene- or a petroleum ether extracted concr\u00e8te of the flowers of this Chinese shrub. The flowers are also distilled with steam to yield an essential oil, but the yield is extremely small. Absolute of chioranthus spicatus is a yellow to dark amber colored viscous liquid of delightfully soft, woody-floral odor. The overall odor has a striking resemblance to that of boronia absolute. The topnote is somewhat dry-woody, but it becomes increasingly sweetbalsamic and floral like Peru balsam oil, cassie absolute, boronia absolute, etc. The essential oil is a straw colored or amber colored, somewhat viscous liquid of light-woody, delicately floral and extremely tenacious odor, reminiscent of the above mentioned materials. ",
+        "usage": "-",
+        "blends_well_with": [
+            "\"violet-leaf-green\" materials",
+            "Amyl Heptide Carbonate",
+            "Beta-gamma-hexenyl acetate",
+            "Methyl nonylenate",
+            "Dibutyl Sulfide",
+            "Sec.-nonyl acetate",
+            "2.6-nonadienal",
+            "Methylionones",
+            "Cardamom oil",
+            "Cassie absolute",
+            "Mimosa absolute",
+            "Sage Clary",
+            "Heliotropine",
+            "Cassione",
+            "Betaionone",
+            "Cinnamic alcohol",
+            "etc."
+        ]
+    },
+    {
+        "name": "Cinnamon Bark oil, Ceylon",
+        "picture": "https://naturesgift.com/wp-content/uploads/CinnamonBark-plant.png",
+        "background_info": "True \u201cCeylon\u201d Cinnamon Bark Oil is steam distilled, occasionally water-distilled, from the dried innerbark of the shoots of coppiced, cultivated bushes (would-be trees) of Cinnamomum Zeylanicum, preferably the variety grown in Ceylon. Cinnamon Bark Oil \u201cCeylon\u201d is a pale yellow to dark yellow or brownish-yellow, somewhat oily liquid of extremely powerful, diffusive, warm- spicy, sweet and tenacious odor. The undertone and dryout notes reveal a persistent dryness which is very unique in combination with the distinct sweetness. Characteristic is a dry powdery-dusty, but warm, uniform and lasting dry-out note. In the very first topnotes, one may find a certain fruity freshness, similar to the sweet candy-like freshness in a good clove bud oil. The main constituents of Ceylon cinnamon bark oil are cinnamic aldehyde, eugenol, aceteugenol, and trace amounts of various aldehydes. Together with methyl-n-amyl ketone, the latter are probably responsible for the power and the characteristic notes in good oils. In perfumery, the oil blends well with Oriental- woody notes, and the combination with olibanum is known and often utilized. The warmth and dry spiciness, the immediate sweetness and tremendous diffusive power (or \u201cradiation\u201d) induced by the addition of fractions of one percent of this oil in a perfume composition, is highly appreciated by certain perfumers. The combination with sweet orange, lime oil, cola extract and de-cocainized coca-extract, the cinnamon flavor is an important part of the Coca-Cola type flavor complex. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Oriental-woody notes",
+            "Olibanum"
+        ]
+    },
+    {
+        "name": "Cinnamon Leaf oil",
+        "picture": "https://d384u2mq2suvbq.cloudfront.net/public/spree/products/4091/large/cinnamon-leaf-essential-oil-web.webp?1704913332",
+        "background_info": "This oil is steam distilled locally from partly dried leaves and twigs of Cinnamomum Zeylanicum, the same tree which yields the Ceylon cinnamon bark. During the recent years of steep decline in the clove leaf oil price, however, there has been less interest in the production of cinnamon leaf oil. The two oils both contain about 80 to 90% eugenol, and the cheapest oil will serve as a starting material for the isolation of this important perfume material. Eugenol, isolated from different natural oils, displays certain small variations in odor type. Due to its fresher note, eugenol from Bay Leaf Oil has recently become more popular than eugenol from clove leaf oil or from cinnamon leaf oil. Cinnamon Leaf Oil is a yellow to brownish- yellow oil of warm-spicy, but rather harsh odor, lacking the rich body of the bark oil. It has some resemblance to the odor of clove leaf oil and clove stem oil. The oil is used in perfumery for its spicy notes and its warm and woody-Oriental type. In the chemical industry, it is used for the isolation of eugenol. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Benzaldehyde",
+            "Anisaldehyde",
+            "Anisalcohol",
+            "Vanillin",
+            "Ethylvanillin",
+            "Peppermint oil",
+            "Nonalide",
+            "Undecanolide",
+            "Many Glycidates",
+            "Ionones (and ionone-glycidates)",
+            "Cinnaminc alcohol",
+            "etc."
+        ]
+    },
+    {
+        "name": "Cistus oil",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cistus_April_2017-2.jpg/640px-Cistus_April_2017-2.jpg",
+        "background_info": "Cistus Oil (so-called) is the essential oil which is steam distilled from the crude \u201cgum\u201d labdanum, collected almost exclusively in Spain. More recently, the oil has been obtained by a two-step extraction with benzene/ethyl alcohol or with ethyl ether/ethyl alcohol. Cistus Oil (so-called) is an amber-colored or dark yellow, viscous liquid having a very powerful and tenacious odor: warm and sweet, yet dry and reminiscent of ambra in its somewhat animal notes. The oil is used in modern aldehydic or ambre types of perfumes, in Oriental bases, and in numerous \u201cfantasy\u201d bouquets where it will lend tenacity, warm tonalities and an intriguingly spicy-animal note. It has the advantage of yielding the main odor effects of the labdanum resinoid, concr\u00e8te, or absolute, but it does not have the intense color of these products. Its greater solubility makes it interesting for colognes where it blends extremely well with citrus oils, sage clary and oakmoss products. Artificial musks are frequently rounded off with Cistus Oil if the formula permits the comparatively high cost of this oil. Cistus Oil is used quite frequently in trace amounts as a \u201cbouquet\u201d material in certain essential oils (sage clary and others). ",
+        "usage": "Trace amounts",
+        "blends_well_with": [
+            "Citrus oils",
+            "Sage Clary",
+            "Oakmoss products",
+            "Cinnamic alcohol",
+            "Juniperberry oil",
+            "Ionones",
+            "Methylionones",
+            "Heliotropin",
+            "Lavandin oil",
+            "Pine needle oils",
+            "Opopanax",
+            "etc."
+        ]
+    },
+    {
+        "name": "Citronella oil, Java-type",
+        "picture": "https://sensientessentialoils.com/wp-content/uploads/2019/06/Citronella-Oil-min.jpg",
+        "background_info": "Java-type citronella oil is one of the largest in quantity, surpassed only by turpentine, pine oils and camphor oils. Seventy years ago, it was unknown; to-day it is produced from cultivated grass in practically all the tropical and semitropical areas of the world except Australia. The Maha Pengiri grass has the advantage over the Ceylon type grass in that it yields up to twice as much essential oil. The Java-type oil contains more of the components important for the production of synthetic or semi-synthetic perfume materials than does the Ceylon type oil. Java- type oil (maha pengiri oil) is distilled either from fresh grass or from partly dried grass. Java-type Citronella Oil is almost colorless or pale yellow. This is mainly due to the fact that the oil is generally distilled in equipment which is more modern than that used for distillation of Ceylon citronella oil. The odor of Java-type citronella oil is fresh and sweet, revealing the high content of citronellal and geraniol + citronellol. The oil does not present at all in its odor the camphene-borneol notes characteristic of the Ceylon citronella oil. The dryout of the Java-type oil is also sweet, but somewhat woody; this is probably due to the sesquiterpenes and sesquiterpene alcohols. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Civet",
+        "picture": "https://www.purekopiluwak.com/wp-content/uploads/2018/06/African-Civet-Cat.jpg",
+        "background_info": "Civet is a glandular secretion collected from various species of the Civet Cat, male and female, preferably the male. The crude civet arrives in Europe and the U.S.A. in Zebu horns, containing about 500 to 1200 grams of the buttery yellowish paste which turns darker and more solid on age. The contents of one average Zebu horn represents the production from one civet cat in Four Years. During this period, the animal will consume something like the raw meat from 50 (fifty) sheep, and the poor cat, frequently teased in its narrow cage, will have undergone 400 to 800 painful \u201cscrapings\u201d of its glands. The raw meat, the narrow cage and the teasing are all means of increasing the production of the civet secretion which is scraped off with regular intervals while the cat is caged. It is no wonder that Civet is one of the most expensive perfume raw materials! But, thanks to the outstanding power of civet, its price does not prohibit its use by any means. From the crude natural civet, a Concr\u00e8te of Civet is produced by hydrocarbon extraction. The yield of Concr\u00e8te is about 50 to 60% of the crude secretion, and the larger part of the concr\u00e8te is alcohol-soluble Civet Absolute. Civet Absolute dilutions, or Civet Tincture, are very commonly used perfume materials. They not only present excellent fixative value, but, most important, they lend a distinct natural-animal note when used with care and with an experienced touch. Overdoses produce obnoxious notes, and it should be kept in mind that civet products tends to \u201cgrow\u201d in a perfume. Civet products are used in a \u2018great variety of perfume types, particularly in the better lotion perfumes of the rose-type, Oriental types, \u201choney\u201d- notes, narcissus bases, ambre types, etc. The use of civet extracts or tinctures in muguet and other delicate floral bases may seem surprising to the layman, but this application of civet is well known and highly appreciated. The \u201clift\u201d and radiation (diffusive power) derived from minute quantities of civet tincture in certain types of perfumes is quite unique and this effect can only be adequately understood through long experience with good grades of civet. The odor of Civet extracts (tinctures, absolutes, etc.) and of crude civet, too, should be typically animal-sweet, free from faecal notes, urine notes or the like. The undertone bears some resemblance to that of ambrette seed oil and of a well cured goat skin. The odor of civet preparations appears not immediately powerful, but it is very tenacious, an upon dilution the true richness becomes quite apparent. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Nitromusks",
+            "Coumarin derivatives",
+            "Quinoline derivatives",
+            "Vanillin and related materials",
+            "etc."
+        ]
+    },
+    {
+        "name": "Clavel Moena",
+        "picture": "https://m.media-amazon.com/images/I/71R6NifBujL._AC_UF1000,1000_QL80_.jpg",
+        "background_info": "Oil of Clavel Moena is not produced on a commercial scale but it represents one example among the hundreds of essential oils which have been produced experimentally and which, in case of significant interest, could be produced on a larger scale with little or no notice and at a very reasonable cost. The oil is also called \u201cPeruvian Spice Oil\u201d. Oil of Clavel Moena is an almost colorless or pale yellow, mobile liquid of a warm-spicy, nutmeg-like, cinnamon-leaf-like odor. The undertone and the dryout are distinctly dry-woody, less spicy and it is strongly reminiscent of the odor of clove leaf sesquiterpenes. Clavel Moena oil could, in view of its peculiar composition, possibly find use in perfume work on artificial essential oils (clove, cubeb, nutmeg, black pepper, etc.) or the oil could be used in perfumes of the woody-Oriental and spicy type.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Clove Bud Absolute",
+        "picture": "https://cdn11.bigcommerce.com/s-3a521/images/stencil/1280x1280/products/307/462/Clove__15626.1667509172.jpg?c=2",
+        "background_info": "Clove Bud Absolute is produced from Clove Bud Concr\u00e8te. The concr\u00e8te is produced by hydrocarbon solvent extraction of the dried and comminuted flower-buds of Eugenia Caryophyllata. Clove Bud Concr\u00e8te is a semi-solid mass or a viscous liquid of dark brown, yellowish brown or pale olive green color. The author has prepared extracts with all the above mentioned solvents. The extracts were in all cases clear and viscous liquids of pale brown to olive color. The odor of clove bud concr\u00e8te is oily-sweet, intensely rich and spicy, slightly sour-fruity and refreshing. The odor is very closely reminiscent of that of the dry clove buds. The alcohol-extracted \u201coleoresin\u201d is generally a more powerful perfume and flavor material than any of the other types of extract. It is less refined or delicate in odor and it is considerably darker in color than the hydrocarbon solvent extracts or the corresponding absolutes. True Clove Bud Oleoresin should be prepared by hydrocarbon solvent extraction, preferably by room-temperature percolation. Clove Bud Absolute is usually an olive-green, greenish brown or orange brown, viscous or oily liquid which may solidify at reduced temperatures to a semi-solid mass. The absolute is soluble in alcohol in all proportions. The odor of the absolute is not only a very close approach to the odor of the botanical material. It presents a floral and refined type of this fragrance, also resembling the balsamic, sour-sweet and immensely rich fragrance of clove flowers in full bloom. Clove bud absolute is particularly useful in perfumes where the non-phenolic notes of cloves are wanted to impart a spicy, yet fresh-floral and intriguing note of great diffusive power. The absolute can be used with surprisingly good effects in many floral bases and it lends interesting twists to ylang-ylang, carnation, rose, cassie, narcissus and other floral perfume types. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Clove Bud oil",
+        "picture": "https://farmfreshoils.com.au/cdn/shop/files/CloveBudEssentialOil.jpg?v=1720397819&width=1024",
+        "background_info": "Clove Bud Oil is water distilled (rarely steam distilled) from the dried flower buds of Eugenia Caryophyllata, a slender, medium-sized, tropical tree, originating in the Moluccas. In rose, honeysuckle and certain deep-sweet florals, clove bud oil lends a unique note of natural richness and body. The classic \u201crondeletia\u201d perfume type is based upon the combination of clove and lavender oils. Modern variations include the use of lavandin, sage clary, bergamot, bay leaf oil, pimenta berry oil, etc",
+        "usage": "-",
+        "blends_well_with": [
+            "Aceteugenol",
+            "Methyl eugenol",
+            "Isoeugenol",
+            "Vanillin",
+            "\"Ethyl-vanillin\"",
+            "Ylang-ylang",
+            "Cananga oils",
+            "Oriental types of perfumes",
+            "etc."
+        ]
+    },
+    {
+        "name": "Clove Leaf oil",
+        "picture": "https://www.wholesalesuppliesplus.com/Images/Products/7994-image.png",
+        "background_info": "From the whole leaves and twigs of the clove tree, an essential oil is distilled in the clove growing areas of northeastern Madagascar. Rectified clove leaf oil is pale yellow and clear; it smells sweeter than the crude oil, less harsh and burnt, but still somewhat dry-woody. The odor is much closer to that of eugenol. Rectified clove leaf oil may find use in all types of spicy perfumes, particularly in \u201clow-cost\u201d types and soap perfumes. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Clove Steam oil",
+        "picture": "https://www.cylonies.com/storage/clove/clove-stem/kkkkkkkkk.jpg",
+        "background_info": "This oil is steam distilled from the stems upon which the clove buds grow. Prior to distillation, the stems are sun-dried but not pulverized; the distillation takes place only in Zanzibar. Zanzibar Clove Stem Oil is\u2014when fairly fresh and well stored\u2014a pale yellow to straw yellow colored liquid of strong spicy, somewhat woody, but quite pleasant odor. The odor is not very different from that of eugenol. Some clove stem oil is used for the isolation of eugenol, production of eugenol-derivatives, vanillin, etc. Freshly redistilled clove stem oil is almost colorless. It finds use in perfumery for its spicy note in Oriental bases, spicy after-shave fragrances and other \u201cmen\u2019s odors\u201d, and in flavor work as a low-cost replacement for the more delicate and true-to- nature clove bud oil. The redistilled stem oil then performs almost like a pure eugenol. It has power, but no bouquet, no typical clove nuances.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Coconut Absolute",
+        "picture": "https://cdn.dr.hauschka.com/images/system/plant_library/cocos-nucifera-l.jpg",
+        "background_info": "Coconut Absolute is one among a great number of natural perfume materials which are not commercially available but nevertheless are used and appreciated by many perfume houses. The material may accordingly serve in this book as an example of the group of raw materials which are \u201cmade on our own premises\u201d, as the individual perfume houses would probably say. Coconut Absolute is produced by extraction of the comminuted endosperm of Cocos Nucifera, the coconut. Flaked or \u201cgrated\u201d coconut meat may be used, but in order to obtain the full and natural gamut of volatile and alcohol extractive matter, it is adviseable to start from the \u201cdeoleated\u201d coconut. When coconut meat is expressed hydraulically the oil will contain the volatile substances. The crude coconut oil is subsequently steam distilled in order to recover these odorous components. An essential oil of coconut is produced this way. However, the so-called Coconut Absolute is prod- used by alcohol extraction of the crude coconut oil. The alcohol is distilled off under gentle vacuum. A somewhat different coconut absolute is obtained by alcohol extraction of the press-cake of \u201cdeoleated\u201d coconut meat. This type of coconut absolute has a \u201cheavier\u201d, more nutty type of odor and a darker color. Coconut Absolute is usually a pale yellow, dark yellow or brownish yellow colored viscous liquid or a low-melting solid, waxy mass. It has a peculiar fruity-fatty, very fresh and light, yet tenacious odor. Only upon extreme dilution (about 1.0 mg% or lower) the nutty and typical fragrance appears. Coconut Absolute is an interesting material in the hands of the experienced and artistic perfumer for his work in unconventional perfumery. Floral fragrances such as jasmin, lily-of-the- valley, lily, lilac, ylang-ylang, etc. and in particular gardenia as well as fruity notes may be excitingly lifted or modified with this unusual perfume material.",
+        "usage": "-",
+        "blends_well_with": [
+            "Ambrette seed oil",
+            "Clove bud oil",
+            "Cognac oil",
+            "Neroli oil",
+            "Sweet orange oil",
+            "Amyl cinnamic aldehyde",
+            "Decylpropionate",
+            "Cyclamal",
+            "Isoeugenol",
+            "Linalool",
+            "Methyl Nonyl Acetaldehyde",
+            "Trimethyl Undecylic Aldehyde",
+            "etc."
+        ]
+    },
+    {
+        "name": "Cognac oil",
+        "picture": "https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/34/2020/07/GettyImages-Cognac-1250586743-920x609.jpg",
+        "background_info": "Cognac Oil, also known as Wine Lees Oil or Weinhefeoel (in German), is a by product from the distillation of Cognac (Brandy). An oil can be obtained by steam distillation of the residue of grape tissue and fungus precipitate after fermentation (and distillation) of the alcoholic beverage. Water distillation is also applied directly to a slurry of the yeast residue in water. The aromatic principles in Cognac Oil are generally higher boiling esters of ethyl and iso-amyl alcohols, and they do not distil readily with the hydro-alcoholic mixture which is known as Cognac after proper maturing and ageing. The crude cognac oil may be redistilled to yield a very powerful aromatic which represents the maximum concentration of high-boiling esters from the cognac yeast precipitate. Cognac Oil is a pale yellow or greenish yellow, somewhat oily liquid of intensely strong, almost harsh-fruity, oily-fatty, yet green-herbaceous odor of outstanding tenacity and great diffusive power. The rectified oil is used in flavors and perfumes in trace amounts to give \u201clift\u201d and fresh-fruity, natural notes, e.g. in liqueurs, fruit flavors, colognes, foug\u00e8res, after-shave fragrances, etc.",
+        "usage": "Trace amounts",
+        "blends_well_with": [
+            "Ambrette seed oil",
+            "Amyl Salicylate",
+            "Bergamot",
+            "Coriander",
+            "Galbanum",
+            "Lavender",
+            "Linalool",
+            "Sage Clary",
+            "Styrax",
+            "Ylang-ylang",
+            "etc."
+        ]
+    },
+    {
+        "name": "Combava Petitgrain oil",
+        "picture": "https://www.lunaroma.com/cdn/shop/products/Combava_PetitgrainWildCrafted_Citrushystrix_Madagascar_1024x.jpg?v=1595616887",
+        "background_info": "Among the numerous varieties of edible citrus fruits, many are known only in small or isolated areas where they have become not only a local variety, but also a local delicacy. A certain citrus tree in the Comoro islands northwest of Madagascar and in other nearby islands and in Madagascar itself produces large and very delicate fruits, locally known as combavas. But when a local essential oil distillery undertook steam distillation of the leaves and twigs of this citrus variety, a new petitgrain oil was discovered: Combava Petitgrain Oil. The oil is distinguished by its very delicate sweetness and freshness which is distinctly different from bitter orange petitgrain or other well-known petitgrain oils. Still more interesting is it, that this oil contains laevo-Citronellal as one of its main constituents. It was hoped that the oil could thus become a new starting material for the production of laevo-Citronellol (by reduction), a perfume material sometimes called rhodinol. Combava Petitgrain Oil is a pale yellow to greenish yellow, mobile liquid of fresh-leafy, sweet-rosy odor, somewhat reminiscent of the odor of Guinea lemon petitgrain oil and eucalyptus citriodora oil. In perfumes the oil would probably be needed in larger concentration since it appears well fit for the soap and detergent type of fragrances. It could also find use as a modifier in citrus colognes and, generally, as a new topnote ingredient. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Copaiba Balsam",
+        "picture": "https://www.lgbotanicals.com/assets/images/Copaiba-Balsam-736.jpg",
+        "background_info": "Copaiba Balsam, also known as Copahu Balsam is one of the most \u201cnatural\u201d (unprocessed) of all the natural perfume materials. It is used in perfumes exactly as it comes out of the tree, exactly as it occurs in nature. Copaiba Balsam is a natural oleoresin which occurs as a physiological product in various Copaifera species. Copaiba \u201cBalsam\u201d is a more or less viscous, brownish-yellow or grayish-greenish yellow liquid which dries to a hard and brittle resin upon exposure to air. The oleoresin is not always clear or translucent, but may be hazy due to its water content or to the continuous resinification of the essential oil part of the oleoresin, a process which starts already inside the trunk. The odor of the oleoresin is very faint, mild-woody, slightly spicy- peppery and modestly tenacious. The flavor is bitter and irritant. Since copaiba \u201cbalsam\u201d is mainly used for its fixative properties, it is reasonable that the \u201cbalsams\u201d with a low content of essential oil are preferred for this purpose. It is often used as a fixative in low-cost violet and wood perfumes, for lavender or foug\u00e8res in detergent perfumes, industrial perfumes, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "Cinnamic alcohol",
+            "Styrax",
+            "Amyris oil",
+            "Coumarin",
+            "Lavandin oil",
+            "Cedarwood oils",
+            "Ionones",
+            "Methylionones",
+            "Nitromusks",
+            "Numerous other perfumery materials"
+        ]
+    },
+    {
+        "name": "Copaiba Balsam oil",
+        "picture": "https://media.zenobuilder.com/upload/sp-1013/90718648.jpg",
+        "background_info": "An essential oil is obtained by direct distillation (dry, in vacuum) of Copaiba \u201cBalsam\u201d.  It is customary to select the copaibas which contain a very high percentage of volatile oil for this purpose. Such balsams are less appreciated as commercial copaiba balsam since they dry out more slowly and yield less resin. For the same reason, they are poorer fixatives in perfumery, and thus the low-oil copaibas find their way into perfumery and porcelain-painting, etc., while the high-oil copaibas are distilled. Copaiba \u201cBalsam\u201d Oil (or Copaiba Oil) is a colorless or pale yellow to yellow-green or bluish, very mobile oil. The odor is similar to that of the \u201cbalsam\u201d, but much milder, sweeter, almost creamy-balsamic with a faint peppery-spicy undertone. There are notes which resemble furfuryl alcohol and cadinene, others may remind of the notes in Peru balsam oil. A very peculiar and complex, but very faint odor. Copaiba Oil finds some use in perfumery, but its fixative value is negligible and its contribution to the overall odor of a fragrance is questionable. Its main use is that of a blender-modifier. The oil is used in pine fragrances, woody bases, violet perfumes, spice fragrances, etc., and its low cost and good availability makes it popular for some of these purposes. However, it is still missing from many a perfumer\u2019s shelf, and it is unlikely that the oil will ever arouse any particular interest.",
+        "usage": "-",
+        "blends_well_with": [
+            "Cananga",
+            "Ylang-ylang",
+            "Heliotropine",
+            "Hydroxy-citronellal",
+            "Isoeugenol",
+            "Vanillin",
+            "Ionones",
+            "Methylionones",
+            "Sandalwood oil",
+            "Jasmine absolute",
+            "Amylcinnamic aldehyde",
+            "etc."
+        ]
+    },
+    {
+        "name": "Coriander oil",
+        "picture": "https://www.foodandwine.com/thmb/kjn7ULvJuySVzZTsLFToPEe-KHM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Coriander-vs-cilantro-FT-BLOG0624-cc8f8172b07b49e7ad435157a846dc16.jpg",
+        "background_info": "Coriander Oil is steam distilled from the dried fully ripe fruits (seed) of Coriandrum Sativum, a small herb native to southeastern Europe. The fruits are crushed immediately prior to distillation. Coriander Fruit Oil is a colorless or pale yellow liquid with a pleasant sweet, somewhat woodyspicy, aromatic-candylike odor. The floral- balsamic undertone and peppery-woody, suave top- note are characteristic features of this delightful fragrance. In perfumery, its warm and sweet notes blend equally well with sage clary and bergamot in colognes, with floral notes in jasmin, lilac, apple blossom, honeysuckle, etc., and with olibanum and Ceylon cinnamon, it may produce highly interesting effects in perfumes of the \u201cOriental\u201d type. The use of coriander oil in tobacco flavors has also brought the oil into a position as an interesting modifier in \u201ctabac\u201d type perfumes. The herb oil could very likely find use in perfumery because of its interesting and powerful odor. But decylaldehyde is now produced synthetically at a very low price, and the herb oil cannot serve as an economical source of this perfume material.",
+        "usage": "-",
+        "blends_well_with": [
+            "Neroli",
+            "Petitgrain",
+            "Citronellol",
+            "Nerol",
+            "Sandalwood oil",
+            "Cananga oil",
+            "Calamus oil",
+            "Ginger oil",
+            "Cypress oil",
+            "Pinus Pumilio oil",
+            "Decylalcohol",
+            "Decylpropionate",
+            "Aliphatic aldehydes",
+            "Citral",
+            "etc."
+        ]
+    },
+    {
+        "name": "Costus oil",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Saussurea_%C2%BF_costus_%3F_%287839595576%29.jpg",
+        "background_info": "Costus Oil is steam distilled from the comminuted, dried roots of Saussurea Lappa, a large impressive plant which is found growing wild in the Himalayan highlands at high altitude. Prior to distillation, the roots are not only comminuted, but also macerated in water. The distillation is then a combination of water- and steam-distillation. This is similar to some vetiver distillations. The oil does not separate well from the condensed water, partly because of the fact that its specific gravity is almost the same as that of water, partly because of water-solubility of certain components of the oil. Costus Oil is a pale yellow to brownish yellow, very viscous liquid. It has a peculiar soft, but extremely tenacious odor, reminiscent of old, precious wood, orris root, fatty (but not rancid) acids, vetiverol, etc., with a distinctly animal or sebaceous undertone. The odor has been compared to that of human hair, fur coats or \u201cwet dogs\u201d. The latter description is often heard from people who smell costus oil for the first time. It is certain that not all people will like this odor. In surprisingly small concentrations, Costus Oil will induce warm, woody and \u201cnatural\u201d notes to a perfume; however, this is limited to certain perfume types, e.g. Oriental bases, chypres, violet bases, certain floral fragrances, etc., and many types of the \u201cmodern-aldehydic\u201d theme. Overdoses of costus oil may easily produce obnoxious effects, and the power of this oil is often under-estimated. Similar in effect to angelica root oil, Costus Oil has the peculiar ability of producing diffusive power and intriguing topnotes, and at the same time it works effectively as a fixative of unusual tenacity. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Alpha-decanolide",
+            "Cinnamic alcohol",
+            "Flouve oil",
+            "Isoeugenol",
+            "Methylionones",
+            "Decylpropionate",
+            "Nitromusks",
+            "Patchouli",
+            "Opopanax",
+            "Oakmoss",
+            "etc. "
         ]
     }
 ]

@@ -843,7 +843,7 @@
         ]
     },
     {
-        "name": "Clove Steam oil",
+        "name": "Clove Stem oil",
         "picture": "https://www.cylonies.com/storage/clove/clove-stem/kkkkkkkkk.jpg",
         "background_info": "This oil is steam distilled from the stems upon which the clove buds grow. Prior to distillation, the stems are sun-dried but not pulverized; the distillation takes place only in Zanzibar. Zanzibar Clove Stem Oil is\u2014when fairly fresh and well stored\u2014a pale yellow to straw yellow colored liquid of strong spicy, somewhat woody, but quite pleasant odor. The odor is not very different from that of eugenol. Some clove stem oil is used for the isolation of eugenol, production of eugenol-derivatives, vanillin, etc. Freshly redistilled clove stem oil is almost colorless. It finds use in perfumery for its spicy note in Oriental bases, spicy after-shave fragrances and other \u201cmen\u2019s odors\u201d, and in flavor work as a low-cost replacement for the more delicate and true-to- nature clove bud oil. The redistilled stem oil then performs almost like a pure eugenol. It has power, but no bouquet, no typical clove nuances.",
         "usage": "-",
@@ -978,6 +978,505 @@
             "Opopanax",
             "Oakmoss",
             "etc. "
+        ]
+    },
+    {
+        "name": "Cubeb oil",
+        "picture": "https://tropical.theferns.info/plantimages/sized/b/b/bb9aff7e6a8f30759cd93c8a4cd66c0b2862d9a4_434px.jpg",
+        "background_info": "Cubeb Oil is steam distilled from the unripe, dried, crushed fruits of Piper Cubeba, a climbing vine similar to the pepper plant. Cubeb Oil is a pale greenish-yellow to bluish- yellow, occasionally almost colorless, somewhat viscous oil. The presence of blue or greenish-blue color usually indicates that the distillation has been carried through to the very highest boiling constituents of the oil. During the distillation, one can observe a distinct ammoniacal odor in the condensate. This is also observed during the distillation of black pepper, allspice, ginger, and numerous other oils. Although this phenomenon has not been officially explained, it seems conceivable that proteins (which are amines) in the plant material may be hydrolytically decomposed during the distillation, probably due to the presence of certain activators in these particular botanicals. The odor of Cubeb Oil is very dry-woody, but simultaneously warm-camphoraceous, spicy-peppery. The odor should be free from the very light pepper-like characteristic found in black pepper and elemi oils, and it should rather present the heavy-woody peppery notes found in guaiacwood. atractylis, araucaria, schinus molle, etc. Cubeb oil is also very useful in the creation of woody-peppery perfume bases, carnation perfumes, and in the \u201cconstruction\u201d of artificial essential oils. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Cananga oil",
+            "Cinnamic alcohol",
+            "Clove stem oil",
+            "Coumarin",
+            "Eugenol",
+            "Galbanum",
+            "Isoeugenol",
+            "Lavandin oil",
+            "Rosemary oil",
+            "etc."
+        ]
+    },
+    {
+        "name": "Cumin Absolute",
+        "picture": "https://images.squarespace-cdn.com/content/v1/52bc612ae4b038e4d94a53e6/6189786f-95c0-402a-9662-aa0743dd5796/Cumin+%284%29.JPG",
+        "background_info": "From Cumin fruits (seed) an Oleoresin can be prepared the usual way, and by alcohol-washing of the oleoresin an Absolute of Cumin is produced. Cumin Absolute is a dark olive-brown or dark yellow, viscous liquid of a powerful, but delicately mellow and round, green-spicy odor, very closely reminiscent of the odor of the crushed seed from which it is derived. The absolute has a striking resemblance to curry powder in its complex and exciting fragrance. Cumin seed is an important ingredient in curry powder. The extracted product seems to contain more of the sweet notes from the extractive plant matter than does the essential oil. This fact makes the absolute superior to the oil in flavor work. The essential oil is extremely volatile and of tremendous diffusive power, while the absolute displays a richer, softer, true-to-nature cumin seed character. In perfumes, the intense color of the absolute is only a minor drawback, considering the minute amounts necessary for obtaining \u201cgreen-spicy\u201d effects. The absolute needs less fixation than does the essential oil.",
+        "usage": "-",
+        "blends_well_with": [
+            "Oakmoss absolute",
+            "Lavandin absolute",
+            "Galbanum resinoid",
+            "etc."
+        ]
+    },
+    {
+        "name": "Cumin oil",
+        "picture": "https://tildaricelive.s3.eu-central-1.amazonaws.com/wp-content/uploads/2022/01/17161128/Cumin-seeds%402440x1200px.jpg",
+        "background_info": "This oil is distilled from the dried, ripe fruit (seed) of Cuminum Cyminum, known as \u201cRoman Caraway\u201d, a small herb originating in the Middle East. The cumin seed belongs to the group of very old spices whose history of use can be traced back thousands of years. To-day it still is one of the important ingredients in the ever-popular \u201cIndian Curry Powder\u201d. Cumin Oil is a pale yellow to brownish yellow liquid; it occasionally displays a greenish tint. Dark-colored oils may have been stored in iron containers or under poor conditions. The oil is quite sensitive to daylight, air, moisture and metals as well as to alkali. Its odor is extremely powerful, diffusive, green-spicy, slightly fatty, but at the same time not sharp or pungent, almost soft and mellow. This softness is one of the main features of a true oil, and is very hard to duplicate when making an artificial oil with a similar content of Cumin Aldehyde. Cumin Oil presents a peculiar, putrid odor, recalling sulfides and/or amines on top of its true fragrance. Similar topnotes are encountered in freshly steam distilled fruits of other umbellifers and in black pepper oil (ammoniacal odor), etc. It is conceivable that such odors represents trace amounts of decomposition products from proteins, etc., in the endosperm of the seeds. However, most cumin oils offered in the market do not possess this type of odor. Obviously, such oils have been \u201ctreated\u201d somehow, or \u201cdoctored up\u201d to eliminate or mask the off-odor. Cumin Oil is used in perfumes in trace amounts to introduce green-spicy and green-woody top- notes, particularly in the woody-floral perfume types, Oriental bases, mimosa, cassie, violet, etc. It is also used for \u201cspecial effects\u201d in modern aldehydic fragrances, etc. and for its unusual diffusive power. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Lavandin",
+            "Rosemary",
+            "Galbanum",
+            "Oakmoss",
+            "Bois de rose oil",
+            "etc."
+        ]
+    },
+    {
+        "name": "Curcuma oil",
+        "picture": "https://www.plameca.com//uploads/2016/01/curcuma_blog1-1024x683.jpg",
+        "background_info": "The plant, Curcuma Longa, is related to the ginger plant which it also resembles. Curcuma is a native of the south Asian countries where it has been known and used for thousands of years as a spice and as a common house medicine. Curcuma Oil is produced by steam distillation of the dried, comminuted rhizomes (\u201ctubers\u201d) of the curcuma plant. The finely powdered rhizome is also used directly as a spice which is known under the name of Turmeric. This ingredient is responsible for the intensely yellow color of the world famous \u201cIndian Curry Powder\u201d. Curcuma Oil is a yellow to dark orange-yellow liquid which occasionally shows a faintly blue fluorescence. The odor is usually spicy and fresh, reminiscent of sweet orange, ginger and galanga. The flavor is slightly pungent and bitter except in extreme dilution. The odor of Japanese curcuma oil is warm, dry-woody, powdery, camphoraceous and slightly peppery-spicy with a peculiar undertone reminiscent of the odor of Atlas cedarwood oil. Curcuma oil can be used in certain types of perfumes where it introduces warm-woody, dry- powdery tonalities in Oriental bases and fantasy fragrances, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "Cananga oil",
+            "Cistus oil",
+            "Elecampane",
+            "Ginger",
+            "Labdanum",
+            "Orris \"resin\"",
+            "Heliotropine",
+            "Ionones",
+            "Methylionones",
+            "Nitromusks",
+            "etc."
+        ]
+    },
+    {
+        "name": "Cymbopogon Connatus",
+        "picture": "https://storage.googleapis.com/powop-assets/PPA/2026_2050/h2027e_fullsize.jpg",
+        "background_info": "The east African grass Cymbopogon Connatus is related to citronella, gingergrass and inchigrass. The odor of cymbopogon connatus oil is intensely fatty-green, spicy-fresh with a sweeter dryout and a strongly herbaceous undertone. The oil is olive-green to yellowish green and mobile, but its viscosity increases on ageing. The essential oil of Cymbopogon Connatus could furthermore find some use \u201cas is\u201d in perfumery. It lends a certain naturalness and freshness together with its outstanding diffusive power. In the reproduction of \u201cmissing\u201d notes in artificial essential oils, the oil would no doubt attract the perfumer who works on artificial bergamot oil, ylang-ylang, jasmin, etc. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Cyperus oil",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/2/2e/CyperusScariosus_6259.JPG",
+        "background_info": "Various essential oils from the roots of certain tropical grasses appear on the perfumery market under the above name. The greater part of these oils are used locally, but one seems to have obtained more than local interest: The essential oil of the rootlets of Cyperius Scariosus (or cyperus scariosus) is marketed under the brand name of Cypriol in India. Cypriol is produced by steam distillation of roots and rhizomes after proper washing, drying and comminuting, similar to the treatment of vetiver rootlets. Oil of Cyperus Scariosus (\u201cCypriol\u201d) is an amber colored or light brown viscous liquid of woody-earthy and very tenacious odor. The very first impression of the odor of this oil bears great resemblance to the odor-impression of the \u201cOriental\u201d cinnamon-olibanum complex: diffusive, dry, woody, slightly spicy. The overall body- note resembles that of Virginia cedarwood and vetiver oils, but toward the dryout there is a strong similarity to vetiver in sweet-woody and rich undertones. Apart from the excitingly fresh topnote this oil is distinguished by a firm uniformity in odor throughout all stages of evaporation. Cypriol is useful in perfumes or bases of the woody, Oriental or dry-ambre types, in heavy foug\u00e8res, in hyacinth (along with galbanum resinoid), in forest notes and in general as a fixative. In higher concentrations it will display its peculiar, soft-woody note and intriguing topnotes. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Bergamot",
+            "Labdanum",
+            "Patchouli",
+            "Sage Clary",
+            "etc."
+        ]
+    },
+    {
+        "name": "Cypress Absolute",
+        "picture": "https://www.albertvieille.com/wp-content/uploads/2020/08/Cypriol-1-1024x768.jpg",
+        "background_info": "The yield of essential oil by distillation of the leaves and twigs of Cypressus Sempervirens is comparatively small (0.2 to 0.3%). The steam distillation is quite time-consuming since it is necessary to continue the distillation until the high-boiling and more valuable constituents are carried over (12 to 18 hours at low steam pressure). Cypress Absolute is produced in very small quantities and usually only upon demand. However, this product is far more interesting for ambre perfumes, chypres, colognes, pine fragrances etc. than is the essential oil. The intense green or brownish-green color of the absolute is a certain drawback unless it is used with oakmoss, etc. It is not conceivable that Cypress Absolute will ever become an important perfume raw material.",
+        "usage": "-",
+        "blends_well_with": [
+            "Amyl salicylate",
+            "Cedarwood derivatives",
+            "Cistus oil",
+            "Isobutyl-cinnamate",
+            "etc."
+        ]
+    },
+    {
+        "name": "Cypress oil",
+        "picture": "https://marimurtra.cat/museu/wp-content/uploads/sites/12/2021/10/06-3-Cupressus-sempervirens-scaled-1100x800.jpg",
+        "background_info": "Cypress Oil is distilled from the leaves (needles) and twigs of the evergreen, Cypressus Sempervirens, and possibly from other species of Cypressus. It is customary to collect and distil the material which is obtained by the annual pruning of the trees, perhaps together with twigs, etc. torn off the trees during the winter mistral, the violent storm. This is why Cypress Oil is usually available only in very limited quantities and only at certain times of the year. Cypress Oil is a pale yellow, pale olive-greenish or almost colorless, mobile liquid of sweetbalsamic, yet refreshing odor, reminiscent of pine needles oil, templin oil, juniper berry oil, cardamom oil (without the cineole-note), and with a unique dryout of delicate and tenacious sweetness, often compared to that of ambre (labdanum ambre). This \u201cpartially deterpenized\u201d cypress oil is used in perfumes of the ambre-labdanum type in combinations with cistus oil or other labdanum products, delta-methylionone (so-called), lavender oil, mandarin oil, sage clary, musk ambrette or macrocyclic musks, styrax products, moroccan chamomile oil, etc. Cypress Oil (natural oil) is occasionally used as a modifier in pine needle fragrances, in citrus colognes, foug\u00e8res, chypres, and in the modern aldehydic type of perfumes. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Davana oil",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3n_INNPMIEg7vYFsXqAEc8mZtct8aAeo8is3eZ04eKxtNcVH3",
+        "background_info": "This oil is obtained by steam distillation of the overground parts of the flowering herb, Artemisia Pallens. The plant grows in the same parts of southern India where also sandalwood is grown. Davana Oil is very dark green or brownish green (similarity to several other artemisia oils). Its odor is sharp, penetrating, bitter-green, foliage- like and powerfully herbaceous with a sweetbalsamic, tenacious undertone. The intense color is a certain drawback but the oil blends well with most chypre and foug\u00e8re materials which also include strongly colored products (oakmoss, labdanum, etc.).",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Deertongue",
+        "picture": "https://vermiorganics.co/cdn/shop/files/image1_8aacdd20-6af8-47a1-8242-3f789206b6f6.png?v=1702140195&width=416",
+        "background_info": "Various species of the genus Liatris, particularly Liatris Odoratissima, grow wild in the southeastern United States, and have been known for their medicinal effects for a long time. The roots were extracted or infused to prepare a medicine of diuretic effect, etc. The leaves of this plant become very fragrant when they are dried. The leaves of Deertongue, as the composite plant is called in the U.S.A., do not yield any essential oil when they are distilled, but a highly aromatic extract, called Oleoresin of Deertongue, is prepared from the dried leaves with a volatile hydrocarbon solvent. After removal of the solvent in vacuum, the oleoresin appears as a dark green, very viscous liquid or semiliquid mass, possessing a heavy-sweet, coumarin-like, rich herbaceous odor. The immediate odor-similarity to shag tobacco is probably a reflection of the fact that the extract has been used since long ago for the flavoring of tobacco. Under the name of Deertongue, Lacinaria or Liatris Oleoresin, the extracts have been used for many decades in the food flavoring industry also, until the coumarin ban in 1952. In perfumery, however, Liatris Oleoresin or Liatris Absolute are used frequently in chypre, moss, new mown hay, Oriental, and similar sweet or coumarinic bases. Its high content of coumarin and related compounds makes it an excellent fixative, but its intense color is a drawback in certain creations and uses. With synthetic musks, it produces very interesting, dry-perfumery powder-notes, particularly in combination with heliotropine, \u201cgamma\u201d-methyl ionone, cinnamic alcohol, etc. Although it is not a very expensive perfume material, Liatris Oleoresin is used in comparatively small quantities.",
+        "usage": "-",
+        "blends_well_with": [
+            "Oakmoss",
+            "Labdanum",
+            "Lavandin",
+            "Olibanum",
+            "Clove bud oil",
+            "Amyl salicylate",
+            "Patchouli",
+            "etc,"
+        ]
+    },
+    {
+        "name": "Dictam oil",
+        "picture": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhltMXYdeLEtosamMasO0cWPGkuQNcTUJe3aKHfROmhypWH5ZXpccSEJ3YhWF0IAw8sWmmzRfI0Wgg-vCLh27VAGiNtgojd3fwh0rxZwfVTPpmGTCdFJnMiAINlKuvj8Q6p_R_T1EfuKQc/s1600/Dictamnus+hispanicus+IMG_2740.JPG",
+        "background_info": "Dictam Oil is steam distilled from the flowering tops of Dictamnus Hispanicus, a small plant which belongs to the same family as the rue plant. Dictam herb has been a common drug store item for many decades and the fragrant leaves were previously used as a culinary herb and as a house medicine. Dictam Oil is a pale yellow mobile liquid of very fresh, sweet and anisic odor, reminiscent of Texas goldenrod oil. The odor also resembles that of estragon but it is less green-herbal than this. There is finally some resemblance to the odor of dill weed oil which has a slightly burning taste, while dictam oil has a milder, intensely sweet taste. Dictam Oil could be used in perfumes to introduce topnotes or modifying notes in foug\u00e8res, chypres, colognes, in lilac and ylang-ylang bases, narcissus and other floral bases, etc. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Douglas Fir Needles oil",
+        "picture": "https://cdn.shopify.com/s/files/1/0059/8835/2052/products/Douglas_Fir_2.jpg?v=1612444228",
+        "background_info": "The essential oil from the leaves (needles) of the \u201cDouglas Fir\u201d or \u201cOregon Fir\u201d. The tree, Pseudotsuga Taxifolia, is not only very abundant in the northwestern United States but it has been introduced in many European countries for its useful lumber. Douglas Fir Needles Oil is a pale yellow liquid of very rich, woody-balsamic, sweet pine-needle type odor. Oils from various sources show quite wide differences in odor, but the main characteristic seems to be a softness and a sweetness, a very rich bodynote and a great odor tenacity which is exceptional for a \u201cpine needle oil\u201d. The oil could find use in all kinds of pine fragrances and it would make a good supplement to the so-called Siberian pine needle oil which regularly floods the market but in most cases never saw Siberia. Douglas Fir Needles Oil would undoubtedly perform better in soap and in other products where a natural fixative is essential.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Elderflower Absolute",
+        "picture": "https://honest-food.net/wp-content/uploads/2015/05/elderflowers-1200.jpg",
+        "background_info": "The flowers of Sambucus Nigra or other species of Sambucus yield on extraction with benzene, gasoline or petroleum ether a solid, dark green or olive-green concr\u00e8te. The concr\u00e8te is brownish- yellow in the case of petroleum ether extraction. Elderflower Absolute is a solid, waxy mass only slightly lighter colored than the parent concr\u00e8te. The odor varies according to the solvents used but it is in general intensely sweet-herbaceous. honey-waxy, faintly anisic-floral or spicy. The odor of elderflowers does not please many people and the elderflower absolute presents a very concentrated edition of the nauseating sweetness of these flowers. Elderflower Absolute lends, however, interesting warm-floral effects in suitable dilution and in the trace amounts where it is useful at all in perfumes. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Bergamot",
+            "Boronia",
+            "Oakmoss",
+            "Ylang-ylang",
+            "Anisalcohol",
+            "Ionones",
+            "Isoeugenol",
+            "in carnation bases",
+            "lilac",
+            "Tabac bases",
+            "etc."
+        ]
+    },
+    {
+        "name": "Elecampane Absolute",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDVZNmkLaw4ZqxlqLtX0-GDbV4XCvZWn7hsL1iJ6Z6Tpmta06",
+        "background_info": "An oleoresin or a concr\u00e8te can be produced by volatile solvent extraction of the roots of Inula Helenium. The concr\u00e8te is rarely used as such in perfumery but it is further processed to an alcohol-soluble absolute by the conventional method. Elecampane Absolute is a dark olive-green or brown, semi-solid mass which is hardly pourable at room temperature. Its odor is very soft, woodyrootlike, slightly fatty-sweet or \u201coily\u201d, extremely tenacious. Elecampane Absolute produces interesting notes in ambre bases, woody-floral or oriental bases, heavy fragrances, etc. such as mentioned under elecampane oil. The absolute has a less earthy, more tenacious and rich odor than the essential oil.",
+        "usage": "-",
+        "blends_well_with": [
+            "Ionones",
+            "Methylionones",
+            "Heliotropine",
+            "Sandalwood",
+            "Bergamot",
+            "Orris products",
+            "Cistus oil",
+            "Labdanum products",
+            "Cypress oil",
+            "etc."
+        ]
+    },
+    {
+        "name": "Elecampane oil",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/7/79/InulaHelenium.jpg",
+        "background_info": "The roots and rhizomes of Inlua Helenium, a tall plant related to the sunflower, have been known and used in medicine for many centuries. The roots contain an essential oil which can be isolated by steam distillation. The extraction products of elecampane root are described under Elecampane Absolute. \u201cEssence d\u2019Aun\u00e9e\u201d, as the oil is called in France, is a semi-solid mass or a viscous liquid which often displays a mass of crystals. The color is dark yellow to brownish-yellow, occasionally pale yellow and turbid. It is dry-woody in odor, but also sweet, somewhat ambre- or honeylike with a fatty undertone. The odor has some resemblance to those of calamus, costus and cedrela. The flavor is warm, woody-rootlike, slightly bitter, nauseating, reminiscent of calamus oil and manevoro oil. Elecampane Oil is useful in perfumery for heavy-woody, Oriental or ambre-like bases. The tenacity and soft woodiness of the odor of elecampane oil makes it an attractive fixative in perfumes. It has very little application in flavors.",
+        "usage": "-",
+        "blends_well_with": [
+            "Cananga",
+            "Cinnamon",
+            "Labdanum",
+            "Lavender",
+            "Mimosa",
+            "Olibanum",
+            "Orris",
+            "Tuberose",
+            "Violet",
+            "Cedarwood",
+            "Patchouli",
+            "Nitromusks",
+            "etc."
+        ]
+    },
+    {
+        "name": "Elemi",
+        "picture": "https://www.shutterstock.com/image-photo/closeup-view-canary-tree-canarium-600nw-2369398165.jpg",
+        "background_info": "Elemi \u201cgum\u201d is a natural oleoresin in the subgroup of turpentines. It consists almost entirely of resin and essential oil. Elemi is an exudation of a pathological product from the tree, Canarium Commune, and other species of Canarium which grow wild and, to a lesser degree, cultivated in the Philippine islands. Crude Elemi is a semi-solid, pale-yellow, waxyhoneylike mass, usually containing numerous woodsplinters, bark pieces, insect debris, dirt and earth, etc. Elemi is graded on the bulking place (locally), and it is possible to get lots which are quite clean, dirt-free and almost water-free. The odor is very fresh, terpeney, peppery-lemony, with a woody-balsamic background note. The odor bears some similarity to that of dill weed oil. Elemi Resinoid is prepared by extracting the crude elemi with a volatile solvent, and removing the latter in vacuum after proper filtration. Acetone gives a very high yield and is a very good solvent for elemi. The acetone-resinoid is pale yellow, and soon shows white masses of crystals separating in the soft, slowly solidifying resinoid. Benzene gives a lower yield, and the odor of this solvent is more difficult to remove from the resinoid. Ethyl alcohol is a comparatively poor solvent for elemi, but some perfumers prefer to extract only once with one or two parts of ethyl alcohol. It will be necessary to filtrate the extract before it cools off. A smaller yield of resinoid is thus obtained, but it presents the heart of the fragrance of elemi in a more concentrated form: fewer monoterpenes, resin acids, sesquiterpenes, etc., and higher concentration of the rare but important oxygenated components of elemi. One could call this product Elemi Resin Absolute. This is a very interesting fixative for artificial bergamot, lemon, lime, etc., as well as for the various verbena compositions, e.g. eau de verveine bases and other cologne types. In lavender colognes, foug\u00e8res, spicy colognes, etc., it simultaneously introduces freshness and fixation. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Elemi oil",
+        "picture": "https://lazenskakava.s24.cdn-upgates.com/_cache/6/1/61be74fc859d3e26d3416b148fe92811-elemi-100-prirodni-esencialni-olej-10ml-pestik.jpg",
+        "background_info": "This is steam distilled from the crude Elemi. Elemi Oil is responsible for the fresh-lemony, peppery odor of crude elemi and of elemi resinoid. The main constituent of the oil is Phellandrene, a very unstable terpene, widely distributed in the plant kingdom. Elemi oil is colorless or pale yellow, mobile, and possessing a light, fresh, lemon-like, peppery odor which later dries out into a balsamic, slightly green-woody and sweet-spicy, pleasant note. The oil is not very stable, but antioxidants can retard decomposition of the phellandrene and dipentene. However, the natural Elemi Oil is very useful as a freshener and topnote material in various perfume compositions, e.g. foug\u00e8res, chypres, colognes, and even in the heavy-sweet floral bases. The partially deterpenized elemi oil will prove particularly interesting in the Oriental bases, muguet, orchid, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "Cinnamon Bark oil",
+            "Olibanum",
+            "Labdanum products",
+            "Rosemary oil",
+            "Lavandin",
+            "Sage oils",
+            "etc."
+        ]
+    },
+    {
+        "name": "Erigeron oil",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Erigeron_Glaucus.jpg/640px-Erigeron_Glaucus.jpg",
+        "background_info": "Among the comparatively few essential oils which are produced exclusively from wild growing plants is the oil of Erigeron Canadensis. The entire overground part of the fleabane plant is steam distilled in the spearmint growing area of the midwestern United States. Erigeron Oil is a water-white or pale yellow liquid of a sweet, but very fresh-spicy, herbaceous, basil-like odor. The dryout note is peculiar, winey-herbaceous and sweet, resembling the odor of powdered licorice root. The odor also resembles that of moroccan chamomile oil (ormenis multicaulis) in its verbena-like freshness and the herbaceous, ethereal-sweet, ambra-like undertone. The oil of Erigeron Canadensis is occasionally used in perfumes where its peculiar and quite powerful odor may contribute interesting modifications in various types of colognes, foug\u00e8res, chypres, aldehydic fantasy bases, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "Cardamom oil",
+            "Citrus oils",
+            "Coriander oil",
+            "Decyl aldehyde",
+            "Hydroxycitronellal",
+            "Linalool",
+            "etc."
+        ]
+    },
+    {
+        "name": "Estragon oil",
+        "picture": "https://herbanyus.hu/wp-content/uploads/2023/10/tarkony-2.webp",
+        "background_info": "Also known as Tarragon Oil. In contrast to most other Artemisia oils, the essential oil of Artemisia Dracunculus is a sweet-smelling, spicy oil. The plant is a small member of the Compositae family, growing wild in many European and Asian countries. The whole overground part of the herb is steam distilled immediately prior to the inflorescence. Estragon Oil is a colorless or very pale yellow to greenish-yellow liquid with a sweet-anisic, green-spicy, slightly celery-like odor, very similar to that of the fresh herb. Like anise and basil oils, estragon oil tends to resinify on ageing; it becomes dark yellow and sticky, viscous, and loses its fresh green note and pleasant aroma. Estragon Oil is useful in trace amounts in chypre, l\u2019Origan types, foug\u00e8res, lilac bases, green floral bases, etc.",
+        "usage": "Trace amounts",
+        "blends_well_with": [
+            "Galbanum",
+            "Lavender",
+            "Isoeugenol",
+            "Methylionones",
+            "Vanillin",
+            "Cinnamic alcohol",
+            "Oakmoss products",
+            "etc."
+        ]
+    },
+    {
+        "name": "Eucalyptus Globulus",
+        "picture": "https://www.albertvieille.com/wp-content/uploads/2020/08/Eucalyptus-globulus-2-1024x768.jpg",
+        "background_info": "Some decades ago, a pharmacist wouldn\u2019t think of buying a eucalyptus oil unless it was a genuine Eucalyptus Globulus oil. Pharmaceutically, it is the most important (type) of all the eucalyptus oils, and if we consider all the Cineole-types of eucalyptus oil as one big \u201cpharmaceutical eucalyptus oil\u201d, this will be the largest in quantity by far. Eucalyptus Globulus oil is steam distilled from the fresh or partly dried, long and narrow leaves of this large beautiful tree. The main use for Eucalyptus Globulus oil is in the pharmaceutical preparations, flavoring of cough drops, vaporizers, mouth-gargles, toothpaste, etc., as well as a rubefacient and general germicide. The germicidal effect is not very outstanding. In perfumery, the oil enters numerous formulas for low-cost perfumes, industrial perfumes, in the masking of various odors, and as a replacement for other essential oils. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Everlasting Absolute",
+        "picture": "https://www.promessedefleurs.ie/media/catalog/product/cache/267b0f64c5ebd5d96d2f2c3d93807d49/H/e/Helichrysum-angustifolium-Tall-Curry-Plante-curry-copyright-17428-1.jpg",
+        "background_info": "Widely known in southern Europe as \u201cImmortelle\u201d, \u201cEverlasting\u201d or \u201cSt. John\u2019s Herb\u201d is the small plant Helichrysum Angustifolium. The plant has attracted perfumers for quite some time. It should not be confused with \u201cSt. John\u2019s Wort\u201d which is an entirely different plant (hypericum perforatum) of no use in perfumery and little use in cosmetic preparations. Many attempts have been made to produce an essential oil by steam distillation of the entire overground plant or of the flowers alone. All efforts have either failed or shown an extremely small yield. For those who have seen the plant, this cannot come as a surprise: it is hardly possible to visualize anything drier than the mature plant. It appears to be simply dehydrated or ovendried, but the flowers still keep their beautiful colors, hence the name\u2014Everlasting. Everlasting Absolute is used in perfumery for its deep-sweet, honeylike, tobacco-like notes, and for its great fixative effect. Although it cannot possibly exert a true physical fixation at the normal use concentration (fractions of one percent in the perfume oil), the absolute has an extraordinary ability of rounding off and \u201cbouquetting\u2019 a fragrance which may need life and naturalness. Its effect in rose bases and heavy-floral Oriental fragrances can be quite unique and successful. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Coumarin",
+            "Flouve",
+            "Lavender",
+            "Lavandin",
+            "Sage Clary",
+            "Citrus oils",
+            "Linalool",
+            "Rose bases",
+            "Phenyl Ethyl Alcohol",
+            "Peru Balsam oil",
+            "Clove bud oil",
+            "etc. "
+        ]
+    },
+    {
+        "name": "Fennel oil, sweet",
+        "picture": "https://coasttocactus.sdnhm.org/assets/img/resized/C2C_Fir0002_Fennel_flower_heads_W-r-w800-q100-m1465242657.jpg",
+        "background_info": "Of little importance\u2014and steadily decreasing in interest\u2014-is the essential oil that is steam distilled from the crushed fruits of cultivated Sweet Fennel, also known as \u201cRoman Fennel\u201d, Foeniculum Vulgare, varietas dulce. Sweet Fennel Oil is a colorless or pale yellow liquid with a very sweet, but slightly earthy or peppery-spicy odor and a clean, sweet-aromatic dryout. There is a hint of a fruity-fresh topnote in fresh oils. The flavor is warm-spicy, aromatic, then sweet and only faintly burning. The oil is still used in some perfume types, e.g. chypre, foug\u00e8re, etc., but it is used more extensively in flavor work, e.g. liqueurs, licorice candy, cough drops, lozenges, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Fig Leaf Absolute",
+        "picture": "https://images.squarespace-cdn.com/content/v1/59bc4b7f017db254b3b5b7f7/625c18b2-d4f2-4430-8cc4-6b3c399761ab/maxresdefault.jpg",
+        "background_info": "The leaves derive from Ficus Carica, one of the oldest of all the cultivated plants in the Mediterranean area. Growing wild as a shrub it is cultivated as a small tree in most of the countries around the \u201cblue sea\u201d. This cultivation is, however, mainly conducted for the purpose of producing the edible \u201cfruits\u201d (swollen receptacles) which we call Figs. Fig Leaf Absolute is a dark green to brownish green, semi-solid mass or a heavy, viscous liquid of a delicately sweet-green, herbaceous and somewhat woody odor with a mossy undertone. The absolute is used in various perfume creations, mostly those of the foug\u00e8re, moss, chypre or meadow-type. It is also an interesting modifier in green-leafy \u201cfoliage\u201d bases, etc. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Fir Needle Absolute",
+        "picture": "https://www.brambleberry.com/on/demandware.static/-/Sites-brambleberry-master-catalog/default/dwffbe8cf8/images/large/ingredients/essential-oils/main/FirNeedleEO_ES18_Main.jpg",
+        "background_info": "A fairly recent addition to the materials on the perfumer\u2019s shelf is the extract of one or more kinds of pine needle, spruce needle, etc. Concr\u00e8tes as well as absolutes are available, and the botanical raw material varies from one supplier to another. The concr\u00e8te is a very dark green paste, often grainy, and after standing. it displays white, needleshaped crystals of an intensely sweet odor, reminiscent of the odor of strawberry jam and caramellized sugar. Fir needle concr\u00e8te is further treated with alcohol to produce an Absolute of Fir Needles which when it comes from American suppliers is a dark green, semi-liquid or syrupy mass of sweet-coumarinic, somewhat fruity and intensely balsamic odor; briefly, it is very true to nature. The absolute of fir needles from French suppliers is usually a syrupy, amber-brown, clear liquid which has an odor more balsamic and sweet than pinelike and of great tenacity. It is conceivable that the French extracts are made from dry or partly dried material which would not produce a green color in the extract. The alcohol-soluble Fir Needle Absolute is obviously stronger in odor than the concr\u00e8te (it is free from resins and waxes), and it should be used with utmost care, particularly in perfumes other than the pine types. Additions far below one percent in the perfume oil are often sufficient to introduce the wanted \u201cnaturalness\u201d to a pine fragrance, and much smaller concentrations can be used to obtain warm and \u201cspecial effects\u201d in many other perfume types. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Amyl Salicylate",
+            "Bergamot oil",
+            "Coumarin",
+            "Cypress oil",
+            "Labdanum,Lavandin oil",
+            "Linalool",
+            "Linalyl acetate",
+            "Nerol",
+            "Oakmoss products",
+            "Rosemary oil",
+            "Sage Clary oil",
+            "Thyme oil",
+            "etc."
+        ]
+    },
+    {
+        "name": "Fir Needle oil, Siberian",
+        "picture": "https://www.aromaweb.com/images/botanicals/siberian-fir-oil.jpg",
+        "background_info": "Siberian Fir Needle Oil is undoubtedly the most popular type of \u201cfir\u201d needle oil in Europe, and one of the most popular in the U. S. A. also. It is a colorless to very pale yellow or pale olive-yellow, oily liquid, occasionally turbid or opalescent. Its odor is refreshingly balsamic, slightly fatty or oily with a powerful pine-forest odor, and a peculiar fruity-balsamic undertone. The particular odor and aldehydic topnote of this oil makes it an interesting material for use in \u201cunconventional perfumery.",
+        "usage": "-",
+        "blends_well_with": [
+            "Other pine or \"fir\" needle oils",
+            "Amylsalicylate",
+            "Coumarin",
+            "Oakmoss products",
+            "Nitromusks",
+            "Diphenyl oxide",
+            "Citrus oils",
+            "Rosemary oil",
+            "Juniper berry oil",
+            "Labdadnum extracts",
+            "Patchouli oil",
+            "Lavandin oil",
+            "etc."
+        ]
+    },
+    {
+        "name": "Flouve Absolute",
+        "picture": "https://www.aromatiquebio.fr/wp-content/uploads/2021/01/Anthoxanthum-odoratum.jpg",
+        "background_info": "From the flowering tops of a grass which is known in France as Flouve Odorante, various perfume and flavor materials are produced. The product sold today under the name of Flouve Absolute is very dependent upon this single producer and supplier. Since it is such a highly interesting and quite unique item, several other producers recently have put a similar material on the market under the same label. Flouve Absolute is a viscous, greenish-amber to brownish-yellow liquid, having a very sweet, herbaceous, tobacco-like and coumarinic odor. The odor is so rich and so complex that one can keep on finding notes in it. However, the overall fragrance is a sweet, licorice-like, root-like, somewhat mossy-herbaceous like wet underforest and meadows, of exceptional tenacity and high penetrating power. In perfumes, Flouve Absolute is useful in chypre, foug\u00e8re, pine, Oriental bases, and in traces as a sweetener for dry-woody notes which can be modified in a very pleasant way with flouve absolute. The usual concentration of Flouve Absolute in a perfume base should be well below one percent, and effects are often perceptible below the concentration of 0.1% in the perfume oil. Thus, cost is no serious drawback although Flouve belongs to the \u201cmedium\u201d priced raw materials. ",
+        "usage": "-",
+        "blends_well_with": [
+            "Oakmoss products",
+            "Labdanum extracts",
+            "Pine or fir needle oils",
+            "Chamomile oils",
+            "Cypress oil",
+            "Lavandin",
+            "Lavender oils",
+            "Petitgrain oils",
+            "etc."
+        ]
+    },
+    {
+        "name": "Flouve oil",
+        "picture": "https://www.promessedefleurs.com/media/catalog/product/cache/267b0f64c5ebd5d96d2f2c3d93807d49/A/n/Anthoxanthum-odoratum-Flouve-odorante-copyright-18185-5.jpg",
+        "background_info": "From the dried upper part of the grass, Flouve Odorante, harvested during or after the inflorescence, an essential oil can be produced by steam distillation under certain circumstances. Flouve Oil is a light amber colored or pale orange-yellow, viscous oil of intensely sweet, coumarinic-haylike and heavy herbaceous odor. In contrast to the absolute the oil has no mossy notes, but it has a certain fatty-rootlike undertone reminiscent of elecampane and mimosa. It is not floral, however, but it presents part of the fragrance of a meadow with flowering herbs and grasses. It is used in perfumery in foug\u00e8res, chypres, new mown hay bases, Oriental bases, ambres, etc.\u2014although always at a very low concentration. It often accompanies chamomile, tansy, artemisia oils, galbanum and other essential oils in trace amounts to produce \u201cspecial effects\u201d, topnotes, etc. The oil is thus almost generally applicable.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Galanga oil",
+        "picture": "https://www.floraofsrilanka.com/uploads/genus/resized/genus_1628677590_Daraluwa%20(5).JPG",
+        "background_info": "Also known as \u201cGalangal Oil\u201d or \u201cFalse Ginger Oil\u201d. The oil is steam-distilled from the comminuted rhizome of Alpinia Officinarum, a relative to ginger and cardamom. Galanga Oil is a yellowish to olive-brown, occasionally pale olive or pale yellow liquid of fresh-camphoraceous and spicy-woody odor reminiscent of laurel leaf oil, cardamom oil, ginger oil, etc., with a distinct cineole-like topnote and a warm undertone of rich and spicy body. Galanga oil is rarely used in perfumery, but it could introduce interesting notes in Oriental bases, woody fragrances, spicy perfumes, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "Lavandin",
+            "Pine needle oils",
+            "Citrus oils",
+            "Rosemary oils",
+            "Patchouli oil",
+            "Myrtle oil",
+            "Opopanax oil",
+            "etc."
+        ]
+    },
+    {
+        "name": "Galbanum",
+        "picture": "https://shop.sa-usa.com/cdn/shop/articles/What-Does-Galbanum-Smell-Like_1500x.jpg?v=1562740121",
+        "background_info": "Galbanum is a natural oleo-gum-resin. Galbanum is one of the typical examples of a botanical which has \u201cchanged\u201d appearance, composition and odor during the past five decades. This is apparent when we look into literature from 1939, 1936, 1926 or even further back: the description of galbanum in these works is outdated. Galbanum is collected from not one, but several different species of Ferula (big umbellifer plants). These grow wild in Iran and in the countries toward Asia Minor, e.g. Lebanon. There are still\u2014as the literature correctly says\u2014two types: a hard and a soft galbanum offered commercially. For perfumery, only the soft variety has interest. The hard galbanum is used in pharmacy and for various industrial purposes. Soft Galbanum is a dark amber-colored to yellowish-brown or grayish-green, olive-brown, very viscous liquid whose consistency is like fresh honey. It is usually contaminated with wood splinters, sand, gravel, plant fibres, insects, etc., and it will separate a \u201cfoot\u201d of a grayish mass on the bottom of its container. This precipitate contains water, sand, some dissolved gum, etc., and it has no perfumery value. It is often possible to eliminate it when emptying a container, since the precipitate is not pourable, while the useful galbanum is just pourable at room temperature (over 20\u00b0 C.). The odor of crude galbanum (soft type) is powerful, green-woody, almost balsamic-resinous, reminiscent of oleoresins from conifers. The leafy- earthy, green note is often referred to in terms, such as: \u201clike green peppers\u201d or \u201ctossed green salad\u201d, etc. There is a distinct resemblance to the odor of hyacinth leaves. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Galbanum oil",
+        "picture": "https://www.bonparfumeur.com/cdn/shop/files/GALBANUM---botanical_1500x.jpg?v=1692008985",
+        "background_info": "Galbanum oil is steam distilled or steam-and- water distilled from Galbanum. Galbanum Oil is a colorless to pale yellow or pale olive-yellow, mobile liquid which possesses an intensely green, fresh-leafy odor with a dry- woody undertone of balsamic, bark like character. A very striking description often heard is \u201clike green peppers or tossed green salad\u201d. The oil has a pine-like topnote which is less pronounced in the odor of the resinoid. The latter, in turn, has a more woody-balsamic, conifer-resinous character. The pine-like topnote can be removed by fractional distillation of the oil. The woody-balsamic, soft- green and tenacious undertone can be isolated in the high-boiling fractions. Galbanol is a trade name for the latter type of galbanum oil fractions. Galbanum oil finds extensive use, although always in very modest concentrations, in compositions of chypre, foug\u00e8re, pine, forest, moss, etc., and it will introduce interesting notes in many florals where its leafy character is necessary in the completion of a true naturalness: hyacinth, violet, narcissus, lavender, gardenia, etc. It can find use in countless perfume types and bases.",
+        "usage": "-",
+        "blends_well_with": [
+            "Cinnamic alcohol",
+            "Coumarin",
+            "Cuminaldehyde",
+            "Dimethyl Benzyl Carbinol",
+            "Geraniol",
+            "Geranium oil",
+            "Cyclamal",
+            "Isoeugenol",
+            "Linalool",
+            "Oakmoss products",
+            "Pine needle oils",
+            "Fir needle absolute",
+            "Methyl Phenyl Carbinyl Propionate",
+            "Styrax resinoid",
+            "Styrax oil",
+            "etc."
+        ]
+    },
+    {
+        "name": "Galbanum Resinoid",
+        "picture": "https://originalswissaromatics.com/cdn/shop/products/GalbanumDistilled.jpg?crop=center&height=1024&v=1676498905&width=1024",
+        "background_info": "Galbanum resinoid is prepared from the crude galbanum. Years ago, when galbanum was a hard, grainy mass or lumps, the resinoid was prepared in the conventional way, i.e. by extraction with a hydrocarbon solvent and subsequent removal of the solvent after filtration. Because of the significant water content in the lower grades of galbanum, it was necessary to use solvents which are not miscible with water. Acetone and ethyl alcohol could not be used. Solvent-free galbanum resinoid is a semi-liquid, dark amber or brownish-golden material, almost pourable at room temperature. The odor is intensely rich-green, woody-balsamic, yet with a dry undertone, and it has the typical \u201cgreen peppers\u201d foliage-like note which is so pronounced in the essential oil. The resinoid is usually not clearly soluble in alcohol. Extracts of galbanum, prepared with ethyl alcohol as a solvent, are available. These \u201cresin absolutes\u201d are almost clearly soluble in alcohol. They are more or less \u201cterpeneless\u201d products of entirely different odor type: less green-sharp, more softbalsamic, rich, woody and very tenacious in odor. Galbanum Resinoid is an extremely interesting fixative with an odor of its own. It is useful in lavender, foug\u00e8re, Oriental bases, chypres, pine fragrances, woody bases, moss odors, and in certain floral types. Its use in hyacinth is almost classic. Galbanum resinoid has the definite advantage over many synthetic \u201cgreen-odor\u201d materials in the fact that it mellows in almost immediately: it is possible to evaluate the result and the effect during the creation of the fragrance. Synthetic materials in this odor group often \u201cgrow\u201d or \u201cfade\u201d in the perfume with a perceptible change in the odor of the perfume within a few weeks.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Gardenia",
+        "picture": "https://viragbarat.hu/wp-content/uploads/Gardenia-Gardenia-jasminoides_dt-2.jpg",
+        "background_info": "The gardenia shrub, Gardenia Grandiflora (and other gardenias), is quite common as an ornamental plant in subtropical and warm-temperate zones of the world. The flowers of this plant have been known and admired for their outstanding fragrance for thousands of years. However, these flowers are rarely submitted to extraction for the isolation of essential oil, concr\u00e8te or absolute. One reason is the very small yield (about 1 kilo of absolute from 5000 kilos of flowers). Another reason is the limited use of the gardenia type of fragrance in perfumery. Finally, this type of fragrance has been comparatively easy to copy, although a good artificial gardenia base is more rare than for example a good artificial muguet base (lily-of-the-valley). Incidentally, a close resemblance to the natural product is not synonymous with unexcelled performance in a perfume. Gardenia Absolute was used for its intense and rich, floral effect and its peculiar sweet-green note. However, artificial gardenia perfume bases have now replaced the true and very expensive absolute from the flowers.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Geranium Absolute",
+        "picture": "https://www.interherb.hu/www-uploads/2023/01/Geranium.jpg",
+        "background_info": "This comparatively recent addition to the perfumer\u2019s shelf is produced from Geranium Concr\u00e8te. Geranium Absolute can vary considerably in appearance and odor type depending on the type of solvent used in the extraction of the plant material. It seems that the petroleum ether concr\u00e8te is becoming more popular, and it yields an absolute of lighter color than do most other concr\u00e8tes. Geranium absolute is usually a green or dark green liquid with an intense and very powerful, somewhat leafy-earthy, but soft and pleasant odor. The leafy-green notes are quite pronounced, but the rich, rosy-minty undertone remains on a blotter throughout the evaporation of the oil. The odor of the absolute is less sharp and more tenacious than that of the essential oil. Geranium Absolute is used in perfumery, particularly in high-class rose bases, chypres, fantasy perfumes, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Geranium Concr\u00e8te",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flowers_of_Pelargonium_graveolens_20190502.jpg/1200px-Flowers_of_Pelargonium_graveolens_20190502.jpg",
+        "background_info": "Geranium concr\u00e8te is produced from the same plant material, i.e. leaves and branchlets of Pelargonium Graveolens, from which the essential oil is distilled. Geranium Concr\u00e8te is a dark green or brownish- green, waxy mass; it has an intensely earthy herbaceous, somewhat sharp-rosy, foliage-green odor and great tenacity. It is soluble in perfume oils to a modest degree, and can thus be used with advantage in soap perfumes where its effect is quite inimitable. It lends a beautiful rich body to rose perfumes, and blends well with the conventional woody or spicy additives in rose soap perfumes, Oriental rose bases, chypre soap perfumes, etc. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Geranium oil",
+        "picture": "https://www.theplantcompany.co.nz/file/getimage/shop/jpg/lg/pelargonium-graveolens.webp",
+        "background_info": "One of the most important and irreplaceable essential oils in perfumery is Geranium Oil. Geranium Oil is steam distilled from the leaves and branches of Pelargonium Graveolens and other species of Pelargonium. This comparatively small plant is a hybrid from other pelargonium species, all of which originally came from South Africa. The funny part of the geranium story is that practically all perfumery geraniums have taken the same trip: to Europe first, and then back to some overseas region where they have been cultivated for the purpose of producing essential oil. Geranium Oils are used very extensively in perfumery. Significant quantities of geranium oil are used in the production of \u201crhodinol ex geranium\u201d or \u201cterpeneless geranium oil\u201d. ",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Geranium oil, R\u00e9union",
+        "picture": "https://www.reunion.fr/app/uploads/crt-reunion/2020/04/thumbs/fleurs39geranium-creditirt-emmanuelvirin-1920x960.jpg",
+        "background_info": "Also called Geranium Bourbon from the old name of the island of La R\u00e9union (Ile de Bourbon), Geranium Oil, R\u00e9union is the most important of all the geranium oils. It is produced in hundreds of small, mainly primitive stills which treat often less than one metric ton of plant material per charge. Freshly distilled Geranium Bourbon Oil has a very peculiar, rather obnoxious topnote which is partly due to dimethyl sulfide. The latter is probably not present as such in the leaves, but is produced during the rapid decaying of the plant material immediately prior to the field distillation. The unpleasant topnote will disappear after proper aeration or ageing of the oil, or when the oil is filtered or decanted. The color of the oil is then greenish-olive to almost brownish green. Later on, the green color fades, and the oil becomes more yellow when old. Its odor is very powerful: green, leafy-rosy, with a pronounced fruity-minty undertone and a rich, long-lasting, sweet-rosy dryout. In perfumery, this oil is used so commonly that it is hardly possible to point out its particular application.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ]
+    },
+    {
+        "name": "Geranium oil, Terpeneless",
+        "picture": "https://fermes-et-jardins.re/wp-content/uploads/2022/08/ge%CC%81ranium-rosat-1-1-1024x683.jpg",
+        "background_info": "Although the actual amount of hydrocarbons in geranium oil is comparatively small, the partial or total removal of \u201clight\u201d fractions of geranium oil (during a vacuum distillation) produces quite interesting perfume materials, distinctly different from the parent oil. From a chemical point of view, this treatment is not strictly a deterpenization (compare, e.g. wormwood oil, dethujonized) since the foreruns of a vacuum-distilled geranium oil will contain not only small amounts of pinene and other monoterpenes, but also certain amounts of aliphatic and olefinic alcohols of the C6 to C10-series, perhaps even higher members. Traces of aldehydes, ketones and low-boiling esters are also present in these \u201chead\u201d fractions. The \u201cheart\u201d fraction will consist mainly of the so-called \u201cRhodinol ex Geranium\u201d, a mixture of terpene alcohols, laevo-citronellol and geraniol presumably being the main components. In the \u201ctail\u201d fractions, there will again be certain components whose fragrance the perfumers do not appreciate to the same extent as for the rhodinol fractions. The terpeneless geranium oil or \u201crhodinol ex geranium\u201d (two different perfume materials) are colorless or very pale yellow liquids. The odor of the \u201crhodinol\u201d is delightfully sweet, yet fresh and rosy, very uniform and tenacious. \u201cRhodinol ex Geranium\u201d is used very extensively in perfumery as a base for rose, muguet, carnation, apple blossom and many other perfume types. Its floral sweetness, delightful freshness and delicate warm-rosy tonalities blend well with the odors of hydroxycitronellal, linalool, geraniol, dimethyl benzyl carbinol, cinnamic alcohol, cyclamen aldehyde, phenyl ethyl alcohol, geranyl esters, linalyl esters, etc.",
+        "usage": "-",
+        "blends_well_with": [
+            "Hydroxycitronellal",
+            "Linalool",
+            "Geraniol",
+            "Dimethyl Benzyl Carbinol",
+            "Cinnamic alcohol",
+            "Cyclamen aldehyde",
+            "Phenyl Ethyl Alcohol",
+            "Geranyl esters",
+            "Linalyl esters",
+            "etc."
         ]
     }
 ]

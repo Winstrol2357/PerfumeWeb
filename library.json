@@ -54,5 +54,75 @@
                 "percentage": "0.2"
             }
         ]
+    },
+    {
+        "name": "teszt",
+        "ingredient_count": 4,
+        "desired_quantity": "50g",
+        "date": "2024-11-24",
+        "materials": [
+            {
+                "material": "12312312gasdsdf ",
+                "parts": 500,
+                "grams": "25.000",
+                "percentage": "50.0"
+            },
+            {
+                "material": "12312312gasdsddsgf sgmazr",
+                "parts": 250,
+                "grams": "12.500",
+                "percentage": "25.0"
+            },
+            {
+                "material": "12312312gasd",
+                "parts": 150,
+                "grams": "7.500",
+                "percentage": "15.0"
+            },
+            {
+                "material": "12312312",
+                "parts": 100,
+                "grams": "5.000",
+                "percentage": "10.0"
+            }
+        ]
+    },
+    {
+        "name": "Unnamed Formula",
+        "ingredient_count": 5,
+        "desired_quantity": "10g",
+        "date": "2024-11-24",
+        "materials": [
+            {
+                "material": "eqweq6 zsr hrts haea ae",
+                "parts": 200,
+                "grams": "2.000",
+                "percentage": "20.0"
+            },
+            {
+                "material": "eqweq6 zsr hrts haea aesadasdasdasdasdasdasd",
+                "parts": 200,
+                "grams": "2.000",
+                "percentage": "20.0"
+            },
+            {
+                "material": "eqweq6 zsr hrts haeasdasda aesadasdasdasdasdasdasd",
+                "parts": 200,
+                "grams": "2.000",
+                "percentage": "20.0"
+            },
+            {
+                "material": "eqweq6 zsr hrts haeasdasdsasdasda aesadasdasdasdasdasdasd",
+                "parts": 200,
+                "grams": "2.000",
+                "percentage": "20.0"
+            },
+            {
+                "material": "asdasd",
+                "parts": 100,
+                "grams": "1.000",
+                "percentage": "10.0"
+            }
+        ]
     }
 ]

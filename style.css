@@ -99,16 +99,17 @@ header .container {
 }
 
 header h1 {
-    font-size: 1.4rem;
+    font-size: 1.55rem;
     text-transform: uppercase;
     letter-spacing: 2px;
-    word-spacing: 7px;
+    word-spacing: 10px;
     color: #ffffff;
     position: absolute;
     top: 48%; 
-    left: 30%; 
+    left: 26.3%; 
     transform: translate(-50%, -50%);
-    z-index: 2;  
+    z-index: 2; 
+
 }
 
 #searchBox {
@@ -555,7 +556,7 @@ header h1 {
 }
 
 .logo {
-    position: fixed;
+    position: absolute;
     width: 150px;
     height: auto;
     top: 42px;
@@ -570,4 +571,267 @@ header h1 {
 
 .logo:hover {
     opacity: 0.5;
+}
+
+/* Adjust styles for screens narrower than 768px (tablet and smaller) */
+@media (max-width: 768px) {
+    header.home {
+        height: auto; /* Allow header to adjust height dynamically */
+    }
+
+    .background-image {
+        width: 100%; /* Adjust image to fit within screen */
+        height: auto;
+    }
+
+    header h1 {
+        font-size: 1.2rem; /* Reduce font size for smaller screens */
+        left: 50%; /* Center the text */
+    }
+
+    #main-navigation ul {
+        flex-direction: column; /* Stack navigation links vertically */
+        gap: 10px;
+    }
+
+    #main-navigation li a {
+        font-size: 1.2rem; /* Adjust font size for navigation links */
+        padding: 8px 10px;
+    }
+
+    .text-container {
+        margin: 10vh 5%; /* Add padding to avoid edge clipping */
+    }
+
+    .materials {
+        width: 90%; /* Reduce width for smaller screens */
+        padding: 15px;
+    }
+
+    .materials h1 {
+        font-size: 28px; /* Adjust heading size */
+    }
+
+    .material-content img {
+        max-width: 100%; /* Ensure images fit within container */
+        float: none; /* Remove float for better stacking */
+        margin: 10px auto;
+        display: block;
+    }
+
+    .material-header {
+        font-size: 18px; /* Adjust header font size */
+    }
+}
+
+/* Adjust styles for screens narrower than 480px (mobile) */
+@media (max-width: 480px) {
+    header {
+        position: relative;
+        width: 100%;
+        height: 100vh; /* Full viewport height */
+    }
+
+    header h1 {
+        font-size: 1.2rem; /* Font size */
+        text-transform: uppercase; /* Uppercase text */
+        color: #ffffff; /* Text color */
+        position: absolute; /* Absolute positioning */
+        top: 40%; /* Vertical position */
+        left: 20%; /* Horizontal position */
+        transform: translate(-30%, -40%); /* Adjust positioning relative to the element's size */
+        width: 40%; /* Set a maximum width to allow wrapping */
+        text-align: center; /* Center-align the text */
+        white-space: normal; /* Allow text to wrap onto the next line */
+        word-wrap: break-word; /* Break long words if necessary */
+        letter-spacing: 3px;
+        word-spacing: 15px;
+    }
+    
+
+    .materials {
+        width: 85%; /* Use full width for mobile screens */
+        padding: 20px;
+    }
+
+    .materials h1 {
+        font-size: 24px;
+    }
+
+    .gotop {
+        width: 40px; /* Adjust size for smaller screens */
+        height: 40px;
+        font-size: 18px;
+    }
+
+    .logo {
+        position: absolute; /* Or fixed if you want it to stay centered during scrolling */
+        top: 50px; /* Move down to 50% of the viewport height */
+        left: 50%; /* Move right to 50% of the viewport width */
+        transform: translate(-50%, -50%); /* Offset by half the logo's size */
+        width: 150px; /* Set the logo size (adjust as needed) */
+        height: auto; /* Maintain the aspect ratio */
+        z-index: 200; /* Ensure it stays on top of other elements */
+    }
+    
+
+    #searchBox, #blendSearchBox {
+        width: 94%;
+    }
+
+    .material-item.active .material-content {
+        max-height: 5000px; /* Adjust to fit the content */
+        display: block;
+    }
+
+    .material-content img {
+        max-width: 316px;
+        float: left;
+        margin: 10px 10px 10px 15px;
+    }
+    
+    .material-content p {
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 14px;
+    }
+
+    .gotop {
+        position: fixed;
+        width: 45px;
+        height: 45px;
+        bottom: 30px;
+        right: 40px;
+        pointer-events: auto;
+        z-index: 200;
+        color: #333;
+        text-decoration: none;
+        text-align: center;
+        line-height: 45px;
+        color: #4d4d4d;
+        font-size: 22px;
+        border-radius: 50px;
+        border: 3px solid #333;
+        transition: background-color 1s ease;
+    }
+
+    .gotop:hover {
+        color: #333;
+        border: 3px solid #333;
+    }
+
+    #addMaterialButton {
+        display: none;
+    }
+
+    #main-navigation {
+        display: flex; /* Flexbox layout for navigation */
+        font-weight: bold;
+        z-index: 11;
+        top: 50px;
+    }
+
+    #main-navigation ul {
+        display: flex; /* Flexbox layout */
+        flex-direction: column; /* Ensure items are in a row */
+        flex-wrap: wrap; /* Allow items to wrap if they overflow */
+        justify-content: center; /* Center-align navigation items */
+        align-items: center;
+        list-style: none; /* Remove bullets */
+        padding: 0;
+        gap: 15px; /* Adjust spacing between buttons */
+        
+    }
+
+    #main-navigation li a {
+        font-size: 1.3rem; /* Reduce font size for small screens */
+        padding: 5px 8px; /* Reduce padding */
+        border-radius: 5px; /* Keep smooth edges */
+        text-decoration: none; /* Clean button appearance */
+        color: white; /* Button text color */
+        background-color: transparent; /* Optional: Add a background color if needed */
+        text-shadow: 1.5px 1.5px 1px rgba(0, 0, 0, 0.8);
+
+
+
+    }
+
+    .overlay-container {
+        position: absolute;
+        top: 100px;
+        left: 0;
+        width: 100%;
+        margin: 18vh 0 0 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 1;
+        flex-direction: column;
+    }
+
+    .materials button {
+        margin-bottom: 20px;
+        
+    }
+    
+    .material-list {
+        width: 99.5%;
+        padding: 5px;
+    }
+
+    .material-list div {
+        font-size: 14px;
+        align-items: center;
+        text-align: left;
+        max-height: 100px;
+        padding: 5px;
+    }
+
+    .percentage-meter {
+        font-size: 18px;
+    }
+    
+    .attribute-pair {
+        display: flex;
+        font-size: 14px;
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+
+    .material-content ul li {
+        display: block;
+        justify-content: center;
+        margin-bottom: 25px;
+    }
+
+    .progress-bar {
+        width: 100%;
+    }
+}
+
+@media (max-width: 360px) {
+    .material-content img {
+        max-width: 247px;
+        float: left;
+        margin: 10px 10px 10px 15px;
+    }
+
+    .overlay-container {
+        top: 135px;
+    }
+
+    .materials {
+        width: 82%;
+    }
+
+    header h1 {
+        font-size: 1rem; /* Font size */
+        top: 35%;
+    }
+
+    .materials button {
+        margin: 0px 0px 0px 5px;
+    }
+
+    .material-list div {
+        margin-bottom: 25px;
+    }
 }

@@ -117,7 +117,7 @@ header h1 {
     padding: 10px;
     font-size: 16px;
     border: 1px solid #ccc;
-    margin-bottom: 15px;
+    margin: 20px 0px 5px 0px;
     border-radius: 5px;
 }
 
@@ -134,6 +134,8 @@ header h1 {
     list-style-type: none;
     display: block;
 }
+
+
 
 .material-item {
     margin-bottom: 10px;
@@ -211,7 +213,7 @@ header h1 {
 }
 
 .materials h1 {
-    margin: 0 0 20px 0;
+    margin: 0 0 3px 0;
     font-size: 35px;
     font-family: 'Playfair Display', serif;
 }
@@ -254,6 +256,7 @@ header h1 {
 }
 
 #newMaterialForm input[type="text"],
+#newMaterialForm input[type="url"],
 #newMaterialForm textarea {
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
@@ -488,8 +491,10 @@ header h1 {
 .material-content ul li {
     display: flex; /* Allows items to align horizontally */
     flex-wrap: wrap; /* Ensures items wrap within the available width */
-    margin-bottom: 5px; /* Adds space between list items */
-    justify-content: space-between;
+    margin: 10px 0px 5px 0px; /* Adds space between list items */
+    gap: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 17.5px;
 }
 
 
@@ -501,8 +506,8 @@ header h1 {
 
 .material-content ul {
     margin-bottom: 15px;
+    
 }
-
 
 .attribute-pair {
     display: flex;
@@ -523,12 +528,14 @@ header h1 {
     justify-content: center;
 }
 
-.item-count {
+.item-count, .cost-count {
     font-size: 1em;
     color: #555;
     font-family: 'Source Sans Pro', sans-serif;
-    margin-top: -17px;
-    margin-bottom: 18px;
+}
+
+.item-count {
+    margin-bottom: 3px;
 }
 
 .gotop {
@@ -608,9 +615,7 @@ header h1 {
         padding: 15px;
     }
 
-    .materials h1 {
-        font-size: 28px; /* Adjust heading size */
-    }
+  
 
     .material-content img {
         max-width: 100%; /* Ensure images fit within container */
@@ -675,9 +680,7 @@ header h1 {
     }
     
 
-    #searchBox, #blendSearchBox {
-        width: 94%;
-    }
+    
 
     .material-item.active .material-content {
         max-height: 5000px; /* Adjust to fit the content */

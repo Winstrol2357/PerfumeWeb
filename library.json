@@ -124,5 +124,73 @@
                 "percentage": "10.0"
             }
         ]
+    },
+    {
+        "name": "asd",
+        "ingredient_count": 2,
+        "desired_quantity": "10g",
+        "date": "2024-11-26",
+        "materials": [
+            {
+                "material": "bergamot essence",
+                "parts": 800,
+                "grams": "8.000",
+                "percentage": "80.0"
+            },
+            {
+                "material": "bergamot essence",
+                "parts": 200,
+                "grams": "2.000",
+                "percentage": "20.0"
+            }
+        ]
+    },
+    {
+        "name": "afs",
+        "ingredient_count": 1,
+        "desired_quantity": "100g",
+        "date": "2024-11-26",
+        "materials": [
+            {
+                "material": "bergamot essence",
+                "parts": 1000,
+                "grams": "100.000",
+                "percentage": "100.0"
+            }
+        ]
+    },
+    {
+        "name": "emike",
+        "ingredient_count": 2,
+        "desired_quantity": "25g",
+        "date": "2024-11-27",
+        "materials": [
+            {
+                "material": "t\u00f6r\u00f6tt",
+                "parts": 500,
+                "grams": "12.500",
+                "percentage": "50.0"
+            },
+            {
+                "material": "ujj",
+                "parts": 500,
+                "grams": "12.500",
+                "percentage": "50.0"
+            }
+        ]
+    },
+    {
+        "name": "asddasa",
+        "ingredient_count": 1,
+        "desired_quantity": "10g",
+        "date": "2024-11-27",
+        "materials": [
+            {
+                "material": "bergamot essence",
+                "parts": 1000,
+                "grams": "10.000",
+                "percentage": "100.0"
+            }
+        ]
     }
 ]

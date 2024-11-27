@@ -1,0 +1,30 @@
+[
+    {
+        "name": "bergamot essence",
+        "date_added": "2024-11-25",
+        "link": "https://example.com/bergamot",
+        "total_ml": 100.0,
+        "total_price": 200.0
+    },
+    {
+        "name": "bergamot essence",
+        "date_added": "2024-11-26",
+        "link": "https://example.com/bergamot",
+        "total_ml": 50.0,
+        "total_price": 100.0
+    },
+    {
+        "name": "neroli essence",
+        "date_added": "2024-11-26",
+        "link": "https://example.com/neroli",
+        "total_ml": 30.0,
+        "total_price": 150.0
+    },
+    {
+        "name": "lemon",
+        "date_added": "2024-11-26",
+        "link": "https://lemon.hu",
+        "total_ml": 20,
+        "total_price": 3000
+    }
+]

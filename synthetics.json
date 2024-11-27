@@ -1,12 +1,21 @@
 [
     {
-        "name": "Tasun",
-        "picture": "https://lh3.googleusercontent.com/p/AF1QipNxa43z1qxd6hrjGZnNoppAV81oFP8_3HSfzpeH=s680-w680-h510",
-        "background_info": "Good smell",
-        "usage": "100",
+        "name": "Benzoin Sumatra",
+        "picture": "https://vanaroma.sgp1.digitaloceanspaces.com/new_website/images/botanical-source/Drying.jpg",
+        "background_info": "Sumatra Benzoin is a natural balsamic resin, exuded from a small tree, Styrax Benzoin, grown extensively in Sumatra and Malaya. Incisions are made in the trunks either through the bark or after peeling off spots of bark, and a viscous balsamic substance is produced as a pathologic material in the trunk. The substance flows out and solidifies on making contact with the air. The gum-resin is collected from the incisions and from the bottom of the trunk at the foot of the tree where significant quantities of benzoin accumulates. There are several grades of Sumatra Benzoin. The \u201cAlmond\u201d grade is considered the most suitable for perfumery purposes. It consists mainly of white or cream-colored brittle pieces, somewhat resembling almonds. This quality obviously yields a very pale-colored resinoid or tincture. It contains about 90% alcohol-soluble matter, occasionally more. Other grades of Sumatra Benzoin are solid masses, dark blocks of gray or brown-gray, uneven lumps containing more or less quantities of dirt, sand, wood splinters, etc. Benzoin Sumatra is a low-cost and readily available raw material, extensively used as a replacement for Siam Benzoin which is far more expensive. From a perfumer\u2019s point of view, however, the two benzoins should be considered as two different products. One can not substitute for the other. Siam Benzoin will find application in the more delicate fragrances. ",
+        "usage": "-",
         "blends_well_with": [
-            "vine"
+            "-"
+        ]
+    },
+    {
+        "name": "asd",
+        "picture": "asd",
+        "background_info": "asdas",
+        "usage": "dasd",
+        "blends_well_with": [
+            "asd"
         ],
-        "additional_info": "mucus"
+        "additional_info": "asd"
     }
 ]

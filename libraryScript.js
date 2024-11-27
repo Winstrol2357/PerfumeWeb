@@ -62,6 +62,16 @@ function filterMaterials() {
 // Function to toggle the visibility of each formula's details
 function toggleMaterial(index) {
     const item = document.getElementById(`material-${index}`);
+    const allItems = document.querySelectorAll('.material-item');
+
+    // Close all other open sections
+    allItems.forEach((materialItem, i) => {
+        if (i !== index) {
+            materialItem.classList.remove('active');
+        }
+    });
+
+    // Toggle the clicked section
     const materialItem = item.closest('.material-item');
     materialItem.classList.toggle('active');
 }

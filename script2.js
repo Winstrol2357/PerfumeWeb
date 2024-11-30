@@ -82,7 +82,7 @@ async function loadMaterials(jsonFile) {
                 </div>
                 <div class="material-content" id="material-${index}">
                     <ul>
-                        <li><strong>Date Added:</strong> ${dateAdded}</li>
+                        <li><strong>Date of Purchase:</strong> ${dateAdded}</li>
                         <li><strong>Link:</strong> <a href="${link}" target="_blank">Buy Here</a></li>
                         <li><strong>Total Quantity:</strong> ${totalQuantity} g</li>
                         <li><strong>Current Quantity:</strong> ${currentQuantity} g</li>
@@ -142,3 +142,12 @@ function filterMaterials() {
 
 // Load the materials on page load
 loadMaterials('./collections.json');
+
+function toggleSidebar() {
+    const sidebar = document.getElementById('sidebar');
+    sidebar.classList.toggle('active');
+    const isActive = sidebar.classList.contains('active');
+
+    // Toggle sidebar state
+    document.body.style.overflow = isActive ? 'hidden' : 'auto'; // Prevent scrolling when sidebar is active
+}

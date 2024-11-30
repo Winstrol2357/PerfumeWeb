@@ -80,3 +80,14 @@ function toggleMaterial(index) {
     materialItem.classList.toggle('active');
 }
 
+function toggleSidebar() {
+    const sidebar = document.getElementById('sidebar');
+    sidebar.classList.toggle('active');
+    const isActive = sidebar.classList.contains('active');
+
+    // Toggle sidebar state
+    document.body.style.overflow = isActive ? 'hidden' : 'auto'; // Prevent scrolling when sidebar is active
+}
+
+
+

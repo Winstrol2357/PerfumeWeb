@@ -192,5 +192,25 @@
                 "percentage": "100.0"
             }
         ]
+    },
+    {
+        "name": "garlic",
+        "ingredient_count": 2,
+        "desired_quantity": "10g",
+        "date": "2024-11-28",
+        "materials": [
+            {
+                "material": "garlic oil",
+                "parts": 100,
+                "grams": "1.000",
+                "percentage": "10.0"
+            },
+            {
+                "material": "orange",
+                "parts": 100,
+                "grams": "1.000",
+                "percentage": "10.0"
+            }
+        ]
     }
 ]

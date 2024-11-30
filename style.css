@@ -1,9 +1,6 @@
-html, body, div, h1, h2, h3, h4, h5, h6, p, a, img, ul, li {
+* {
     margin: 0;
     padding: 0;
-    border: 0;
-    outline: 0;
-    font-family: 'Playfair Display', serif;
     scroll-behavior: smooth;
 }
 
@@ -11,23 +8,6 @@ html::-webkit-scrollbar {
     display: none; 
 }
 
-html, body {
-    margin: 0;
-    padding: 0;
-}
-
-
-header.home {
-    height: 100vh;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    z-index: 10;
-}
 
 .bg-image {
     position: fixed;
@@ -45,23 +25,75 @@ header.home {
 }
 
 
-header .container {
-    margin: 5vh;
+/* Sidebar hidden by default */
+.sidebar {
+    visibility: hidden;
+    position: fixed;
+    top: -100%; /* Start off-screen at the top */
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.3); /* Fullscreen background */
+    backdrop-filter: blur(7px);
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: top 0.4s ease;
+}
+/* Sidebar visible */
+.sidebar.active {
+    visibility: visible;
+    opacity: 1;
+    top: 0; /* Slide into view */
+    transition: top 0.4s ease; /* Smooth transition */
+}
+
+header {
+    display: flex;
+    align-items: center; /* Align items (logo and nav) vertically */
+    justify-content: space-between; /* Space between logo and nav */
+    padding: 0px 0px 0px 20px; /* Adjust padding as needed */
+    height: auto;
+}
+
+header nav {
+    padding: 50px 0px 0px 0px;
+}
+
+header a:first-child {
+    z-index: 999;
+}
+
+.hometext {
+    width: 40%;
+    font-size: clamp(1rem, 2vw, 1.5rem);
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    word-spacing: 5px;
+    color: #ffffff;
+    position: absolute;
+    top: 42%; 
+    left: 30%; 
+    transform: translate(-50%, -50%);
+    z-index: 2; 
+    line-height: 1.4;
 }
 
 #main-navigation {
     display: flex;
-    justify-content: center;
+    align-items: center; /* Align nav items vertically */
+    flex-grow: 1; /* Take up remaining space */
+    justify-content: center; /* Align nav items to the right */
     font-weight: bold;
-    position: relative;
-    z-index: 11;
+    z-index: 2;
 }
 
 #main-navigation ul {
     display: flex;
+    gap: 15px; /* Spacing between nav links */
     list-style: none;
+    margin: 0;
     padding: 0;
-    gap: 15px;
 }
 
 #main-navigation li a {
@@ -78,13 +110,22 @@ header .container {
     background-color: rgba(255, 255, 255, 0.2); 
 }
 
+
+
 .text-container {
-    position: relative; 
+    position: absolute;
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     text-align: center;
-    margin: 16vh;
+    z-index: 1;
+    font-family: 'Playfair Display', serif;
+
+    /* Centering */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -55%);
 }
 
 .background-image {
@@ -96,20 +137,6 @@ header .container {
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);
     position: relative;
     z-index: 1;
-}
-
-header h1 {
-    font-size: 1.55rem;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    word-spacing: 10px;
-    color: #ffffff;
-    position: absolute;
-    top: 48%; 
-    left: 26.3%; 
-    transform: translate(-50%, -50%);
-    z-index: 2; 
-
 }
 
 #searchBox {
@@ -545,8 +572,7 @@ header h1 {
     bottom: 40px;
     right: 50px;
     pointer-events: auto;
-    z-index: 200;
-
+    z-index: 1;
     text-decoration: none;
     text-align: center;
     line-height: 50px;
@@ -562,96 +588,76 @@ header h1 {
     border: 3px solid #ccc;
 }
 
-.logo {
+.logo-icon {
     position: absolute;
-    width: 150px;
-    height: auto;
-    top: 42px;
-    left: 100px;
-    pointer-events: auto;
-    z-index: 200;
-    border-radius: 10px;
-    padding: 5px;
-    border: 1px solid rgb(0, 0, 0, 0);
-    transition: opacity 0.2s ease;
+    width: 80px; /* Adjust size as needed */
+    height: auto; /* Maintain aspect ratio */
+    fill: white; /* Set logo color to white */
+    left: 10vh;
 }
 
-.logo:hover {
+.logo-icon:hover {
     opacity: 0.5;
 }
 
-/* Adjust styles for screens narrower than 768px (tablet and smaller) */
-@media (max-width: 768px) {
-    header.home {
-        height: auto; /* Allow header to adjust height dynamically */
-    }
-
-    .background-image {
-        width: 100%; /* Adjust image to fit within screen */
-        height: auto;
-    }
-
-    header h1 {
-        font-size: 1.2rem; /* Reduce font size for smaller screens */
-        left: 50%; /* Center the text */
-    }
-
-    #main-navigation ul {
-        flex-direction: column; /* Stack navigation links vertically */
-        gap: 10px;
-    }
-
-    #main-navigation li a {
-        font-size: 1.2rem; /* Adjust font size for navigation links */
-        padding: 8px 10px;
-    }
-
-    .text-container {
-        margin: 10vh 5%; /* Add padding to avoid edge clipping */
-    }
-
-    .materials {
-        width: 90%; /* Reduce width for smaller screens */
-        padding: 15px;
-    }
-
-  
-
-    .material-content img {
-        max-width: 100%; /* Ensure images fit within container */
-        float: none; /* Remove float for better stacking */
-        margin: 10px auto;
-        display: block;
-    }
-
-    .material-header {
-        font-size: 18px; /* Adjust header font size */
-    }
+#logo {
+    display: flex;
+    top: 500px;
+    left: 100px;
 }
+
+
+#hamburger-menu {
+    display: none;
+}
+
+
+
+.ham {
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+    transition: transform 400ms;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .hamRotate.active {
+    transform: rotate(45deg);
+  }
+
+  .hamRotate180.active {
+    transform: rotate(180deg);
+  }
+
+  .line {
+    fill:none;
+    transition: stroke-dasharray 400ms, stroke-dashoffset 400ms;
+    stroke:rgb(255, 255, 255, 0.9);
+    stroke-width:5.5;
+    stroke-linecap:round;
+  }
+
+  .ham4 .top {
+    stroke-dasharray: 40 121;
+  }
+
+  .ham4 .bottom {
+    stroke-dasharray: 40 121;
+  }
+
+  .ham4.active .top {
+    stroke-dashoffset: -68px;
+  }
+
+  .ham4.active .bottom {
+    stroke-dashoffset: -68px;
+  }
+
 
 /* Adjust styles for screens narrower than 480px (mobile) */
 @media (max-width: 480px) {
-    header {
-        position: relative;
-        width: 100%;
-        height: 100vh; /* Full viewport height */
-    }
-
-    header h1 {
-        font-size: 1.2rem; /* Font size */
-        text-transform: uppercase; /* Uppercase text */
-        color: #ffffff; /* Text color */
-        position: absolute; /* Absolute positioning */
-        top: 40%; /* Vertical position */
-        left: 20%; /* Horizontal position */
-        transform: translate(-30%, -40%); /* Adjust positioning relative to the element's size */
-        width: 40%; /* Set a maximum width to allow wrapping */
-        text-align: center; /* Center-align the text */
-        white-space: normal; /* Allow text to wrap onto the next line */
-        word-wrap: break-word; /* Break long words if necessary */
-        letter-spacing: 3px;
-        word-spacing: 15px;
-    }
     
 
     .materials {
@@ -669,15 +675,6 @@ header h1 {
         font-size: 18px;
     }
 
-    .logo {
-        position: absolute; /* Or fixed if you want it to stay centered during scrolling */
-        top: 50px; /* Move down to 50% of the viewport height */
-        left: 50%; /* Move right to 50% of the viewport width */
-        transform: translate(-50%, -50%); /* Offset by half the logo's size */
-        width: 150px; /* Set the logo size (adjust as needed) */
-        height: auto; /* Maintain the aspect ratio */
-        z-index: 200; /* Ensure it stays on top of other elements */
-    }
     
 
     
@@ -720,42 +717,6 @@ header h1 {
     .gotop:hover {
         color: #333;
         border: 3px solid #333;
-    }
-
-    #addMaterialButton {
-        display: none;
-    }
-
-    #main-navigation {
-        display: flex; /* Flexbox layout for navigation */
-        font-weight: bold;
-        z-index: 11;
-        top: 50px;
-    }
-
-    #main-navigation ul {
-        display: flex; /* Flexbox layout */
-        flex-direction: column; /* Ensure items are in a row */
-        flex-wrap: wrap; /* Allow items to wrap if they overflow */
-        justify-content: center; /* Center-align navigation items */
-        align-items: center;
-        list-style: none; /* Remove bullets */
-        padding: 0;
-        gap: 15px; /* Adjust spacing between buttons */
-        
-    }
-
-    #main-navigation li a {
-        font-size: 1.3rem; /* Reduce font size for small screens */
-        padding: 5px 8px; /* Reduce padding */
-        border-radius: 5px; /* Keep smooth edges */
-        text-decoration: none; /* Clean button appearance */
-        color: white; /* Button text color */
-        background-color: transparent; /* Optional: Add a background color if needed */
-        text-shadow: 1.5px 1.5px 1px rgba(0, 0, 0, 0.8);
-
-
-
     }
 
     .overlay-container {
@@ -803,6 +764,8 @@ header h1 {
         display: block;
         justify-content: center;
         margin-bottom: 25px;
+        font-size: 14px;
+        margin-bottom: 5px;
     }
 
     .progress-bar {
@@ -825,10 +788,7 @@ header h1 {
         width: 82%;
     }
 
-    header h1 {
-        font-size: 1rem; /* Font size */
-        top: 35%;
-    }
+    
 
     .materials button {
         margin: 0px 0px 0px 5px;
@@ -838,3 +798,93 @@ header h1 {
         margin-bottom: 25px;
     }
 }
+
+@media (max-width: 800px) {
+
+    .sidebar {
+        width: 100%;
+    }
+    
+    .sidebar a {
+        text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.9);
+    }
+
+    .logo-icon {
+        left: 5vh;
+        top: 6vh;
+        width: 70px;
+    }
+
+    #hamburger-menu {
+        position: absolute;
+        right: 5vh;
+        top: 5vh;
+        display: flex;
+    }
+
+    #hamburger-close {
+        position: fixed;
+        transform: translateY(-41vh);
+        right: 40px;
+    }
+
+    .hideOnMobile {
+        display: none; /* Hide menu items */
+    }  
+
+    .background-image {
+        width: 100%; /* Adjust image to fit within screen */
+        height: auto;
+    }
+
+    #main-navigation {
+        justify-content: flex-start; /* Align nav to the left */
+    }
+    
+    #main-navigation ul {
+        flex-direction: column; /* Stack navigation links vertically */
+        gap: 40px;
+    }
+
+    #main-navigation li a:hover {
+        background-color: transparent; 
+    }
+
+
+    .text-container {
+        position: absolute; /* Resets positioning */
+        top: auto;       /* Remove top positioning */
+        left: auto;      /* Remove left positioning */
+        transform: none;
+        margin: 5%; /* Add padding to avoid edge clipping */
+        margin-top: 20vh;
+    }
+
+    .materials {
+        width: 90%; /* Reduce width for smaller screens */
+        padding: 15px;    
+    }
+
+    .material-content img {
+        max-width: 100%; /* Ensure images fit within container */
+        float: none; /* Remove float for better stacking */
+        margin: 10px auto;
+        display: block;
+    }
+
+    .material-header {
+        font-size: 18px; /* Adjust header font size */
+    }
+
+    #addMaterialButton {
+        display: none;
+    }
+
+    .gotop:hover {
+        color: inherit; /* Reset to default color */
+        border: 3px solid #333; /* Reset to default border */
+    }
+
+}
+   
+

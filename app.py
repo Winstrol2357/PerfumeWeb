@@ -17,16 +17,20 @@ def add_material():
     # Lock to prevent concurrent write issues
     lock.acquire()
 
+    print(data)
     # {'type': 'x', 'value': 3} -> {'value': 3}
     form_type = data.pop('type')
 
-    data['blends_well_with'] = data['blends_well_with'].split(', ')
+    if form_type in ['naturals', 'synthetics']:
+        data['blends_well_with'] = data['blends_well_with'].split(', ')
 
     file_path = None
     if form_type == 'naturals':
         file_path = 'naturals.json' 
     elif form_type == 'synthetics':
         file_path = 'synthetics.json'
+    elif form_type == 'collection':
+        file_path = 'collections.json'
     else:
         return jsonify({'message': f'Error: {form_type}'}), 400
 

@@ -212,5 +212,37 @@
                 "percentage": "10.0"
             }
         ]
+    },
+    {
+        "name": "Unnamed Formula",
+        "ingredient_count": 4,
+        "desired_quantity": "10g",
+        "date": "2024-12-01",
+        "materials": [
+            {
+                "material": "asd3",
+                "parts": 456,
+                "grams": "4.560",
+                "percentage": "45.6"
+            },
+            {
+                "material": "Bergamot essence PCT 50",
+                "parts": 290,
+                "grams": "2.900",
+                "percentage": "29.0"
+            },
+            {
+                "material": "asd",
+                "parts": 154,
+                "grams": "1.540",
+                "percentage": "15.4"
+            },
+            {
+                "material": "a9",
+                "parts": 100,
+                "grams": "1.000",
+                "percentage": "10.0"
+            }
+        ]
     }
 ]

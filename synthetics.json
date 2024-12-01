@@ -1,21 +1,32 @@
 [
     {
-        "name": "Benzoin Sumatra",
-        "picture": "https://vanaroma.sgp1.digitaloceanspaces.com/new_website/images/botanical-source/Drying.jpg",
-        "background_info": "Sumatra Benzoin is a natural balsamic resin, exuded from a small tree, Styrax Benzoin, grown extensively in Sumatra and Malaya. Incisions are made in the trunks either through the bark or after peeling off spots of bark, and a viscous balsamic substance is produced as a pathologic material in the trunk. The substance flows out and solidifies on making contact with the air. The gum-resin is collected from the incisions and from the bottom of the trunk at the foot of the tree where significant quantities of benzoin accumulates. There are several grades of Sumatra Benzoin. The \u201cAlmond\u201d grade is considered the most suitable for perfumery purposes. It consists mainly of white or cream-colored brittle pieces, somewhat resembling almonds. This quality obviously yields a very pale-colored resinoid or tincture. It contains about 90% alcohol-soluble matter, occasionally more. Other grades of Sumatra Benzoin are solid masses, dark blocks of gray or brown-gray, uneven lumps containing more or less quantities of dirt, sand, wood splinters, etc. Benzoin Sumatra is a low-cost and readily available raw material, extensively used as a replacement for Siam Benzoin which is far more expensive. From a perfumer\u2019s point of view, however, the two benzoins should be considered as two different products. One can not substitute for the other. Siam Benzoin will find application in the more delicate fragrances. ",
+        "name": "Abietic acid",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Abietic_acid.svg",
+        "background_info": "The pure material is almost white, crystalline\nplates or powder. M.P. 174-182\u201d C.\nLower grade commercial material is usually\noff-white or pale straw-colored, granular\ncrystals or conglomerated mass with much\nlower melting point.\nInsoluble in water, soluble in alcohol and\noils. Also soluble in aqueous solution of\nSodium hydroxide.\nThe pure material is virtually odorless. The\nmmmercial material has a faint, pleasantresinous\nodor.\nAbietic acid is slightly bitter at concentrations\nof more than 50 ppm. It is also the natural source and parent of\nseveral solvent-fixatives, used in perfumery:\nAbitol, Methyl abietate (Abalyn) and hydrogenated\nMethyl abietate (Hercolyn).\nRosin, the natural material, is occasionally\nused as a fixative in Pine and other fragrance\ntypes. It is inexpensive and has at times been\npopular in certain types of soap perfume.\nCertain derivatives of Abietic acid are used\nas emulsifiers and \u201ccloudificators\u201d in carbonated\nbeverages - to give visual impression of\nfruit juice content in beverages made with\nlittle or no \u201ccloudy\u201d natural juice. \u201cCloudy\u201d\nOrange sodas are popular in certain countries.\nProd. : by distillation of Rosin (from\nAmerican Turpentine, e. g.) or by treatment\nwith acid to isomenze the natural Levopimaric\nacid. Purification over the Diamylammonium\nsalt.",
         "usage": "-",
         "blends_well_with": [
             "-"
-        ]
+        ],
+        "additional_info": "Ambergris odor"
     },
     {
-        "name": "asd",
-        "picture": "asd",
-        "background_info": "asdas",
-        "usage": "dasd",
+        "name": "Abitol",
+        "picture": "https://www.chemicalbook.com/CAS/GIF/26266-77-3.gif",
+        "background_info": "Hydroabietyl alcohol (technical grade).\nA primary monohydric alcohol consisting of\napproximately:\n38% Tetrahydro abietyl alcohol (1)\n34% Dihydro abietyl alcohol (2)\n13% Dehydro abietyl alcohol (3)\n15% Non-alcoholic components. Colorless tacky-viscous liquid, non-pourable\nroom temperature. Sp.Gr. = 1.01.\nInsoluble in water, miscible with alcohol,\ntcrpenes, essential oils and most perfume\nchemicals.\nVery faint, woody and slightly piney odor.\nIntermittent heating may cause an increase in\nthe odor level,\nExcellent fixative for low-cost fragrances of\npine, wood, foug~re, new-mown-hay and other\ntypes. For industrial fragrances, household\nand soap perfumes, etc.\nProduced from hydrogenated rosin acids.",
+        "usage": "-",
         "blends_well_with": [
-            "asd"
+            "-"
         ],
-        "additional_info": "asd"
+        "additional_info": "Ambergris odor"
+    },
+    {
+        "name": "Ambrein",
+        "picture": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=12305858&t=l",
+        "background_info": "A tnterpenoid Ierfiary-alcohol.\nDo not confuse with the \u201cAmbrain\u201d derived\nfrom Labdanum gum. The title material is briefly mentioned in this\nwork, beause it represents a milestone in the\nperfume chemistry research (connected with\nVitamin- and Hormone-research), It may also\nserve to further elucidate monographs and\nmaterials as mentioned under the title:\nSclareol or under the monograph: Abietic\nacid.\nArnbrein is an odorless solid material, but\nit is a parent of numerous very important\nAmbregris perfume materials, including those\nproduced in Nature.\nOxidation products of Ambrein have been\nmanufactured, and thus opened the door to partial synthesis of the Ambregris odor. One\ncommercial product (Am brone T or Ambrone\nclair, Takasago Perfumery Co. Ltd., Japan)\nis manufactured by way of ozonolysis of odorless\nAmbrein and concentration of the odorous,\nvolatile oxidation products.\nSince natural Ambregris contains substantial\namounts of odorless Ambrein, the ozonolysis\nmethod leads to an increased \u201cyield\u201d of\nperfume~ grade odorous Ambregris material.\nMother Nature\u2019s incomplete synthesis has\nbeen helped to completion by man.\nAmong the odorous derivatives from Ambrein\nare:\nAmbrenolide (Lactones C16H2HOZ), Decalinderivatives. Ambnnols - liquid or solid, rerriary-alcohols\n(Octalin-derivatives).\nCyclo homogeraniol and related materials.\nDihydro-gumma-ionone.\nCyclopropan derivatives.\nVarious epoxides and aldehydes.",
+        "usage": "-",
+        "blends_well_with": [
+            "-"
+        ],
+        "additional_info": "Ambergris odor"
     }
 ]
